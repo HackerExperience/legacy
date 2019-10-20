@@ -18,7 +18,7 @@ The closest I have to a documentation can be found at the `info/` folder. Keep i
 
 This is the exact same code that powered Legacy, except for a few hard-coded passwords and API keys that were replaced with the `REDACTED` strings. I also removed images.
 
-I did a quick code-review and added some comments that might help you understand the code. I also added translations to comments in Portuguese (except for the ones I had no idea what I wrote). All my comments are prefixed with `2019: `.
+I did a quick code-review and added some comments that might help you understand the code. I also added translations to comments in Portuguese (except for the ones I had no idea what I wrote originally). All my comments are prefixed with `2019: `.
 
 ## Setup
 
@@ -32,7 +32,7 @@ Make sure to scan the code for the words `REDACTED` and `2019`. `REDACTED` will 
 
 Legacy is published under the MIT license, as described in the `LICENSE` file. You can run your own private game server and display ads or charge money however you like, with no ties to me and/or Neoart Labs.
 
-The MIT license does not give you the right to use the brand Hacker Experience commercially, which is a registered trademark. In other words, please do not name your game server "Hacker Experience Continued" or anything like that. [Fair usage](https://support.google.com/legal/answer/4558992?hl=en) is ok.
+The MIT license does not give you the right to use the brand Hacker Experience commercially, which is a registered trademark. In other words, please do not name your game server "Hacker Experience Continued" or anything like that. As always, [fair usage](https://support.google.com/legal/answer/4558992?hl=en), like mentioning it's based on Legacy, is OK.
 
 ## Images
 
@@ -44,7 +44,7 @@ Most of the game icons were from the amazing [famfamfam](http://www.famfamfam.co
 
 The original Legacy had a credits section at the bottom of the page, which is included in the source code. Please make sure to update it accordingly.
 
-Please make sure to remove any comment or phrase that could be understood as an endorsement from myself or Neoart labs.
+Please make sure to remove any comment or phrase that could be understood as an endorsement from myself or Neoart Labs.
 
 ## Affiliation disclaimer
 
