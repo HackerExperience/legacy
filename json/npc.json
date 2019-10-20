@@ -1,0 +1,1718 @@
+{
+  "WHOIS": {
+    "1": {
+      "name": {
+        "en": "First Whois",
+        "pt": "Primeiro Whois"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 20000,
+        "ram": 2048,
+        "net": 20
+      },
+      "ip": "1.2.3.4",
+      "web": {
+        "en": "Welcome to the First Whois server. Enjoy our services!<ul class=\"whois\"><li><a href=\"internet?ip=::DC/ip::\"><span \nclass=\"item\">::DC/ip::</span> - <span \nclass=\"whois-member\">::DC/name::</span></a></li><li><a href=\"internet?ip=::TORRENT/ip::\"><span \nclass=\"item\">::TORRENT/ip::</span> - <span \nclass=\"whois-member\">::TORRENT/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/1/ip::\"><span \nclass=\"item\">::PUZZLE/1/ip::</span> - <span \nclass=\"whois-member\">::PUZZLE/1/name::</span></a></li><li><a href=\"internet?ip=::BANK/1/ip::\"><span class=\"item\">::BANK/1/ip::</span> - <span class=\"whois-member\">::BANK/1/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL1/1/ip::\"><span class=\"item\">::HIRER/LEVEL1/1/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL1/1/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL1/2/ip::\"><span class=\"item\">::HIRER/LEVEL1/2/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL1/2/name::</span></a></li><li><a href=\"internet?ip=::SAFENET/ip::\"><span \nclass=\"item\">::SAFENET/ip::</span> - <span \nclass=\"whois-member\">::SAFENET/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL1/4/ip::\"><span class=\"item\">::HIRER/LEVEL1/4/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL1/4/name::</span></a></li></ul>Trending Sites:<ul class=\"whois\"><li><a href=\"internet?ip=::ISP/ip::\"><span class=\"item\">::ISP/ip::</span> - <span class=\"whois-member\">::ISP/name::</span></a></li><li><a href=\"internet?ip=::NSA/ip::\"><span class=\"item\">::NSA/ip::</span> - <span class=\"whois-member\">::NSA/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/5/ip::\"><span \nclass=\"item\">::PUZZLE/5/ip::</span> - <span \nclass=\"whois-member\">::PUZZLE/5/name::</span></a></li></ul>",
+        "pt": "Bem-vindo ao primeiro whois!<ul class=\"whois\"><li><a href=\"internet?ip=::DC/ip::\"><span \nclass=\"item\">::DC/ip::</span> - <span \nclass=\"whois-member\">::DC/name::</span></a></li><li><a href=\"internet?ip=::TORRENT/ip::\"><span \nclass=\"item\">::TORRENT/ip::</span> - <span \nclass=\"whois-member\">::TORRENT/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/1/ip::\"><span \nclass=\"item\">::PUZZLE/1/ip::</span> - <span \nclass=\"whois-member\">::PUZZLE/1/name::</span></a></li><li><a href=\"internet?ip=::BANK/1/ip::\"><span class=\"item\">::BANK/1/ip::</span> - <span class=\"whois-member\">::BANK/1/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL1/1/ip::\"><span class=\"item\">::HIRER/LEVEL1/1/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL1/1/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL1/2/ip::\"><span class=\"item\">::HIRER/LEVEL1/2/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL1/2/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL1/4/ip::\"><span class=\"item\">::HIRER/LEVEL1/4/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL1/4/name::</span></a></li></ul>Trending Sites:<ul class=\"whois\"><li><a href=\"internet?ip=::ISP/ip::\"><span class=\"item\">::ISP/ip::</span> - <span class=\"whois-member\">::ISP/name::</span></a></li><li><a href=\"internet?ip=::NSA/ip::\"><span class=\"item\">::NSA/ip::</span> - <span class=\"whois-member\">::NSA/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/5/ip::\"><span \nclass=\"item\">::PUZZLE/5/ip::</span> - <span \nclass=\"whois-member\">::PUZZLE/5/name::</span></a></li></ul>"
+      }
+    },
+    "2": {
+      "name": {
+        "en": "Second Whois",
+        "pt": "Segundo Whois"
+      },
+      "hardware": {
+        "cpu": 4000,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "Second Whois, INC.<ul class=\"whois\"><li><a href=\"internet?ip=::BANK/2/ip::\"><span class=\"item\">::BANK/2/ip::</span> - <span class=\"whois-member\">::BANK/2/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/15/ip::\"><span class=\"item\">::PUZZLE/15/ip::</span> - <span class=\"whois-member\">::PUZZLE/15/name::</span></a></li><li><a href=\"internet?ip=::BANK/3/ip::\"><span class=\"item\">::BANK/3/ip::</span> - <span class=\"whois-member\">::BANK/3/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/22/ip::\"><span class=\"item\">::PUZZLE/22/ip::</span> - <span class=\"whois-member\">::PUZZLE/22/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/11/ip::\"><span class=\"item\">::PUZZLE/11/ip::</span> - <span class=\"whois-member\">::PUZZLE/11/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL2/1/ip::\"><span class=\"item\">::HIRER/LEVEL2/1/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL2/1/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL2/4/ip::\"><span class=\"item\">::HIRER/LEVEL2/4/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL2/4/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL1/11/ip::\"><span class=\"item\">::HIRER/LEVEL1/11/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL1/11/name::</span></a></li></ul>",
+        "pt": "Second Whois, LTDA.<ul class=\"whois\"><li><a href=\"internet?ip=::BANK/2/ip::\"><span class=\"item\">::BANK/2/ip::</span> - <span class=\"whois-member\">::BANK/2/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/15/ip::\"><span class=\"item\">::PUZZLE/15/ip::</span> - <span class=\"whois-member\">::PUZZLE/15/name::</span></a></li><li><a href=\"internet?ip=::BANK/3/ip::\"><span class=\"item\">::BANK/3/ip::</span> - <span class=\"whois-member\">::BANK/3/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/22/ip::\"><span class=\"item\">::PUZZLE/22/ip::</span> - <span class=\"whois-member\">::PUZZLE/22/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/11/ip::\"><span class=\"item\">::PUZZLE/11/ip::</span> - <span class=\"whois-member\">::PUZZLE/11/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL2/1/ip::\"><span class=\"item\">::HIRER/LEVEL2/1/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL2/1/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL2/4/ip::\"><span class=\"item\">::HIRER/LEVEL2/4/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL2/4/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL1/11/ip::\"><span class=\"item\">::HIRER/LEVEL1/11/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL1/11/name::</span></a></li></ul>"
+      }
+    },
+    "3": {
+      "name": {
+        "en": "Third Whois",
+        "pt": "Terceiro Whois"
+      },
+      "hardware": {
+        "cpu": 4000,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 50
+      },
+      "web": {
+        "en": "Third Whois<ul class=\"whois\"><li><a href=\"internet?ip=::BANK/4/ip::\"><span class=\"item\">::BANK/4/ip::</span> - <span class=\"whois-member\">::BANK/4/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/35/ip::\"><span class=\"item\">::PUZZLE/35/ip::</span> - <span class=\"whois-member\">::PUZZLE/35/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/28/ip::\"><span class=\"item\">::PUZZLE/28/ip::</span> - <span class=\"whois-member\">::PUZZLE/28/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL3/6/ip::\"><span class=\"item\">::HIRER/LEVEL3/6/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL3/6/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL3/9/ip::\"><span class=\"item\">::HIRER/LEVEL3/9/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL3/9/name::</span></a></li><li><a href=\"internet?ip=::BITCOIN/ip::\"><span class=\"item\">::BITCOIN/ip::</span> - <span class=\"whois-member\">::BITCOIN/name::</span></a></li><li><a href=\"internet?ip=::FBI/ip::\"><span class=\"item\">::FBI/ip::</span> - <span class=\"whois-member\">::FBI/name::</span></a></li></ul>",
+        "pt": "Terceiro Whois<ul class=\"whois\"><li><a href=\"internet?ip=::BANK/4/ip::\"><span class=\"item\">::BANK/4/ip::</span> - <span class=\"whois-member\">::BANK/4/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/35/ip::\"><span class=\"item\">::PUZZLE/35/ip::</span> - <span class=\"whois-member\">::PUZZLE/35/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/28/ip::\"><span class=\"item\">::PUZZLE/28/ip::</span> - <span class=\"whois-member\">::PUZZLE/28/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL3/6/ip::\"><span class=\"item\">::HIRER/LEVEL3/6/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL3/6/name::</span></a></li><li><a href=\"internet?ip=::HIRER/LEVEL3/9/ip::\"><span class=\"item\">::HIRER/LEVEL3/9/ip::</span> - <span class=\"whois-member\">::HIRER/LEVEL3/9/name::</span></a></li><li><a href=\"internet?ip=::BITCOIN/ip::\"><span class=\"item\">::BITCOIN/ip::</span> - <span class=\"whois-member\">::BITCOIN/name::</span></a></li><li><a href=\"internet?ip=::FBI/ip::\"><span class=\"item\">::FBI/ip::</span> - <span class=\"whois-member\">::FBI/name::</span></a></li></ul>"
+      }
+    },
+    "4": {
+      "name": {
+        "en": "Fourth Whois",
+        "pt": "Quarto Whois"
+      },
+      "hardware": {
+        "cpu": 4000,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 100
+      },
+      "web": {
+        "en": "Fourth Whois<ul class=\"whois\"><li><a href=\"internet?ip=::BANK/5/ip::\"><span class=\"item\">::BANK/5/ip::</span> - <span class=\"whois-member\">::BANK/5/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/47/ip::\"><span class=\"item\">::PUZZLE/47/ip::</span> - <span class=\"whois-member\">::PUZZLE/47/name::</span></a></li><li><a href=\"internet?ip=::MD/ip::\"><span class=\"item\">::MD/ip::</span> - <span class=\"whois-member\">::MD/name::</span></a></li><li><a href=\"internet?ip=::EVILCORP/ip::\"><span class=\"item\">::EVILCORP/ip::</span> - <span class=\"whois-member\">::EVILCORP/name::</span></a></li><li><a href=\"internet?ip=::NSA/ip::\"><span class=\"item\">::NSA/ip::</span> - <span class=\"whois-member\">::NSA/name::</span></a></li></ul>",
+        "pt": "Quarto Whois<ul class=\"whois\"><li><a href=\"internet?ip=::BANK/5/ip::\"><span class=\"item\">::BANK/5/ip::</span> - <span class=\"whois-member\">::BANK/5/name::</span></a></li><li><a href=\"internet?ip=::PUZZLE/47/ip::\"><span class=\"item\">::PUZZLE/47/ip::</span> - <span class=\"whois-member\">::PUZZLE/47/name::</span></a></li><li><a href=\"internet?ip=::MD/ip::\"><span class=\"item\">::MD/ip::</span> - <span class=\"whois-member\">::MD/name::</span></a></li><li><a href=\"internet?ip=::EVILCORP/ip::\"><span class=\"item\">::EVILCORP/ip::</span> - <span class=\"whois-member\">::EVILCORP/name::</span></a></li><li><a href=\"internet?ip=::NSA/ip::\"><span class=\"item\">::NSA/ip::</span> - <span class=\"whois-member\">::NSA/name::</span></a></li></ul>"
+      }
+    },
+    "type": 2
+  },
+  "BANK": {
+    "1": {
+      "name": {
+        "en": "First International Bank",
+        "pt": "Primeiro Banco Internacional"
+      },
+      "hardware": {
+        "cpu": 2000,
+        "hdd": 20000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "Welcome to the <strong>First International Bank</strong>.<br/><br/>We have a very modest defense, but at least you didn't have to pay for an account.<br/><br/><a href=\"internet?action=login&type=bank\">Login to your account</a>.",
+        "pt": "Bem-vindo ao <strong>Primeiro Banco Internacional</strong>.<br/><br/>Nós temos uma proteção muito modesta, mas pelo menos você não teve que pagar por sua conta.<br/><br/><a href=\"internet?action=login&type=bank\">Login to your account</a>."
+      }
+    },
+    "2": {
+      "name": {
+        "en": "HEBC",
+        "pt": "HEBC"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 20000,
+        "ram": 1024,
+        "net": 15
+      },
+      "web": {
+        "en": "<div class=\"center\">Welcome to <strong>HEBC</strong>.<br/><a href=\"internet?action=login&type=bank\">Login</a><br/><br/><img src=\"images/npc/hebc.jpg\"></div>",
+        "pt": "<div class=\"center\">Bem-vindo ao <strong>HEBC</strong>.<br/><a href=\"internet?action=login&type=bank\">Entrar</a><br/><br/><img src=\"images/npc/hebc.jpg\"></div>"
+      }
+    },
+    "3": {
+      "name": {
+        "en": "American Expense",
+        "pt": "American Expense"
+      },
+      "hardware": {
+        "cpu": 3000,
+        "hdd": 40000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "<div class=\"center\">Welcome to <strong>American Expense</strong>.<br/><a href=\"internet?action=login&type=bank\">Login</a><br/><br/><img src=\"images/npc/american-expense.jpg\"></div>",
+        "pt": "<div class=\"center\">Bem-vindo ao <strong>American Expense</strong>.<br/><a href=\"internet?action=login&type=bank\">Entrar</a><br/><br/><img src=\"images/npc/american-expense.jpg\"></div>"
+      }
+    },
+    "4": {
+      "name": {
+        "en": "Swiss International Bank",
+        "pt": "Banco Suíço Internacional"
+      },
+      "hardware": {
+        "cpu": 4000,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "<div class=\"center\">Welcome to <strong>Swiss International Bank</strong>.<br/><a href=\"internet?action=login&type=bank\">Offshore account login</a><br/><br/><img src=\"images/npc/swiss.svg\"></div>",
+        "pt": "<div class=\"center\">Bem-vindo ao <strong>Banco Suíço Internacional</strong>.<br/><a href=\"internet?action=login&type=bank\">Entrar na sua conta</a><br/><br/><img src=\"images/npc/swiss.svg\"></div>"
+      }
+    },
+    "5": {
+      "name": {
+        "en": "Ultimate Bank",
+        "pt": "Banco Ultimate"
+      },
+      "hardware": {
+        "cpu": 6000,
+        "hdd": 20000,
+        "ram": 2048,
+        "net": 100
+      },
+      "web": {
+        "en": "Welcome to the <strong>Ultimate Bank</strong>.<br/><br/>Safety matters! You won't find a safer bank.<br/><br/><a href=\"internet?action=login&type=bank\">Login now</a>",
+        "pt": "Bem-vindo ao <strong>Banco Ultimate/strong>.<br/><br/>Segurança importa! Você não vai encontrar um banco mais seguro.<br/><br/><a href=\"internet?action=login&type=bank\">Entrar</a>"
+      }
+    },
+    "type": 1
+  },
+  "ISP": {
+    "type": 5,
+    "name": {
+      "en": "ISP - Internet Service Provider",
+      "pt": "ISP - Provedor de Serviços"
+    },
+    "hardware": {
+      "cpu": 2000,
+      "hdd": 10000,
+      "ram": 1024,
+      "net": 200
+    },
+    "web": {
+      "en": "",
+      "pt": ""
+    }
+  },
+  "MD": {
+    "type": 20,
+    "name": {
+      "en": "Geek Pride Labs",
+      "pt": "Geek Pride Labs"
+    },
+    "hardware": {
+      "cpu": 4000,
+      "hdd": 50000,
+      "ram": 2048,
+      "net": 100
+    },
+    "web": {
+      "en": "",
+      "pt": ""
+    }
+  },
+  "EVILCORP": {
+    "type": 30,
+    "name": {
+      "en": "Numataka Corp",
+      "pt": "Numataka Corp"
+    },
+    "hardware": {
+      "cpu": 4000,
+      "hdd": 50000,
+      "ram": 2048,
+      "net": 75
+    },
+    "web": {
+      "en": "",
+      "pt": ""
+    }
+  },
+  "SAFENET": {
+    "type": 50,
+    "name": {
+      "en": "Safenet",
+      "pt": "Safenet"
+    },
+    "hardware": {
+      "cpu": 4000,
+      "hdd": 20000,
+      "ram": 1024,
+      "net": 10
+    },
+    "web": {
+      "en": "",
+      "pt": ""
+    }
+  },
+  "FBI": {
+    "type": 51,
+    "name": {
+      "en": "FBI",
+      "pt": "FBI"
+    },
+    "hardware": {
+      "cpu": 4000,
+      "hdd": 50000,
+      "ram": 2048,
+      "net": 100
+    },
+    "web": {
+      "en": "",
+      "pt": ""
+    }
+  },
+  "NSA": {
+    "type": 52,
+    "name": {
+      "en": "NSA",
+      "pt": "NSA"
+    },
+    "hardware": {
+      "cpu": 8000,
+      "hdd": 50000,
+      "ram": 4096,
+      "net": 1000
+    },
+    "web": {
+      "en": "<div class=\"center\"><img src=\"img/nsa.png\"></div>",
+      "pt": "<div class=\"center\"><img src=\"img/nsa.png\"></div>"
+    }
+  },
+  "BITCOIN": {
+    "type": 40,
+    "name": {
+      "en": "Bitcoin Market",
+      "pt": "Mercado Bitcoin"
+    },
+    "hardware": {
+      "cpu": 8000,
+      "hdd": 50000,
+      "ram": 4096,
+      "net": 1000
+    },
+    "web": {
+      "en": "<span id=\"btc\"></span>",
+      "pt": "<span id=\"btc\"></span>"
+    }
+  },
+  "WHOIS_MEMBER": {
+    "LEVEL1": {
+      "1": {
+        "id": "PUZZLE/1"
+      },
+      "2": {
+        "id": "PUZZLE/2"
+      },
+      "3": {
+        "id": "BANK/1"
+      },
+      "4": {
+        "id": "NPC/1"
+      },
+      "5": {
+        "id": "NPC/2"
+      },
+      "6": {
+        "id": "HIRER/LEVEL1/1"
+      },
+      "7": {
+        "id": "HIRER/LEVEL1/2"
+      },
+      "8": {
+        "id": "NPC/3"
+      },
+      "9": {
+        "id": "ISP"
+      },
+      "10": {
+        "id": "NSA"
+      },
+      "type": 61
+    }
+  },
+  "HIRER": {
+    "LEVEL1": {
+      "1": {
+        "name": {
+          "en": "elgooG",
+          "pt": "elgooG"
+        },
+        "hardware": {
+          "cpu": 1000,
+          "hdd": 5000,
+          "ram": 512,
+          "net": 5
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"elgooG\" title=\"elgooG\" src=\"images/npc/elgoog.png\"><br/><strong>Don't be evil.</strong><br/><span class=\"small\">unless it is profitable.</span></div>",
+          "pt": "<div class=\"center\"><img alt=\"elgooG\" title=\"elgooG\" src=\"images/npc/elgoog.png\"><br/><strong>Don't be evil.</strong><br/><span class=\"small\">a menos que compense.</span></div>"
+        }
+      },
+      "2": {
+        "name": {
+          "en": "Murder King",
+          "pt": "Murder King"
+        },
+        "hardware": {
+          "cpu": 1500,
+          "hdd": 10000,
+          "ram": 1024,
+          "net": 10
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Murder King\" title=\"Murder King\" src=\"images/npc/murderking.jpg\"><br/><br/><span class=\"small\">You'll get it our way.</span></div>",
+          "pt": "<div class=\"center\"><img alt=\"Murder King\" title=\"Murder King\" src=\"images/npc/murderking.jpg\"><br/><br/><span class=\"small\">You'll get it our way.</span></div>"
+        }
+      },
+      "3": {
+        "name": {
+          "en": "Microlost",
+          "pt": "Microlost"
+        },
+        "hardware": {
+          "cpu": 2000,
+          "hdd": 10000,
+          "ram": 1024,
+          "net": 10
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Microlost\" title=\"Microlost\" src=\"images/npc/microlost.jpg\"><br/><br/>Will work for a while.</div>",
+          "pt": "<div class=\"center\"><img alt=\"Microlost\" title=\"Microlost\" src=\"images/npc/microlost.jpg\"><br/><br/>Vai funcionar por um tempo.</div>"
+        }
+      },
+      "4": {
+        "name": {
+          "en": "Pineapple",
+          "pt": "Pineapple"
+        },
+        "hardware": {
+          "cpu": 2500,
+          "hdd": 15000,
+          "ram": 1536,
+          "net": 15
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Pineapple\" title=\"Pineapple\" src=\"images/npc/pineapple.png\"><br/><br/>Appearence Costs <sup>&reg;</sup></div>",
+          "pt": "<div class=\"center\"><img alt=\"Pineapple\" title=\"Pineapple\" src=\"images/npc/pineapple.png\"><br/><br/>Aparência Custa <sup>&reg;</sup></div>"
+        }
+      },
+      "5": {
+        "name": {
+          "en": "Hell Computers",
+          "pt": "Computadores Hell"
+        },
+        "hardware": {
+          "cpu": 2500,
+          "hdd": 15000,
+          "ram": 1536,
+          "net": 15
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Hell Computers\" title=\"Hell Computers\" src=\"images/npc/hell.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Hell Computers\" title=\"Hell Computers\" src=\"images/npc/hell.jpg\"><br/><br/></div>"
+        }
+      },
+      "6": {
+        "name": {
+          "en": "WTF",
+          "pt": "WTF"
+        },
+        "hardware": {
+          "cpu": 3000,
+          "hdd": 20000,
+          "ram": 2048,
+          "net": 20
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"WTF\" title=\"WTF\" src=\"images/npc/wtf.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"WTF\" title=\"WTF\" src=\"images/npc/wtf.jpg\"><br/><br/></div>"
+        }
+      },
+      "7": {
+        "name": {
+          "en": "Stalker",
+          "pt": "Stalker"
+        },
+        "hardware": {
+          "cpu": 3000,
+          "hdd": 20000,
+          "ram": 2048,
+          "net": 20
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Stalker\" title=\"Stalker\" src=\"images/npc/stalker.jpg\"><br/><br/><span class=\"small\">Wasting peoples lives since 2004.</span></div>",
+          "pt": "<div class=\"center\"><img alt=\"Stalker\" title=\"Stalker\" src=\"images/npc/stalker.jpg\"><br/><br/><span class=\"small\">Desperdiçando a vida das pessoas desde 2004.</span></div>"
+        }
+      },
+      "8": {
+        "name": {
+          "en": "GayPal",
+          "pt": "GayPal"
+        },
+        "hardware": {
+          "cpu": 4000,
+          "hdd": 50000,
+          "ram": 2048,
+          "net": 50
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Gaypal\" title=\"Gaypal\" src=\"images/npc/gaypal.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Gaypal\" title=\"Gaypal\" src=\"images/npc/gaypal.jpg\"><br/><br/></div>"
+        }
+      },
+      "9": {
+        "name": {
+          "en": "Noplace",
+          "pt": "Noplace"
+        },
+        "hardware": {
+          "cpu": 4000,
+          "hdd": 50000,
+          "ram": 2048,
+          "net": 50
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Noplace\" title=\"Noplace\" src=\"images/npc/noplace.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Noplace\" title=\"Noplace\" src=\"images/npc/noplace.jpg\"><br/><br/></div>"
+        }
+      },
+      "10": {
+        "name": {
+          "en": "uPay",
+          "pt": "uPay"
+        },
+        "hardware": {
+          "cpu": 4000,
+          "hdd": 50000,
+          "ram": 2048,
+          "net": 50
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"uPay\" title=\"uPay\" src=\"images/npc/upay.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"uPay\" title=\"uPay\" src=\"images/npc/upay.jpg\"><br/><br/></div>"
+        }
+      },
+      "11": {
+        "name": {
+          "en": "McDiabetes",
+          "pt": "McDiabetes"
+        },
+        "hardware": {
+          "cpu": 1000,
+          "hdd": 5000,
+          "ram": 512,
+          "net": 5
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"McDiabetes\" title=\"McDiabetes\" src=\"images/npc/mcdiabetes.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"McDiabetes\" title=\"McDiabetes\" src=\"images/npc/mcdiabetes.jpg\"><br/><br/></div>"
+        }
+      },
+      "12": {
+        "name": {
+          "en": "Gimme Your Bucks",
+          "pt": "Gimme Your Bucks"
+        },
+        "hardware": {
+          "cpu": 1500,
+          "hdd": 10000,
+          "ram": 1024,
+          "net": 10
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Gimme your bucks\" title=\"Gimme your bucks\" src=\"images/npc/gimmeyourbucks.jpeg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Gimme your bucks\" title=\"Gimme your bucks\" src=\"images/npc/gimmeyourbucks.jpeg\"><br/><br/></div>"
+        }
+      },
+      "13": {
+        "name": {
+          "en": "Capitalism",
+          "pt": "Capitalism"
+        },
+        "hardware": {
+          "cpu": 2000,
+          "hdd": 10000,
+          "ram": 1024,
+          "net": 10
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Capitalism\" title=\"Capitalism\" src=\"images/npc/capitalism.png\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Capitalism\" title=\"Capitalism\" src=\"images/npc/capitalism.png\"><br/><br/></div>"
+        }
+      },
+      "14": {
+        "name": {
+          "en": "Fiasco Systems",
+          "pt": "Fiasco Systems"
+        },
+        "hardware": {
+          "cpu": 2500,
+          "hdd": 15000,
+          "ram": 1536,
+          "net": 15
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Fiasco\" title=\"Fiasco\" src=\"images/npc/fiasco.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Fiasco\" title=\"Fiasco\" src=\"images/npc/fiasco.jpg\"><br/><br/></div>"
+        }
+      },
+      "15": {
+        "name": {
+          "en": "Very Cheesy Pictures",
+          "pt": "Very Cheesy Pictures"
+        },
+        "hardware": {
+          "cpu": 2500,
+          "hdd": 15000,
+          "ram": 1536,
+          "net": 15
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Very Cheesy Pictures\" title=\"Very Cheesy Pictures\" src=\"images/npc/verycheesypictures.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Very Cheesy Pictures\" title=\"Very Cheesy Pictures\" src=\"images/npc/verycheesypictures.jpg\"><br/><br/></div>"
+        }
+      },
+      "type": 71
+    },
+    "LEVEL2": {
+      "1": {
+        "name": {
+          "en": "Hacker Inside",
+          "pt": "Hacker Inside"
+        },
+        "hardware": {
+          "cpu": 1000,
+          "hdd": 5000,
+          "ram": 512,
+          "net": 5
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Hacker Inside\" title=\"Hacker Inside\" src=\"images/npc/hackerinside.svg\"><br/><br/><span class=\"small\">Lammer outside</span></div>",
+          "pt": "<div class=\"center\"><img alt=\"Hacker Inside\" title=\"Hacker Inside\" src=\"images/npc/hackerinside.svg\"><br/><br/><span class=\"small\">Lammer outside</span></div>"
+        }
+      },
+      "2": {
+        "name": {
+          "en": "CatVideos",
+          "pt": "CatVIdeos"
+        },
+        "hardware": {
+          "cpu": 1500,
+          "hdd": 10000,
+          "ram": 1024,
+          "net": 10
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"catVideos\" title=\"catVideos\" src=\"images/npc/catvideos.jpg\"><br/><br/><span class=\"small\">Don't read the comments.</span></div>",
+          "pt": "<div class=\"center\"><img alt=\"catVideos\" title=\"catVideos\" src=\"images/npc/catvideos.jpg\"><br/><br/><span class=\"small\">Não leia os comentários.</span></div>"
+        }
+      },
+      "3": {
+        "name": {
+          "en": "Nokids",
+          "pt": "Nokids"
+        },
+        "hardware": {
+          "cpu": 2000,
+          "hdd": 10000,
+          "ram": 1024,
+          "net": 10
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Nokids\" title=\"Nokids\" src=\"images/npc/nokids.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Nokids\" title=\"Nokids\" src=\"images/npc/nokids.jpg\"><br/><br/></div>"
+        }
+      },
+      "4": {
+        "name": {
+          "en": "Life's Though",
+          "pt": "Life's Though"
+        },
+        "hardware": {
+          "cpu": 2500,
+          "hdd": 15000,
+          "ram": 1536,
+          "net": 15
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Life's tough\" title=\"Life's tough\" src=\"images/npc/lifestough.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Life's tough\" title=\"Life's tough\" src=\"images/npc/lifestough.jpg\"><br/><br/></div>"
+        }
+      },
+      "5": {
+        "name": {
+          "en": "Titanic",
+          "pt": "Titanic"
+        },
+        "hardware": {
+          "cpu": 2500,
+          "hdd": 15000,
+          "ram": 1536,
+          "net": 15
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Titanic\" title=\"Titanic\" src=\"images/npc/titanic.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Titanic\" title=\"Titanic\" src=\"images/npc/titanic.jpg\"><br/><br/></div>"
+        }
+      },
+      "6": {
+        "name": {
+          "en": "Oh Deere",
+          "pt": "Oh Deere"
+        },
+        "hardware": {
+          "cpu": 3000,
+          "hdd": 20000,
+          "ram": 2048,
+          "net": 20
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Oh Deere\" title=\"Oh Deere\" src=\"images/npc/ohdeere.JPG\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Oh Deere\" title=\"Oh Deere\" src=\"images/npc/ohdeere.JPG\"><br/><br/></div>"
+        }
+      },
+      "7": {
+        "name": {
+          "en": "Fail",
+          "pt": "Fail"
+        },
+        "hardware": {
+          "cpu": 3000,
+          "hdd": 20000,
+          "ram": 2048,
+          "net": 20
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Fail\" title=\"Fail\" src=\"images/npc/fail.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Fail\" title=\"Fail\" src=\"images/npc/fail.jpg\"><br/><br/></div>"
+        }
+      },
+      "8": {
+        "name": {
+          "en": "Insane",
+          "pt": "Insane"
+        },
+        "hardware": {
+          "cpu": 4000,
+          "hdd": 50000,
+          "ram": 2048,
+          "net": 50
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Insane\" title=\"Insane\" src=\"/images/npc/insane.JPG\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Insane\" title=\"Insane\" src=\"/images/npc/insane.JPG\"><br/><br/></div>"
+        }
+      },
+      "9": {
+        "name": {
+          "en": "Elvi's",
+          "pt": "Elvi's"
+        },
+        "hardware": {
+          "cpu": 4000,
+          "hdd": 50000,
+          "ram": 2048,
+          "net": 50
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Elvi's\" title=\"Elvi's\" src=\"images/npc/elvis.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Elvi's\" title=\"Elvi's\" src=\"images/npc/elvis.jpg\"><br/><br/></div>"
+        }
+      },
+      "10": {
+        "name": {
+          "en": "Broke",
+          "pt": "Broke"
+        },
+        "hardware": {
+          "cpu": 4000,
+          "hdd": 50000,
+          "ram": 2048,
+          "net": 50
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Broke\" title=\"Broke\" src=\"images/npc/broke.gif\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Broke\" title=\"Broke\" src=\"images/npc/broke.gif\"><br/><br/></div>"
+        }
+      },
+      "type": 72
+    },
+    "LEVEL3": {
+      "1": {
+        "name": {
+          "en": "Sexsi",
+          "pt": "Sexsi"
+        },
+        "hardware": {
+          "cpu": 1000,
+          "hdd": 5000,
+          "ram": 512,
+          "net": 5
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Sexsi\" title=\"Sexsi\" src=\"images/npc/sexsi.jpg\"><br/><br/><span class=\"small\">When there is no coke.</span></div>",
+          "pt": "<div class=\"center\"><img alt=\"Sexsi\" title=\"Sexsi\" src=\"images/npc/sexsi.jpg\"><br/><br/><span class=\"small\">Pode ser?</span></div>"
+        }
+      },
+      "2": {
+        "name": {
+          "en": "Nothing to do",
+          "pt": "Nothing to do"
+        },
+        "hardware": {
+          "cpu": 1500,
+          "hdd": 10000,
+          "ram": 1024,
+          "net": 10
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Nothing to do\" title=\"Nothing to do\" src=\"images/npc/nothingtodo.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Nothing to do\" title=\"Nothing to do\" src=\"images/npc/nothingtodo.jpg\"><br/><br/></div>"
+        }
+      },
+      "3": {
+        "name": {
+          "en": "Oops",
+          "pt": "Oops"
+        },
+        "hardware": {
+          "cpu": 2000,
+          "hdd": 10000,
+          "ram": 1024,
+          "net": 10
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Oops\" title=\"Oops\" src=\"images/npc/oops.jpg\"><br/><br/><span class=\"small\">Consider it gone.</span></div>",
+          "pt": "<div class=\"center\"><img alt=\"Oops\" title=\"Oops\" src=\"images/npc/oops.jpg\"><br/><br/><span class=\"small\">Consider it gone.</span></div>"
+        }
+      },
+      "4": {
+        "name": {
+          "en": "Sunk Microsystems",
+          "pt": "Sunk Microsystems"
+        },
+        "hardware": {
+          "cpu": 2500,
+          "hdd": 15000,
+          "ram": 1536,
+          "net": 15
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Sunk\" title=\"Sunk\" src=\"images/npc/sunk.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Sunk\" title=\"Sunk\" src=\"images/npc/sunk.jpg\"><br/><br/></div>"
+        }
+      },
+      "5": {
+        "name": {
+          "en": "Toshibe",
+          "pt": "Toshibe"
+        },
+        "hardware": {
+          "cpu": 2500,
+          "hdd": 15000,
+          "ram": 1536,
+          "net": 15
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Toshibe\" title=\"Toshibe\" src=\"images/npc/toshibe.png\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Toshibe\" title=\"Toshibe\" src=\"images/npc/toshibe.png\"><br/><br/></div>"
+        }
+      },
+      "6": {
+        "name": {
+          "en": "Weird",
+          "pt": "Weird"
+        },
+        "hardware": {
+          "cpu": 3000,
+          "hdd": 20000,
+          "ram": 2048,
+          "net": 20
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Weird\" title=\"Weird\" src=\"images/npc/weird.gif\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Weird\" title=\"Weird\" src=\"images/npc/weird.gif\"><br/><br/></div>"
+        }
+      },
+      "7": {
+        "name": {
+          "en": "Nuke",
+          "pt": "Nuke"
+        },
+        "hardware": {
+          "cpu": 3000,
+          "hdd": 20000,
+          "ram": 2048,
+          "net": 20
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Nuke\" title=\"Nuke\" src=\"images/npc/nuke.png\" style=\"background-color: #000;\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Nuke\" title=\"Nuke\" src=\"images/npc/nuke.png\" style=\"background-color: #000;\"><br/><br/></div>"
+        }
+      },
+      "8": {
+        "name": {
+          "en": "Pervert",
+          "pt": "Pervert"
+        },
+        "hardware": {
+          "cpu": 4000,
+          "hdd": 50000,
+          "ram": 2048,
+          "net": 50
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Pervert\" title=\"Pervert\" src=\"images/npc/pervert.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Pervert\" title=\"Pervert\" src=\"images/npc/pervert.jpg\"><br/><br/></div>"
+        }
+      },
+      "9": {
+        "name": {
+          "en": "Yahoo?",
+          "pt": "Yahoo?"
+        },
+        "hardware": {
+          "cpu": 4000,
+          "hdd": 50000,
+          "ram": 2048,
+          "net": 50
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Yahoo?\" title=\"Yahoo?\" src=\"images/npc/yahoo.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Yahoo?\" title=\"Yahoo?\" src=\"images/npc/yahoo.jpg\"><br/><br/></div>"
+        }
+      },
+      "10": {
+        "name": {
+          "en": "Abersnobby & Bitch",
+          "pt": "Abersnobby & Bitch"
+        },
+        "hardware": {
+          "cpu": 4000,
+          "hdd": 50000,
+          "ram": 2048,
+          "net": 50
+        },
+        "web": {
+          "en": "<div class=\"center\"><img alt=\"Abersnobby & Bitch\" title=\"Abersnobby & Bitch\" src=\"images/npc/abersnobby.jpg\"><br/><br/></div>",
+          "pt": "<div class=\"center\"><img alt=\"Abersnobby & Bitch\" title=\"Abersnobby & Bitch\" src=\"images/npc/abersnobby.jpg\"><br/><br/></div>"
+        }
+      },
+      "type": 73
+    }
+  },
+  "PUZZLE": {
+    "1": {
+      "name": {
+        "en": "First Puzzle",
+        "pt": "Primeiro Enigma"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "Welcome to the First Puzzle. Follow the trail to get better softwares.<br/><br/>The First Puzzle is easy, but can you solve the next ones? Good luck :)",
+        "pt": "Bem-vindo ao primeiro enigma. Siga a trilha para conseguir melhores softwares.<br/><br/>O primeiro enigma é fácil, mas será que você consegue resolver os próximos? Boa sorte :)"
+      }
+    },
+    "2": {
+      "name": {
+        "en": "2",
+        "pt": "2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "3": {
+      "name": {
+        "en": "3",
+        "pt": "3"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "<div class=\"center\"><img src=\"images/npc/yuhack.jpg\" alt=\"\"></div>",
+        "pt": "<div class=\"center\"><img src=\"images/npc/yuhack.jpg\" alt=\"\"></div>"
+      }
+    },
+    "4": {
+      "name": {
+        "en": "4",
+        "pt": "4"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "5": {
+      "name": {
+        "en": "Hacker News",
+        "pt": "Hacker News"
+      },
+      "hardware": {
+        "cpu": 4500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "<iframe src=\"http://ihackernews.com/\" width=\"100%\" height=\"500\" seamless></iframe><br/><br/> Disclaimer: (<a href=\"http://ihackernews.com/\">i</a>)<a href=\"https://news.ycombinator.com/\">HackerNews</a> is not related to Hacker Experience in any way.",
+        "pt": "<iframe src=\"http://ihackernews.com/\" width=\"100%\" height=\"500\" seamless></iframe><br/><br/> Aviso: (<a href=\"http://ihackernews.com/\">i</a>)<a href=\"https://news.ycombinator.com/\">HackerNews</a> não tem nenhuma relação com Hacker Experience."
+      }
+    },
+    "6": {
+      "name": {
+        "en": "6",
+        "pt": "6"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "7": {
+      "name": {
+        "en": "7",
+        "pt": "7"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "8": {
+      "name": {
+        "en": "8",
+        "pt": "8"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "<iframe id=\"jodiframe\" src=\"http://wwwwwwwww.jodi.org/\" width=\"100%\" height=\"500px\" seamless=\"1\"></iframe>",
+        "pt": "<iframe id=\"jodiframe\" src=\"http://wwwwwwwww.jodi.org/\" width=\"100%\" height=\"500px\" seamless=\"1\"></iframe>"
+      }
+    },
+    "9": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "10": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "11": {
+      "name": {
+        "en": "Too Many Secrets",
+        "pt": "Too Many Secrets"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "<div class=\"center\"><img src=\"images/npc/toomanysecrets.JPG\" alt=\"\"></div>",
+        "pt": "<div class=\"center\"><img src=\"images/npc/toomanysecrets.JPG\" alt=\"\"></div>"
+      }
+    },
+    "12": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "13": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "14": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "15": {
+      "name": {
+        "en": "Lorem Ipsum",
+        "pt": "Lorem Ipsum"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "\n\n                                    <p style=\"max-width:600px; margin-left: 30px;\">\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam euismod luctus lorem eu bibendum. Suspendisse eget nisl \nvulputate, viverra orci at, malesuada neque. Sed scelerisque enim ac sem blandit sodales. Aenean et posuere tortor. \nNullam at mollis risus. Vivamus rhoncus pretium neque eu convallis. Nullam rhoncus gravida purus, non gravida tortor \nmolestie in. Proin ultricies semper eros, sit amet ornare lacus congue et.<br/><br/>\n Vivamus dapibus diam ut libero consectetur semper. Fusce pellentesque arcu nec iaculis suscipit. Sed eget nisi eget mauris sodales cursus sed non magna. Fusce porta nibh id lectus venenatis, id tempus felis lobortis. Quisque vel eleifend diam. Sed consequat feugiat nisl quis tempor. Nulla in orci at magna tempus euismod non id nunc. Maecenas vel malesuada nisi. Donec sed lacus eleifend, sollicitudin ipsum eu, vulputate libero. Donec bibendum tellus non faucibus sagittis. Mauris tincidunt vulputate mattis. \n <br/><br/>\n  In vel neque non felis convallis euismod non quis est. Quisque velit velit, posuere in turpis vel, varius sollicitudin nibh. Morbi ultrices hackris expiriencis amet nunc viverra varius. Donec ut quam libero. Etiam facilisis enim eu massa faucibus ullamcorper. Donec sollicitudin erat et porttitor porta. Integer sit amet viverra nisi. Integer vitae augue vestibulum, elementum justo in, luctus orci. Integer sit amet turpis luctus, commodo massa eu, malesuada quam. Donec feugiat, tortor in molestie ornare, mi mi viverra mauris, id pharetra purus augue ac sem. \n                                    </p>",
+        "pt": "\n\n                                    <p style=\"max-width:600px; \nmargin-left: 30px;\">\n    Lorem ipsum dolor sit amet, consectetur \nadipiscing elit. Nam euismod luctus lorem eu bibendum. Suspendisse eget \nnisl \nvulputate, viverra orci at, malesuada neque. Sed scelerisque enim\n ac sem blandit sodales. Aenean et posuere tortor. \nNullam at mollis \nrisus. Vivamus rhoncus pretium neque eu convallis. Nullam rhoncus \ngravida purus, non gravida tortor \nmolestie in. Proin ultricies semper \neros, sit amet ornare lacus congue et.<br/><br/>\n Vivamus \ndapibus diam ut libero consectetur semper. Fusce pellentesque arcu nec \niaculis suscipit. Sed eget nisi eget mauris sodales cursus sed non \nmagna. Fusce porta nibh id lectus venenatis, id tempus felis lobortis. \nQuisque vel eleifend diam. Sed consequat feugiat nisl quis tempor. Nulla\n in orci at magna tempus euismod non id nunc. Maecenas vel malesuada \nnisi. Donec sed lacus eleifend, sollicitudin ipsum eu, vulputate libero.\n Donec bibendum tellus non faucibus sagittis. Mauris tincidunt vulputate\n mattis. \n <br/><br/>\n  In vel neque non felis convallis \neuismod non quis est. Quisque velit velit, posuere in turpis vel, varius\n sollicitudin nibh. Morbi ultrices hackris expiriencis amet nunc viverra\n varius. Donec ut quam libero. Etiam facilisis enim eu massa faucibus \nullamcorper. Donec sollicitudin erat et porttitor porta. Integer sit \namet viverra nisi. Integer vitae augue vestibulum, elementum justo in, \nluctus orci. Integer sit amet turpis luctus, commodo massa eu, malesuada\n quam. Donec feugiat, tortor in molestie ornare, mi mi viverra mauris, \nid pharetra purus augue ac sem. \n                                   \n </p>"
+      }
+    },
+    "16": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "17": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "18": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "19": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "20": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "21": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "22": {
+      "name": {
+        "en": "Hangman",
+        "pt": "Forca"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "<style>\n#Hangman {border:1px #000000 solid;height:120px}\n</style>\n<div style=\"width:350px;position:relative;padding:4px\">\n<div style=\"font:bold 12pt '';color:#000000\">Hangman</div>\n<iframe id=\"Hangman\" src=\"http://www.thefreedictionary.com/_/WoD/hangman.aspx?#,x000000,x0000FF,10pt,''\" width=\"100%\" scrolling=\"no\" frameborder=\"0\"></iframe>\n<div style=\"font:normal 8pt '';color:#000000\">\n<a style=\"color:#000000\" href=\"http://www.thefreedictionary.com/lookup.htm#Hangman\" rel=\"nofollow\">Hangman</a>\nprovided by <a style=\"color:#000000\" href=\"http://www.thefreedictionary.com/\">TheFreeDictionary</a>\n</div></div>",
+        "pt": "<style>#Hangman {border:1px #000000 solid;background-color:;height:120px}</style>\n<div style=\"width:350px;position:relative;background-color:;padding:4px\">\n<div style=\"font:bold 12pt Arial;color:#000000\">Forca</div>\n<iframe id=\"Hangman\" src=\"http://pt.thefreedictionary.com/_/WoD/hangman.aspx?lang=pt#,x000000,x0000FF,10pt,Arial\" width=\"100%\" scrolling=\"no\" frameborder=\"0\"></iframe>\n<div style=\"font:normal 8pt Arial;color:#000000\">\n<a style=\"color:#000000\" href=\"http://pt.thefreedictionary.com/webmasters.htm\">Forca</a>\n fornecido por <a style=\"color:#000000\" href=\"http://pt.thefreedictionary.com/\">The Free Dictionary</a>\n</div></div>"
+      }
+    },
+    "23": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "24": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "25": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "26": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "27": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "28": {
+      "name": {
+        "en": "Gnirut",
+        "pt": "Gnirut"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "<div class=\"center\"><img src=\"images/npc/alanturing.jpg\" alt=\"\"></div>",
+        "pt": "<div class=\"center\"><img src=\"images/npc/alanturing.jpg\" alt=\"\"></div>"
+      }
+    },
+    "29": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "30": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "31": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "32": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "33": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "34": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "35": {
+      "name": {
+        "en": "Eduard Khil",
+        "pt": "Eduard Khil"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "<div class=\"center\"><img src=\"images/npc/eduardkhil.jpg\" alt=\"\"></div>",
+        "pt": "<div class=\"center\"><img src=\"images/npc/eduardkhil.jpg\" alt=\"\"></div>"
+      }
+    },
+    "36": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "37": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "38": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "39": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "40": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "41": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "42": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "43": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "44": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "45": {
+      "name": {
+        "en": "PUZZLE1",
+        "pt": "PUZZLE1"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "46": {
+      "name": {
+        "en": "PUZZLE2",
+        "pt": "PUZZLE2"
+      },
+      "hardware": {
+        "cpu": 3500,
+        "hdd": 15000,
+        "ram": 2048,
+        "net": 20
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "47": {
+      "name": {
+        "en": "Fsck You",
+        "pt": "Fsck You"
+      },
+      "hardware": {
+        "cpu": 2500,
+        "hdd": 10000,
+        "ram": 2048,
+        "net": 10
+      },
+      "web": {
+        "en": "<div class=\"center\"><img src=\"images/npc/linustorvalds.jpg\" alt=\"\"></div>",
+        "pt": "<div class=\"center\"><img src=\"images/npc/linustorvalds.jpg\" alt=\"\"></div>"
+      }
+    },
+    "type": 7
+  },
+  "NPC": {
+    "1": {
+      "name": {
+        "en": "NPC1",
+        "pt": "NPC1"
+      },
+      "hardware": {
+        "cpu": 4000,
+        "hdd": 50000,
+        "ram": 2048,
+        "net": 50
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "2": {
+      "name": {
+        "en": "NPC2",
+        "pt": "NPC2"
+      },
+      "hardware": {
+        "cpu": 4000,
+        "hdd": 50000,
+        "ram": 2048,
+        "net": 50
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "3": {
+      "name": {
+        "en": "NPC3",
+        "pt": "NPC3"
+      },
+      "hardware": {
+        "cpu": 4000,
+        "hdd": 50000,
+        "ram": 2048,
+        "net": 50
+      },
+      "web": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    "type": 6
+  },
+  "DC": {
+    "type": 8,
+    "name": {
+      "en": "Download Center",
+      "pt": "Centro de Downloads"
+    },
+    "hardware": {
+      "cpu": 4000,
+      "hdd": 50000,
+      "ram": 2048,
+      "net": 100
+    },
+    "web": {
+      "en": "Welcome to the download center! <br/><br/> Download whatever you need. Unlimited bandwidth! <br/><br/> <strong>Username:</strong> download<br/><strong>Password:</strong> download",
+      "pt": "Bem-vindo ao centro de downloads! <br/><br/> Faça download do que você precisar. Transferência ilimitada!<br/><br/> <strong>Usuário:</strong> download<br/><strong>Senha:</strong> download"
+    }
+  },
+  "TORRENT": {
+    "type": 45,
+    "name": {
+      "en": "Torrent Market",
+      "pt": "Mercado de Torrents"
+    },
+    "hardware": {
+      "cpu": 4000,
+      "hdd": 50000,
+      "ram": 2048,
+      "net": 100
+    },
+    "web": {
+      "en": "",
+      "pt": ""
+    }
+  }
+}

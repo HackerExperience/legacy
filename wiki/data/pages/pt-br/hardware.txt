@@ -1,0 +1,32 @@
+Hardware é a página onde você pode ver seu(s) servidor(es) atual(is) e melhorá-lo(s). Você também pode optar por comprar um ou mais discos externos.
+
+======Servidor======
+Servidor é o local onde seu hardware mora. Você pode ter mais de um servidor. Se esse for o caso, seu hardware total irá ser a soma do hardware de cada servidor.
+
+Você pode comprar quantos servidores seu dinheiro permitir, apesar de que o preço cresce exponencialmente e você provavelmente terá um máximo de cinco servidores.
+
+Seu servidor é dividido em quantro partes diferentes, cada uma com uma função específica.
+
+=====Processador=====
+O processador, ou CPU (Central Processing Unit),é responsável pela maior parte de ações relacionadas a arquivos. Ele determina quão rápido é para, por exemplo, editar logs, deletar um software, rodar o antivírus, crackear um servidor ou esconder um software.
+
+Ter um bom processador é essencial para qualquer um que queira competir entre as primeiras posições.
+
+=====Internet=====
+A Internet, também referida como NET ou Conexão, determina quão rápido você pode baixar/enviar um arquivo. Ter uma boa velocidade de conexão irá lhe garantir velocidades mais rápidas de download.
+
+=====Disco Rígido======
+O Disco Rígido, também referido como HD ou HDD, é um importante aspecto do seu servidor. Ele determina quantos softwares você pode armazenar.
+
+=====RAM======
+A RAM, também conhecida como Memória, pode não parecer muito importante nos primeiros estágios do jogo, mas irá limitar quantos softwares rodando simultaneamente você pode ter. Quanto melhores os softwares que você tiver, mais RAM você irá precisar.
+
+======Disco Rígido Externo======
+O Disco Rígido Externo, ou XHD, pode ser usado como uma estratégia de backup no caso de alguém deletar seus arquivos e você precisar recomeçar do zero.
+
+O Disco Rígido Externo não pode ser acessado remotamente. Isso significa que seus arquivos armazenados lá nunca serão deletados, mesmo se alguém realizar um poderoso ataque DDoS contra você. Use-o com sabedoria, pois o espaço é relativamente limitado (e caro).
+
+Se você já tem um XHD, você pode optar por melhorá-lo ou comprar um novo. Use a estratégia que preferir.
+
+======Hardware do Clan======
+Você pode comprar novos servidores ou melhorar os existentes do seu clan. Basta conectar-se ao servidor do clan e selecionar a aba Hardware. Funciona da mesmo forma que seu hardware local, exceto que qualquer membro do clan pode melhorar o servidor.

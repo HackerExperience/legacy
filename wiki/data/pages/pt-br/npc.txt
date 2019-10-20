@@ -1,0 +1,87 @@
+NPC significa //non-player computer// (computador que não pertence a um jogador), e cada NPC tem um diferente propósito no jogo. O oposto de NPC é VPC (//virtual player computer//, ou computador de um jogador virtual), que representa computadores de jogadores humanos.
+
+
+====== Tipos de NPC ======
+
+Os papéis que um NPC pode ter estão listados abaixo.
+
+===== Whois =====
+Um servidor Whois //lista// uma variadade de NPCs e seus respectivos endereços IP, dando ao usuário alguma direção. Existem 4 whois no jogo, cada um com um conjunto diferente de IPs.
+==== Primeiro Whois ===
+O Primeiro Whois merece uma definição especial pois é o IP mais importante do jogo. Seu IP é 1.2.3.4 e é a endereço inicial de todo jogador. Ele contém o Primeiro Enigma, permitindo que o usuário comece a [[pt-br:riddle#trilha_de_enigmas|Trilha de Enigmas]].
+
+O IP do Primeiro Whois, e todo IP nele listado é público e //pode// ser compartilhado para outros usuários no fórum ou através do [[pt-br:mail|sistema de email]].
+===== Bancos =====
+Um tipo especial de NPC são os bancos. Como o nome diz, eles agem como instituições financeiras onde o jogador pode registrar uma conta por uma pequena taxa, guardar seu dinheiro lá e transferir dinheiro entre contas.
+
+Não é necessário dizer que bancos são alvos comum de hackers, já que o Log de Dados pode contar frequentemente detalhes de contas. Tudo que um invasor precisa para poder realizar um [[pt-br:hacking#ataque_forca-bruta|ataque força-bruta]] contra a conta é o seu número de 6 dígitos. Portanto, nunca revele o número da sua conta e sempre apague seus logs.
+
+===== Enigma =====
+NPCs de enigma são especiais pois contêm um arquivo chamado [[pt-br:softwares#enigmaexe|enigma.exe]]. Esse arquivo contém um pequeno enigma que, quando resolvido, irá apontar o próximo enigma para o jogador.
+
+A coleção de engimas é chamada [[pt-br:riddle#trilha_de_engimas|Trilha de Enigmas]].
+
+===== Centro de Downloads =====
+O Centro de Downloads, ou DC, é um servidor que contém softwares básicos necessários para jogar o jogo. É um bom lugar para começar e também uma boa opção caso alguém delete você.
+
+Você pode logar usando o usuário //download// e a senha //download//. Essa conta lhe fornece permissões de download/upload.
+
+O Centro de Downloads está localizado no Primeiro Whois.
+
+===== Mercado de Bitcoins =====
+O Mercado de Bitcoins é o lugar para comprar, vender ou transferir bitcoins. Para poder realizar essa ação, você deve logar na sua conta (ou de outra pessoa).
+
+Ao entrar, o IP e chave privada são listadas **somente** no log do usuário (localhost). O log de dados do NPC irá conter //somente// o endereço público, então é basicamente anônimo. Para entrar, use o endereço público e a chave privada.
+
+Minere bitcoins usando o [[en:softwares#virus_minerador|Vírus Minerador]].
+
+===== Mercado de Torrent =====
+O Mercado de Torrent lista o preço de venda do [[pt-br:softwares#torrent|torrent (warez)]].
+
+Atualmente, o preço é fixado e não há variações. Variações no preço devem ser implementadas em breve.
+
+===== FBI =====
+O servidor do FBI exibe a Lista de Mais Procurados do FBI, isto é, todo endereço IP que fez alguma infração e está sendo procurado pelo FBI. Ele também lista a respectiva recompensa. Para poder receber a recompensa, DDoSe e minimize o IP do procurado.
+
+Leia mais sobre o FBI na página da [[pt-br:safenet_fbi|Safenet/FBI]]
+
+===== Safenet =====
+Safenet é um serviço de monitoramento global tentando trazer ordem para a Internet. Se você quebrar as regras, pode ser listado aqui. A página pública da Safenet lista os IPs parcialmente somente. Invada o servidor para poder pegar o endereço IP completo.
+
+Leia mais sobre a Safenet na página da [[pt-br:safenet_fbi|Safenet/FBI]]
+
+===== Empresas =====
+Empresas representam grandes corporações que irão eventualmente lhe oferecer [[pt-br:missions|missões]]. Você pode aceitar esses trabalhos (freelances) e ganhar um pouco de dinheiro.
+
+Uma empresa somente irá lhe oferecer trabalho se você tiver ela listada no seu [[pt-br:hacked_database|Banco de Dados]].
+
+===== Servidor de Clan =====
+Servidores de Clan são, tecnicamente, NPC. Como o nome diz, é o servidor principal pertencente a um [[pt-br:clan]].
+
+Tome cuidado quando invadindo um desses, pois você pode incomodar algumas pessoas e até começar uma [[pt-br:clan#guerra_de_clans|guerra de clans]].
+
+===== ISP =====
+O ISP (Internet Service Provider, ou Provedor de Serviços de Internet) é um serviço que permite alterar seu endereço IP. Isso pode lhe custar algum dinheiro, mas pode ser a única opção de se livrar um hacker poderoso.
+
+==== Preço ====
+
+O primeiro reset é sempre gratuito. Então, você deve esperar um certo tempo para resetar novamente de graça. A tabela abaixo mostra quanto tempo você deve esperar para ter um reset gratuito.
+
+^ Número de resets      ^ Tempo de espera(horas)    ^
+|   1                |     3    |
+|    2     |     6    |
+|   3                 |     12    |
+|   4                |     24    |
+|    5     |     48    |
+|   6                 |     56    |
+|   7+                 |     168 (1 semana)    |
+
+Você pode pagar para alterar a qualquer momento. A fórmula do preço é
+
+  preco ($) = 100 + 500 * (Número de resets) + ((Número de resets)^3.8)/10
+
+com um limite superior de $100000.
+===== NSA =====
+A NSA (National Security Agency, ou Agência de Segurança Nacional) mantém seguro o software mais poderoso do mundo, o Vírus Doom.
+
+Leia mais sobre a NSA na [[pt-br:storyline|página de enredo]].

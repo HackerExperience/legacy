@@ -1,0 +1,24 @@
+The Internet is the place where you can browse to different computers around the world. Servers can be owned by a real player, like you, or [[en:NPC|NPCs]].
+
+====== Navigation ======
+When logged out, the first thing you will see is the server's web content. It might display useful information if it's an [[en:NPC|NPC]], or it can be tailored content if the VPC is running the [[en:softwares#webserverexe|Webserver]] software.
+
+On the upper-right corner of the web content, you can see which type of server you are connected to. Check the list of [[en:npc#npc_types|NPC types]].
+
+If logged in, you'll have access to the victim's [[en:log|log file]] and [[en:softwares|softwares]]. These remote pages works pretty much the same way they do on localhost. 
+
+====== Banks ======
+When accessing banks, you might notice a different UI. You have the option to hack and login to the bank //server//, plus the option to hack and login a bank //account//.
+
+When logged to a bank account, you can transfer it's money or change it's password (if you are the owner). Please note that **transferring money will generate logs on each account's bank**, i.e., if you are on bank A and will transfer to bank B, //both// banks will have your IP, the account numbers and the total amount transfered.
+
+====== Important IPs ======
+Important IPs will be listed on the right sidebar, as a bookmark tool.
+
+List of important IPs:
+    * Banks
+    * FBI
+    * Safenet
+    * ISP
+    * Whois
+    * NSA

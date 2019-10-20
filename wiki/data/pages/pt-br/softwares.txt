@@ -1,0 +1,159 @@
+**Softwares** usam seu sistema para realizar funções específicas. Essas funções variam de acordo com o tipo do software, e são listadas abaixo.
+
+Softwares também têm tamanho, versão e uso de RAM correspondente. Se um software é dito pesquisável (researchable), você pode comprar a licença dele e pesquisá-lo, conseguindo assim uma versão maior.
+
+======Tipos de software======
+
+===== Cracker =====
+
+Crackers são necessários para a execução do principal método de ataque, conhecido como Força Bruta e são, portanto, o mais importante software do jogo.
+
+Para poder continuar conectado a um IP, você deve ter um cracker rodando com uma versão maior ou igual ao Password Hash da vítima.
+
+Eles também são responsáveis pelo seu nível de missão.
+
+^ Versão do Cracker      ^ Nível de missão    ^
+|   < 3.0                |     1    |
+|    ≥ 3.0 e < 6.0     |     2    |
+|   ≥6.0                 |     3    |
+
+Outra importante função do Cracker acontece no Enredo do jogo. Quando uma específica versão do software é pesquisada, o jogador recebe uma missão para roubar o vírus Doom.
+
+===== Password Hasher =====
+Password Hasher é a principal - e única - opção para se defender de ataques Força Bruta. É provavelmente o segundo mais importante software do jogo.
+
+===== Port Scanner =====
+Port Scanners são necessários para poder realizar um Ataque de Exploit. Quando usado com pelo menos um exploit instalado, o Port Scan vai listar quais portas estão vulneráveis para serem exploradas, isto é, se houver alguma.
+
+Não é possível desenvolver um port Scanner.
+
+===== Exploits =====
+Você precisa ter pelo menos um exploit instalado para poder realizar um Ataque Exploit. Atualmente, existem dois tipos de exploits: FTP e SSH.
+
+    * **Exploit FTP** - Quando explorando uma vulnerabilidade no serviço FTP, o usuário pode //somente// fazer download e upload de softwares. Instalar ou executar softwares não é permitido.
+
+    * **Exploit SSH** - Ao explorar a vulnerabilidade do serviço SSH, o usuário pode realizar qualquer ação, //exceto// fazer download e upload de softwares.
+
+Qualquer exploit pode ver e editar o Log de Dados.
+
+Se ambos os exploits FTP e SSH forem usados no mesmo ataque, o usuário ganha acesso root (completo).
+
+Para poder manter uma conexão com a vítima, o(s) exploit(s) deve(m) estar rodando e precisa(m) ser melhores que o firewall da vítima. Caso contrário, a conexão (ou parte das permissões) será perdida.
+
+===== Firewall =====
+Um Firewall pode ser usado para defender o servidor contra Ataque Exploit.
+
+Firewall também é uma defesa para varreduras Nmap.
+
+Se o usuário completou a certificação Anti-DDOS, firewalls também server para mitigar ataques DDoS.
+
+===== Hider =====
+O software Hider é utilizado para esconder softwares.
+
+Você não pode esconder softwares que estão instalados.
+
+===== Seeker =====
+O software Seeker é necessário para "encontrar" softwares que estão escondidos, isto é, ver e retornar à condição de "não escondido". Obviamente, isso só irá funcionar se a versão do seu Seeker for maior que, ou igual, à versão do Hider que escondeu o software.
+
+Não é possível instalar ou executar softwares que estão escondidos, você deve usar o seeker antes.
+
+===== Vírus Spam =====
+O Vírus Spam, quando instalado na vítima, irá gerar dinheiro ao enviar spams pela Internet. Para poder coletar o dinheiro gerado, você deve ter um Coletor de Vírus.
+
+A quantia de dinheiro gerado pelo Vírus Spam é diretamente proporcional à CPU da vítima. Pode ser considerada, aproximadamente, $0,025 por MHz por hora.
+
+===== Vírus Warez =====
+O Vírus Warez, quando instalado na vítima, irá gerar dinheiro ao vender warez (pirataria) pela Internet. Um Coletor de Vírus é necessário para poder coletar o dinheiro.
+
+O funcionamento do Vírus Warez dependente de um software adicional: o Torrent. Você precisa ter um Torrent rodando na //sua// lista de software.
+
+A quantia de dinheiro gerada pelo Vírus Warez é diretamente proporcional à conexão de internet da vítima. Aproximadamente $1 por Mbit por hora mais o valor do Torrent.
+
+===== Vírus Minerador =====
+O Vírus Minerador irá usar a CPU da vítima para gerar Bitcoins. Um Coletor de Vírus é necessário para poder coletar o dinheiro.
+
+O Vírus Minerador irá gerar, aproximadamente, 0.00010417 BTC por MHz por hora.
+
+===== Torrent =====
+Torrent é o software que você usa para vender warez. É necessário para gerar dinheiro com o Vírus Warez.
+
+Não é possível desenvolver Torrents. Você pode ver a lista e preço dos torrents no Mercado de Torrents (listado no Primeiro Whois).
+
+===== Coletor de Vírus =====
+O Coletor de Vírus é necessário para poder coletar dinheiro dos Vírus Spam, Warez e Minerador.
+
+A versão do coletor oferece um bônus que é multiplicado à soma do dinheiro coletado. Um Coletor de versão 1.0 irá gerar 1% de bônus. Um de 2.0 irá gerar 2%, e assim por diante.
+
+===== Vírus DDoS =====
+O Vírus DDoS é necessário para poder realizar um Ataque DDoS. A força do ataque resultante depende diretamente da CPU da vítima. A versão do vírus também afeta a força resultante.
+
+O Vírus DDoS não gera dinheiro.
+
+O DDoS Breaker é necessário para poder lançar um ataque DDoS.
+
+===== DDoS Breaker =====
+O DDoS Breaker é necessário para lançar um ataque DDoS.
+
+===== Anti-Vírus =====
+O Anti-Vírus é usado para deletar vírus instalados. Ele irá somente deletar vírus //visíveis// com versões menor que, ou iguàl, à versão do Anti-Vírus.
+
+===== Nmap =====
+O Nmap varre a rede, procurando por IPs conectados, e lista os que encontrar.
+
+É possível proteger-se de varreduras do Nmap usando um Firewall.
+
+===== Analisador de Hardware =====
+O Analisador de Hardware irá escanear o computador da vítima para poder determinar a informação do hardware, como CPU e RAM. Quando executado, os resultados serão salvos no seu Banco de Dados.
+
+A precisão do Analisador irá depender da sua versão.
+
+^ Versão do Analisador     ^ Precisão    ^
+|   1.0                |     50%    |
+|    2.0     |     80%    |
+|   3.0                 |     100%    |
+
+Não é possível desenvolver o Analisador.
+
+===== Carteira (wallet.exe) =====
+A Carteira é criada automaticamente quando você recebe uma conta Bitcoin. Ela guarda sua informação //pública//, como endereço da carteira e saldo de BTC. Acesso remoto à carteira irá permitir aos usuários descobrirem a quantia total de BTC da vítima.
+
+A chave privada da carteira é listada somente quando uma coleta de dinheiro é feita (usando pelo menos um vírus minerador) ou quando alguém se conecta ao Mercado Bitcoin usando sua conta.
+
+A carteira não pode ser desenvolvida.
+
+===== Servidor Web (webserver.exe) =====
+O Servidor Web permite que usuários rodem seu próprio servidor HTTP, com texto customizado. Isso significa que qualquer pessoa acessando um IP com Servidor Web instalado irá ver o texto escrito pelo usuário.
+
+Essa funcionalidade está disponível somente para usuários premium.
+
+O Servidor Web não pode ser desenvolvido.
+
+===== Enigma.exe =====
+O software do Enigma existe somente em NPCs que pertencem à Trilha de Enigmas. Executá-lo irá permitir que o jogador veja o enigma do nível atual.
+
+O Enigma pode ser executado com exploit FTP.
+
+Você não pode fazer download do enigma. Na verdade, você não pode fazer nada com ele.
+
+===== Vírus Doom =====
+O Doom, também conhecido como Vírus Doom, é o software principal do enredo do jogo. Quando instalado, irá automaticamente se propagar para **qualquer** usuário que se conectar ao IP correspondente.
+
+Vírus Doom não são reconhecidos pelo Anti-Vírus. A única forma de deletar um doom, e portanto encerrar o Ataque Doom, é DDoSando quem lançou o vírus //até// o hardware dessa pessoa (mais precisamente, o disco rígido) estar danificado o suficiente para corromper o arquivo Doom.
+
+====== Versão do Software ====== 
+A versão de um software define quão forte ou poderoso ele é. Por exemplo, um Cracker 3.0 é mais forte que um Hasher 2.5, e portanto seria possível invadir um servidor com essa configuração.
+
+====== Tamanho do Software ======
+Todo software tem um tamanho correspondente. O tamanho, medido em MB ou GB, define quão pesado ele é. Também impõe limitações se o usuário pode ou não armazená-lo, visto que ele precisa ter espaço suficiente no disco rígido (HDD).
+
+O tamanho do software é diretamente responsável pela duração de processos como Download, Upload, Instalar, Matar, Deletar, Esconder e Encontrar.
+
+====== Uso de RAM do Software ======
+Todo software usa uma quantidade de RAM. A soma total da RAM de todos os softwares rodando não pode exceder o total de RAM disponível no seu computador. Caso contrário, você não poderá instalar mais softwares.
+
+====== Licença de Software ======
+Softwares são licenciados para alguém. Por padrão, se você baixar um software de alguém, você não será o dono desse software nem poderá ver quem é o verdadeiro dono.
+
+Entretanto, se o software estiver no //seu// disco rígido e for possível desenvolvê-lo, você pode comprar a licença dele.
+
+Comprar a licença do software é necessário para poder desenvolvê-lo. Qualquer software desenvolvido por você será automaticamente licenciado para você.

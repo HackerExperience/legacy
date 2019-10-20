@@ -1,0 +1,23 @@
+**Hacker Experience**  
+
+======Computer=======
+    * [[pt-br:Softwares]]
+    * [[pt-br:Hardware]]
+    * [[pt-br:Processes]]
+    * [[pt-br:Log]]
+======Pages=======
+
+    * [[pt-br:Internet]]
+    * [[pt-br:Missions]]
+    * [[pt-br:University]]
+    * [[pt-br:Clans]]
+    * [[pt-br:Finances]]
+    * [[pt-br:Hacked Database]]
+
+======Details=======
+    * [[pt-br:DDoS]]
+    * [[pt-br:Hacking]]
+    * [[pt-br:Viruses]]
+    * [[pt-br:Storyline]]
+    * [[pt-br:NPC]]
+    * [[pt-br:Bitcoin]]

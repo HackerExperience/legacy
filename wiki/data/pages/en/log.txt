@@ -1,0 +1,3 @@
+**Log** is the place where //every// action done on a computer will be recorded.
+
+The term //localhost// means the current computer. If you see localhost on your logs, it's referring to your own server. If you see localhost on a remote machine, it's referring to the remote server.

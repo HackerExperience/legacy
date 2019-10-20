@@ -1,0 +1,65 @@
+
+Execution times / frequency:
+
+
+updateCurStats -> every half hour. Every xx:00 xx:30
+updateRanking -> every half hour. Every xx:00 xx:30 right after updateCurStats
+*rank_generator -> every half hour. Every xx:00 xx:30, right after updateRanking
+
+removedExpiredLogins -> every 15 minutes. Every :20, :35, :50, :05
+removedExpiredHTMLPages -> every hour. Every :40
+removeExpiredAccs -> every hour. Every :09
+removeExpiredNPC -> every hour. Every :09
+removeExpiredPremium -> every hour. Every :09
+
+generateMissions -> every hour. Every xx:00
+safenetUpdate -> every half hour. Every xx:00, xx:30
+
+war_finder -> every 10 minutes. Every :05, :15, :25, :35, :45, :55
+ALIAS: defcon2.php
+war_ender -> every 10 minutes. Every :05 :15 :25 :35 :45 :55
+ALIAS: endWar2.php
+
+updateServerStats.php -> every hour. Every :10
+
+badge_hunter -> every half hour. Every xx:19 xx:49
+badge_hunter_all -> every hour. Every xx:19
+ 
+antivirusNPC -> every three hours. Every XY:10 (only next_scan = now will be executed)
+restoreNPC.py -> daily, every 4 A.M.
+
+*DoomUpdater -> every fucking minute.
+*newRoundUpdater -> every fucking minute.
+
+=======
+
+Python (scripts):
+
+rank_generator -> every half hour. Every xx:00 xx:30, right after updateRanking
+
+=====
+
+Round reset:
+
+Doom Updater -> every fucking minute.
+
+NewRoundUpdater (Manually add at the end of the round)
+
+
+Stack:
+
+* -> doomUpdater, newRoundUpdater
+00 -> updateCurStats > updateRanking > rank_generator, generateMissions, safenetUpdater
+05 -> war_finder, warEnder, removeExpiredLogins
+09 -> removeExpiredAccs, removeExpiredNPC, removeExpiredPremium
+10 -> updateServerStats, [avNPC:*/3], [restoreNPC:4]
+15 -> war_finder, war_ender
+19 -> badge_hunter, badge_hunter_all
+20 -> removeExpiredLogins
+25 -> war_finder, war_ender
+30 -> updateCurStats > updateRanking > rank_generator, safenetUpdater
+35 -> war_finder, war_ender, removeExpiredLogins
+45 -> war_finder, war_ender
+49 -> badge_hunter
+50 -> removeExpiredLogins
+55 -> war_finder, war_ender

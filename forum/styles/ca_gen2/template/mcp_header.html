@@ -1,0 +1,66 @@
+<!-- INCLUDE overall_header.html -->
+
+<h2>{L_MCP}</h2>
+
+<!-- IF U_MCP -->
+	<p class="linkmcp">
+		[ <a href="{U_MCP}">{L_MCP}</a><!-- IF U_MCP_FORUM --> | <a href="{U_MCP_FORUM}">{L_MODERATE_FORUM}</a><!-- ENDIF -->
+		<!-- IF U_MCP_TOPIC --> | <a href="{U_MCP_TOPIC}">{L_MODERATE_TOPIC}</a><!-- ENDIF -->
+		<!-- IF U_MCP_POST --> | <a href="{U_MCP_POST}">{L_MODERATE_POST}</a><!-- ENDIF --> ]
+	</p>
+<!-- ENDIF -->
+
+	<div style="width: 100%;">
+
+	<div id="cp-menu">
+		<div class="cp-mini" id="navigation">
+    	{$CA_CP_BLOCK_START}
+			<ul>
+			<!-- BEGIN l_block1 -->
+			<!-- IF l_block1.S_SELECTED -->
+                <li class="active-section"><div><a href="{l_block1.U_TITLE}"<!-- IF l_block1.S_FIRST_ROW --> class="first-row"<!-- ELSEIF l_block1.S_LAST_ROW --> class="last-row"<!-- ENDIF -->><span> {l_block1.L_TITLE}</span></a></div></li>
+				<!-- BEGIN l_block2 -->
+				<!-- IF l_block1.l_block2.S_SELECTED -->
+	    			<li class="active-subsection"><div><a href="{l_block1.l_block2.U_TITLE}"<!-- IF l_block1.l_block2.S_FIRST_ROW --> class="first-row"<!-- ELSEIF l_block1.l_block2.S_LAST_ROW --> class="last-row"<!-- ENDIF -->><span>{l_block1.l_block2.L_TITLE}<!-- IF l_block1.l_block2.ADD_ITEM --> ({l_block1.l_block2.ADD_ITEM})<!-- ENDIF --></span></a></div></li>
+				<!-- ELSE -->
+    				<li class="inactive-subsection"><div><a href="{l_block1.l_block2.U_TITLE}"<!-- IF l_block1.l_block2.S_FIRST_ROW --> class="first-row"<!-- ELSEIF l_block1.l_block2.S_LAST_ROW --> class="last-row"<!-- ENDIF -->><span>{l_block1.l_block2.L_TITLE}<!-- IF l_block1.l_block2.ADD_ITEM --> ({l_block1.l_block2.ADD_ITEM})<!-- ENDIF --></span></a></div></li>
+				<!-- ENDIF -->
+				<!-- END l_block2 -->
+            <!-- ELSE -->
+                <li class="inactive-section"><div><a href="{l_block1.U_TITLE}"<!-- IF l_block1.S_FIRST_ROW --> class="first-row"<!-- ELSEIF l_block1.S_LAST_ROW --> class="last-row"<!-- ENDIF -->><span>{l_block1.L_TITLE}</span></a></div></li>
+			<!-- ENDIF -->
+			<!-- END l_block1 -->
+			</ul>
+    	{$CA_CP_BLOCK_END}
+		</div>
+	</div>
+
+	<div id="cp-main" class="mcp-main">
+	<div id="cp-inner">
+		<!-- IF MESSAGE -->
+    	{$CA_BLOCK_START}
+		<div class="content">
+			<h2>{L_MESSAGE}</h2>
+			<p class="error">{MESSAGE}</p>
+			<p><!-- BEGIN return_links -->{return_links.MESSAGE_LINK}<br /><br /><!-- END return_links --></p>
+		</div>
+		{$CA_BLOCK_END}
+		<!-- ENDIF -->
+
+		<!-- IF CONFIRM_MESSAGE -->
+			<form id="confirm" method="post" action="{S_CONFIRM_ACTION}"{S_FORM_ENCTYPE}>
+
+        	{$CA_BLOCK_START}
+			<div class="content">
+				<h2>{L_PLEASE_CONFIRM}</h2>
+				<p>{CONFIRM_MESSAGE}</p>
+			
+				<fieldset class="submit-buttons">
+					{S_HIDDEN_FIELDS}<input class="button1" type="submit" name="submit" value="{L_YES}" />&nbsp; 
+					<input class="button2" type="cancel" value="{L_NO}" />
+				</fieldset>
+			</div>
+			{$CA_BLOCK_END}
+
+			</form>
+		<!-- ENDIF -->

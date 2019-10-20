@@ -1,0 +1,49 @@
+Storyline is the plot of the game. It defines the sequence of events that happen from the beginning of the round until it's end.
+
+====== Introduction ======
+
+From an inside experiment, Geek Pride Labs developed a virus that went out of control. After a few days, the lead developer realized how powerful the virus was, and how dangerous it would be if it felt on the wrong hands. He noticed that the virus could easily spread between every node inside a network. Since it was tested on an internal, private network of Geek Pride Labs, it did not leak to the world. However, Dennis R. knew that if spread out, the virus could destroy the entire Internet. So he decided to name your creation Doom Virus.
+
+Informed of the potential of the virus, Stella Camargus, CEO of Geek Pride Labs, decided to hand the virus to the most secure place they could find: the NSA. The NSA director B. Kate happily accepted the challenge to keep the virus safely stored.
+
+After some contract signing, NSA decided to keep the only copy of the Doom on their servers, for security and research purposes.
+
+The NSA claims millions of users tried to download a copy of the virus, but so far no one was able to do that.
+
+====== Development ======
+
+A former employee of NSA, Edward Snowden, leaked the whole story of the Doom Virus to the world, in 2013. He also showed facts that the NSA was using a fork of the virus to hack inside private networks and spy on every single Internet user of the world.
+
+This information instantaneously revolted the entire world, that started working hard to keep Internet users data secure. NSA, however, denied everything.
+
+A subset of these spied users got interested in the original virus. They realized that, in possession of the Doom virus, they could extort big IT companies, and more than that, they could held the entire Internet as hostage.
+
+In order to achieve this goal, these money-driven companies have, since them, secretly battling each other directly or indirectly, with hacker attacks, law suits, blackmails and more. One company, however, excelled on this quest. Numataka Corporation, as know as NumaCorp, made it almost public it's goal of stealing the virus. 
+
+NumaCorp director Ensei Tankado started hiring and training freelancer hackers all over the world, with the only goal to find a way to hack the NSA and steal the virus.
+
+====== Hacking the NSA ======
+
+The Numataka Corporation will know when someone is able to successfully hack the NSA with a [[en:softwares#cracker|cracker]]. They installed their own spy software on every hacker's computer, and have since monitored them.
+
+When this day comes, Ensei Tankado will send a special mission directly to the hacker that developed this powerful software. The Doom Virus will, finally, be leaked to the Internet.
+
+====== Dooming the Internet ======
+
+When in possession of the Doom Virus, the hacker will have the option to install it on his computer or on his clan server. Having the support of a Clan will be really useful.
+
+The moment the doom is launched, the FBI readily detects it. The attacker location will promptly be shared among every hacker of the world. These hackers know how dangerous the virus is so they will do everything to stop it. 
+
+In order to destroy the Internet, the Doom virus needs to infect at least 50% of the world servers. This takes around six hours. During this time, hackers will heavily attack whoever launched it.
+
+====== Stoping the Doom ======
+
+The only way to stop a doom attack is by destroying the central server, i.e., the launcher server. Deleting or running anti-virus against it is impossible, an attacker must DDoS the launcher until it's hardware is damaged and wipes out the Doom software.
+
+====== World War III ======
+
+After the Doom is downloaded for the first time, several others hackers will happen to get access to the virus, either by receiving it from who stole it, or by hacking him.
+
+Either way, the new owner of the software will receive a special mission from Ensei Tankado. The guys from Numataka Corporation doesn't care //who// launches the Doom attack, they just want it finished.
+
+The moment hackers realize this, dozens of doom launches will happen at the same time. Everyone will try to stop attacks, and everyone will try to launch them. Whoever manages to finish it after 6 hours will be the big winner. The reward given by NumaCorp is really, really big.

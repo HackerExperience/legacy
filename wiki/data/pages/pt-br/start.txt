@@ -1,0 +1,17 @@
+====== Wiki Oficial de Hacker Experience ======
+
+===== O que é Hacker Experience =====
+
+Hacker Experience um jogo online de simulação de hacking. Jogue agora: www.hackerexperience.com
+
+===== Usando a Wiki =====
+
+Navegue pelos conteúdos da barra lateral esquerda.
+
+A wiki está atualmente disponível em duas linguagens: Inglês e Português.
+
+** You can access the English wiki [[en:start|here]].**
+
+Se tiver alguma dúvida sinta-se livre para entrar em contato conosco em contato@hackerexperience.com
+
+~~NOTOC~~

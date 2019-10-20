@@ -1,0 +1,7 @@
+base     arctic
+author   Samuel Fischer
+email    sf@notomorrow.de
+date     2014-05-16
+name     Arctic Template
+desc     Yet Another Sidebar Template
+url      https://www.dokuwiki.org/template:arctic

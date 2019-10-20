@@ -1,0 +1,231 @@
+################################################################################
+### 2019 Translation attempt
+### Keep in mind that this description was written a few months prior to the game
+### release, and as such is not up-to-date with the current code. Still I think
+### it contains some important tips on how Legacy works (barely!).
+################################################################################
+
+Quick attempt to explain the game code
+
+Keep in mind that:
+
+    - Many files (even entire folders) are deprecated and no loger used. Especially `js` and `css` folders.
+
+The `classes` folder contains the most important part of the game, as well as the most used functions.
+
+Database.class -> Class responsible for Login & Sign Up (NOTE: This is wrong. The Login & SignUp class is LRSys).
+Fame.class -> Used on Hall of Fame
+Forum.class -> Aids with the phpbb integration.
+List.class -> Hacked database code
+NPC.class -> Helps manage NPCs (IPs that do not belong to any user, and instead to the game)
+PC.class -> Contains 4 classes:
+    Hardware
+    Log
+    Software
+    Virus
+PDO.class -> Connection with DB
+Pagination.class -> Handles the code from pages that requires pagination
+Process.class -> Manages processes. For example, downloading a software starts a process that will take X seconds. It's possible to pause, etc
+Python.class -> php<>python interface
+Ranking.class -> Other than ranking-related functions, it also includes the certifications bit
+Social.class -> Profile, badges, friends
+Storyline.class -> Starts / maintains the tutorial mission, safenet, FBI, round, NSA, MD (overall storyline missions. See more at info/storyline.txt)
+Versioning -> deprecated
+
+Cron:
+The entire cron folder is deprecated and in desperate need of an update, except for `defcon2.php` which should be moved to `cron2`.
+The objective is to update those crons and move them to `cron2`, some of which have already been updated
+2019 Note: for a real sense of what is deprecated or not, look at `crontab`. If it's there, it's required.
+
+python/profile_generator and python/rank_generator generate HTMLs that are stored within the `html/` folder
+This way, when user accesses those pages, code checks whether the cache is valid (`cache_profile` table on DB) and if it is, just returns the cached HTML.
+
+Database:
+
+admin* - unused
+badges_* - deprecated
+bugreports - deprecated
+cache - cached values for each user reputation (the reputation is updated every 30 minutes via cron. The real reputation is stored in `users_stats`). 2019: reputation = power
+chagelog - deprecated
+clan - existing clans. Several deprecated columns
+clan_badge - Clan badges
+clan_ddos - Holds information regarding DDoS attacks between clan users. Used for detecting clan wars
+clan_ddos_history - History of DDoS between clans in a specific clanwar. Used to generate the clan war log
+clan_defcon - Calculates requirements to start a clan war (better explained later on)
+clan_requests - clan join requests
+clan_war - clan wars happening at the moment
+clan_war_history - history of clan wars. This could be merged with `clan_war`. Poorly designed DB. 2019 note: that's true.
+fbi - IPs being tracked by the FBI (better explained later on)
+hardware - contains players hardware (net, hdd, cpu, ram), including NPCs. isNPC = 0 means it is a user (VPC)
+hardware_external - xhd data
+hist_* tables are used to store information across rounds. Contains data from past rounds
+hist_*_current - cached data from the current round
+hist_*_all - Accumulated (sum) data of all rounds (current and previous ones). "hist_*_all = hist_* + hist_*_current"
+internet_connections - Lists all active connections. Not sure if it's working. It's used by nmap software to figure out who is connected to each IP
+internet_important - List of important IPs (NPCs), and which ones each user has access to. Appears at the `internet.php` home page.
+internet_webserver - Premium users can install webservers ("apache") on their IPs. Requires the webserver.exe software
+lists - IPs on Hacked Database
+lists_bankAccounts - bank account data on Hacked Database
+lists_notifications - If I lose any virus (IP reset, AV, password changed) I'll be notified
+log_edit - I don't remember (seriously)! Maybe deprecated. Either way, not very important for now. 2019 Note: I think it is important, but I still don't remember
+missions_history - Keeps the history of missions completed by the user
+npc_reset - Used by restoreNPC cron job. The NPCs are reseted from time to time (deleted viruses, original software restored)
+payments* - Paypal API integration for premium users, but it's not currently working
+processes - process data
+processes_paused - Paused processes contain special data to know the correct duration, etc.
+profile - cached data that appears on user profile
+ranking_* - Current round rank. Updated every 30 minutes by the cron job
+round - Round data. current round = round with greatest ID. 2019: IMPORTANT NOTE: I remember having to manually insert a round with status 0 (or something like that) in order to be able to generate the round using the python scripts.
+round_ddos - DDoS attacks happening on the current round
+round_stats - stats from the current round
+safenet - better explained below
+server_stats - total stats from past rounds
+software - duh
+software_external - software kept on xhd
+software_folders - software kept on folders
+software_original - original NPC software, used to figure out which software should be restored from time to time via the restoreNPC cron script.
+software_running - Currently running software
+software_texts - text files 
+users - duh
+users_badge - users badges..
+users_facebook - users with facebook login has their info here (maps facebook id to game user id). Similar to `users_twitter`
+users_friends - friends list
+users_online - List of online users
+users_premium - unused, premium system hasn't been implemented yet (2019: See note at top of the file)
+users_stats - general stats
+virus - installed virus data
+virus_ddos - cache of ddos virus, so we don't have to look at the software table which is a lot larger (when there is a DDoS attack, for instance, this table is heavily utilized)
+virus_doom - information from special doom virus
+
+Clan War:
+
+
+Two clans are at war if:
+Read defcon2.php at cron(2) folder to a more up-to-date description of the clan war scenario
+
+Safenet
+
+The safenet is a game "police". It detects actions like DDoS or wire transfers. Depending on the value/depth of that action, there is a greater probability that safenet will catch you.
+When they do, your IP is partially listed on their website (like 189.49.xx.xxx) and fully listed within their server.
+(If someone hacks the safenet, they will figure out your IP address)
+
+FBI
+
+In case the IP that is tracked by the safenet is caught again, there's a chance it will be reported to the FBI
+Then, the player's IP fully appears on the game homepage, and there is a bounty.
+Whoever DDoSed that player until his hardware is seized receives the bounty.
+
+################################################################################
+### Original text in portuguese:
+################################################################################
+
+Tentando explicar o código.
+
+Notar que:
+
+    - Vários arquivos (até pastas inteiras) estão deprecated e não são usados mais. principalmente na pasta js e css.
+
+A pasta classes contém a parte mais importante do jogo, e concentra as funções usadas.
+
+Database.class -> Classe responsável por Login e Sign Up
+Fame.class -> Usada no Hall of Fame
+Forum.class -> Ajuda na integração com o phpbb. No momento não funciona (precisa atualizar alguns hacks feitos no código do fórum)
+List.class -> Código da parte Hacked Database
+NPC.class -> Ajuda a gerenciar os NPCs (IPs que não pertencem a nenhum usuário, e sim ao jogo)
+PC.class -> Contém 4 classes:
+    Hardware
+    Log
+    Software
+    Virus
+PDO.class -> Conexão com o banco
+Pagination.class -> Gerencia o código das páginas que precisa fazer paginação
+Process.class -> Gerencia os processos. Por exemplo, fazer download de um software inicia um processo que vai durar X segundos. É possível pausar, etc
+Python.class -> Interface php<>python
+Ranking.class -> Além de funções relacionadas ao ranking, tb tem a parte de certificações.
+Social.class -> Perfil, badges, friends
+Storyline.class -> Inicia / Mantém a missão de tutorial, safenet, FBI, round, nsa, md (storyline em geral. ler info/storyline.txt)
+Versioning -> deprecated
+
+Cron:
+A pasta cron inteira está deprecated e precisando de atualização, exceto o defcon2.php que deve ser movido pra cron2.
+O objetivo é atualizar esses crons e passar pra cron2, alguns já foram atualizados
+
+python/profile_generator e python/rank_generator geram HTMLs que ficam salvos na pasta html/
+Assim, quando o user entra na página, ele verifica se o cache é válido (tabela cache_profile no BD) e se for apenas exibe o html.
+
+Banco de dados:
+
+admin* - unused (ainda não há nenhum painel de administração)
+badges_* - deprecated
+bugreports - deprecated
+cache - valor cacheado para reputação de cada usuário (a reputação é atualizada de 30 em 30 minutos pelo cron. a reputação real fica em users_stats)
+chagelog - deprecated
+clan - clans existentes. várias colunas deprecated
+clan_badge - badges que os clans receberam (badges = milestones, ex: Best clan of round 3)
+clan_ddos - mantém informação de ddos que aconteceu entre usuários de clans
+clan_ddos_history - mantém histórico de ddos que aconteceram em uma específica clanwar. é usado pra gerar o clan war log
+clan_defcon - estuda condições para iniciar a clan war (explicada melhor mais pra frente)
+clan_requests - join requests para entrar em clans
+clan_war - guerras acontecendo no momento
+clan_war_history - histórico de guerras que aconteceram. dá pra juntar esse com a clan_war. bd muito mal feito.
+fbi - listas de ip no fbi (explicado melhor mais pra frente)
+hardware - contém o hardware (net, hdd, cpu, ram) de todos os players (incluindo NPCs). isNPC = 0 para usuário comum
+hardware_external - dados do xhd
+hist_* são usados para manter a informação através dos rounds. contém dados de todos os rounds passados
+hist_*_current - dados cacheados do round atual
+hist_*_all - dados somados de todos os rounds (all-time data). hist_*_all = hist_* + hist_*_current
+internet_connections - lista as conexões ativas. não sei se está funcionando bem. é utilizado pelo software nmap para saber quem tá online em determinado ip
+internet_important - lista de IPs "importantes" (NPCs) existentes, e quais cada usuário tem. aparece na home page da internet.php
+internet_webserver - é possível usuários (premium) instalarem webservers ("apache") nos seus ips. precisa do software webserver.exe
+lists - ips que ficam no hacked database
+lists_bankAccounts - aba bank accounts do hacked db
+lists_notifications - caso eu perca algum virus (mudou IP, passou AV, mudou senha) eu serei notificado
+log_edit - não lembro. (sério!). talvez é deprecated. de qlqr forma, não é mto importante por enquanto
+missions_history - mantém o histórico de missões completas pelo usuário.
+npc_reset - utilizado pelo cron restoreNPC. Os npcs são resetados de tempos em tempos (virus deletados, softwares originais restaurados)
+payments* - é pra api do paypal de user premium, mas não tá funcionando
+processes - informações dos processos
+processes_paused - processos pausados têm dados especiais para saber a duração correta, etc.
+profile - dados cacheados que aparecem no perfil do usuário.
+ranking_* - ranking do round atual. editado de 30 em 30 minutos pelo cron
+round - dados dos rounds. round atual = round de maior ID
+round_ddos - ataques DDoS que aconteceram no round atual.
+round_stats - stats do round atual
+safenet - melhor explicado mais pra frente
+server_stats - stats somadas dos rounds anteriores
+software - duh
+software_external - softwares mantidos no hd externo
+software_folders - softwares que pertencem a uma pasta.
+software_original - softwares originais dos npcs, que devem ser restaurados de tempos em tempos
+software_running - softwares em execução
+software_texts - text files 
+users - duh
+users_badge - lista badges que usuários ganharam.
+users_facebook - caso o user tenha logado pelo facebook, a info dele fica aqui
+users_friends - lista de amizades
+users_online - lista usuários online (logout por sessão expirada está desativado)
+users_premium - unused, sistema premium ainda n foi feito
+users_stats - stats gerais
+virus - informações dos virus instalados
+virus_ddos - cache dos virus ddos, para não ter que procurar na tabela software que é muito maior (quando houver um ataque DDoS, por exemplo, essa tab é bastante utilizada)
+virus_doom - infos do virus doom especial (ver storyline)
+
+Clan War:
+
+Dois clans entram em guerra se
+a) 1 usuário do clan1 atacar o clan server do clan2, e 1 usuário do clan2 revidar esse ataque
+b) 1 (ou +) usuário do clan1 atacar pelo menos 2 usuários do clan2, e pelo menos 1 usuário do clan2 revidar esse ataque 
+
+Há uma recompensa (bounty). sistema bem interessante. o clan_defcon faz a análise se tem alguma guerra eminente (através do cron defcon2.php)
+
+Safenet
+
+A safenet é uma "Polícia" do jogo. Ela detecta ações do tipo DDoS ou transfereências bancárias. Dependendo do nível dessa ação, há uma maior probabilidade de a safenet te pegar.
+Quando a safenet te pega, seu IP fica listado parcialmente no site deles (tipo: 189.49.xx.xxx), e completamente no servidor deles
+(se alguém invadir a safenet, vai saber o ip)
+
+FBI
+
+Caso o ip que está na safenet volte a cometer ddos ou transferir $, pode ser que vá pro FBI.
+Aí o IP do cara aparece direto na homepage, e há uma recompensa.
+Quem DDoSar o cara até ele ficar com o hardware mínimo ganha a recompensa.

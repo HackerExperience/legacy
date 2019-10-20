@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Internet - Hacker Experience</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="../css/bootstrap.min.css" />
+        <link rel="stylesheet" href="../css/bootstrap-responsive.min.css" />
+        <link rel="stylesheet" href="../css/he.css" />
+        
+        <link href="../font-awesome/css/font-awesome.css" rel="stylesheet">
+    </head>
+    <body class="internet history">
+        <div id="header">
+            <h1><a href="/dashboard.html">Hacker Experience</a></h1>
+        </div>
+        <div id="user-nav" class="navbar navbar-inverse">
+            <ul class="nav btn-group">
+                <li class="btn btn-inverse"><a href="profile.php"><i class="fa fa-inverse fa-user"></i> <span class="text">My Profile</span></a></li>
+                <li class="btn btn-inverse"><a href="mail.php"><i class="fa fa-inverse fa-envelope"></i> <span class="text">E-mail</span> <span class="mail-unread"></span></a></li>
+                <li class="btn btn-inverse"><a title="" href="#"><i class="fa fa-inverse fa-wrench"></i> <span class="text">Settings</span></a></li>
+                <li class="btn btn-inverse"><a href="logout.php"><i class="fa fa-power-off fa-inverse"></i> <span class="text">Logout</span></a></li>
+            </ul>
+        </div>
+        <span id="notify"></span>
+        <div id="sidebar">
+            <a href="#" class="visible-phone"><i class="icon icon-home"></i> Internet</a>
+            <ul>
+                <li><a href="index.php"><i class="fa fa-inverse fa-home"></i> <span>Home</span></a></li>
+                <li><a href="processes.php"><i class="fa fa-inverse fa-tasks"></i> <span>Task manager</span></a></li>
+                <li id="menu-software"><a href="software.php"><i class="fa fa-inverse fa-folder-open"></i> <span>Software</span></a></li>
+                <li id="menu-internet" class="active"><a href="internet.php"><i class="fa fa-inverse fa-globe"></i> <span>Internet</span></a></li>
+                <li><a href="log.php"><i class="fa fa-inverse fa-book"></i> <span>Log file</span></a></li>
+                <li><a href="hardware.php"><i class="fa fa-inverse fa-desktop"></i> <span>Hardware</span></a></li>
+                <li><a href="university.php"><i class="fa fa-inverse fa-flask"></i> <span>University</span></a></li>
+                <li><a href="finances.php"><i class="fa fa-inverse fa-briefcase"></i> <span>Finances</span></a></li>
+                <li><a href="list.php"><i class="fa fa-inverse fa-terminal"></i> <span>Hacked database</span></a></li>
+                <li id="menu-mission"><a href="missions.php"><i class="fa fa-inverse fa-building-o"></i> <span>Missions</span></a></li> 
+                <li><a href="clan.php"><i class="fa fa-inverse fa-users"></i> <span>Clan</span></a></li>
+                <li><a href="ranking.php"><i class="fa fa-inverse fa-bars"></i> <span>Ranking</span></a></li>
+                <li><a href="fame.php"><i class="fa fa-inverse fa-star"></i> <span>Hall of Fame</span></a></li>
+                            </ul>
+        </div>
+        <div id="content">
+            <div id="content-header">
+                <h1>Internet</h1>
+                <div class="header-ip hide-phone">
+                    <div style="text-align: right;">
+                        <span class="header-ip-show"></span>
+                    </div>
+                    <div class="header-info">
+                        <div class="pull-right">
+                            <img src="images/sprite/time.png"> <span class="small nomargin" style="margin-right: 7px;">02-20 08:16 pm</span>
+                            <span class="online"></span>
+                            <div class="reputation-info"></div><div class="finance-info"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="breadcrumb">
+                <a href="index.php" title="Go to Home" class="tip-bottom"><i class="icon-home"></i> Home</a>
+                    
+                <a href="internet.php" id="link 0" class="current"> Internet</a>
+            </div>
+            <div class="container-fluid">
+                <div class="row-fluid">
+                    <div class="span9">
+                        <div class="widget-box">
+                            <div class="widget-content padding">
+                                <div class="span12">
+                                    <form action="" method="get" class="form-horizontal">
+                                        <div class="browser-input">
+                                            IP address: <input class="browser-bar" name="ip" type="text" value="1.2.3.4"/>
+                                            <input type="submit" class="btn btn-inverse" value="Go">
+                                            <div style="float: right; padding-top: 5px;" class="hide-phone">
+                                                <a href="internet?ip=1.2.3.4"><img src="images/home.png" alt="Home" title="Home"></img></a>
+                                                <a href="internet.php"><img src="images/refresh.png" alt="Refresh" title="Refresh"></img></a>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                                <div style="clear: both;"></div>
+                            </div>
+                        </div>
+                        <div class="widget-box">
+                            <div class="widget-title">
+                                <ul class="nav nav-tabs">   
+                                    <li class="link active"><a href="internet.php"><span class="fam-layout_header icon-tab"></span>Index</a></li>
+                                    <li class="link"><a href="?action=login"><span class="fam-application_form icon-tab"></span>Login</a></li>
+                                    <li class="link"><a href="?action=hack"><img src="images/sprite/internet_hack.png" class="icon-tab">Hack</a></li>
+                                </ul>
+                            </div>
+                            <div class="widget-content padding noborder">
+                                <div class="span12">
+                                    <p>Server 1.2.3.4 is <font color="green"><b>online</b></font><span class="label label-warning pull-right">Whois</span></p>
+
+<div class="center">
+<img alt="Microlost" title="Microlost" src="../images/npc/microlost.jpg">
+<br/><br/>
+Will work for a while.
+</div>
+                                    
+                            </div>
+                        </div>
+                        <div style="clear: both;" class="nav nav-tabs">&nbsp;</div>
+                    </div>
+                </div>
+                <div class="span3">
+                    <div class="widget-box collapsible">
+                        <div class="widget-title">
+                            <a href="#history" data-toggle="collapse">
+                                <span class="icon"><img src="images/sprite/page_copy.png"></span>
+                                <h5>Recently visited</h5>
+                            </a>
+                        </div>                                            
+                        <div class="collapse in" id="history">
+                            <div class="widget-content">  
+                                <div id="visited-ips"></div>                                              
+                            </div>
+                        </div>  
+                    </div>            
+                    <div class="widget-box collapsible">
+                        <div class="widget-title">
+                            <a href="#important" data-toggle="collapse">
+                                <span class="icon"><i class="fam-rosette"></i></span>
+                                <h5>Important IPs</h5>
+                                <span class="label label-important hide1024">1</span>
+                            </a>
+                        </div>
+                        <div class="collapse in" id="important">
+                            <div class="widget-content">
+                                <a href="internet?ip=1.2.3.4">1.2.3.4<span class="hide1024 small"> First Whois</span></a><br/>
+                            </div>
+                        </div>
+                    </div>
+                        <div style="text-align: center; ">
+                            <img src="img/add3.jpeg">
+                        </div>
+                        </div>
+                    </div>
+                </div>
+
+        <div id="breadcrumb" class="center">
+            <span class="pull-left hide-phone" style="margin-left: 10px;"><a href="legal.php" ><font color="">Terms of use</font></a></span>
+            <span class="pull-left hide-phone"><a href="#" ><font color="">Forum</font></a></span>
+            <span class="pull-left hide-phone"><a href="stats.php" >Stats</a></span>
+            
+            <span class="center">2014 &copy; <b>NeoArt Games</b><a>28 queries in 28 ms</a></span>
+            
+            <span class="pull-right hide-phone" style="margin-right: 10px;"><a href="#" ><font color="">Credits</font></a></span>
+            <span id="report-bug" class="pull-right hide-phone link"><a>Report Bug</a></span>
+            <span class="pull-right hide-phone"><a href="#" ><font color="">Premium</font></a></span>
+        </div>
+        <!--[if IE]><script src="js/excanvas.min.js"></script><![endif]-->
+        <script src="../js/jquery.min.js"></script>
+        <!--<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>-->
+        <script src="../js/bootstrap.min.js"></script>
+        <script src="../js/jquery.flot.min.js"></script>
+        <script src="../js/jquery.flot.resize.min.js"></script>
+        <script src="../js/jquery.peity.min.js"></script>
+        <script src="../js/jquery.validate.js"></script> <!-- tmp -->
+        
+        
+
+        
+        <script src="../js/main.js"></script>
+
+    </body>
+<!--
+    Hello! I've just got to let you know.
+    www.neoartgames.com
+-->
+</html>

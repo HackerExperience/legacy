@@ -1,0 +1,774 @@
+msgid "Home"
+msgstr ""
+
+msgid "Task Manager"
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "Internet"
+msgstr ""
+
+msgid "Log File"
+msgstr ""
+
+msgid "Hardware"
+msgstr ""
+
+msgid "University"
+msgstr ""
+
+msgid "Finances"
+msgstr ""
+
+msgid "Hacked Database"
+msgstr ""
+
+msgid "Missions"
+msgstr ""
+
+msgid "Clan"
+msgstr ""
+
+msgid "Ranking"
+msgstr ""
+
+msgid "Hall of Fame"
+msgstr ""
+
+msgid "Server Time"
+msgstr ""
+
+msgid "Control Panel"
+msgstr ""
+
+msgid "Hardware Info"
+msgstr ""
+
+msgid "Hardware Information"
+msgstr ""
+
+msgid "Processor"
+msgstr ""
+
+msgid "Hard Drive"
+msgstr ""
+
+msgid "Memory"
+msgstr ""
+
+msgid "External HD"
+msgstr ""
+
+msgid "My Profile"
+msgstr ""
+
+msgid "E-Mail"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "General Info"
+msgstr ""
+
+msgid "Reputation"
+msgstr ""
+
+msgid "Running tasks"
+msgstr ""
+
+msgid "Connected to"
+msgstr ""
+
+msgid "Master"
+msgstr ""
+
+msgid "War"
+msgstr ""
+
+msgid "Ranked"
+msgstr ""
+
+msgid "Top 7 users"
+msgstr ""
+
+msgid "View ranking"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "View all"
+msgstr ""
+
+msgid "FBI Wanted List"
+msgstr ""
+
+msgid "FBI"
+msgstr ""
+
+msgid "View full wanted list"
+msgstr ""
+
+msgid "No wanted IPs ATM"
+msgstr ""
+
+msgid "View all, f"
+msgstr ""
+
+msgid "Announcements"
+msgstr ""
+
+msgid "Latest Forum Posts"
+msgstr ""
+
+msgid "View forum"
+msgstr ""
+
+msgid "Round Info"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Started"
+msgstr ""
+
+msgid "Age"
+msgstr ""
+
+msgid "Forum Updates"
+msgstr ""
+
+msgid "Recent Comments"
+msgstr ""
+
+msgid "Recent Posts"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "Cracker"
+msgstr ""
+
+msgid "Password Hasher"
+msgstr ""
+
+msgid "Port Scan"
+msgstr ""
+
+msgid "Firewall"
+msgstr ""
+
+msgid "Hidder"
+msgstr ""
+
+msgid "Seeker"
+msgstr ""
+
+msgid "Antivirus"
+msgstr ""
+
+msgid "Spam virus"
+msgstr ""
+
+msgid "Warez virus"
+msgstr ""
+
+msgid "DDoS virus"
+msgstr ""
+
+msgid "Virus collector"
+msgstr ""
+
+msgid "DDoS breaker"
+msgstr ""
+
+msgid "Exploit"
+msgstr ""
+
+msgid "Nmap"
+msgstr ""
+
+msgid "Analyzer"
+msgstr ""
+
+msgid "Torrent"
+msgstr ""
+
+msgid "Web server"
+msgstr ""
+
+msgid "Bitcoin Miner"
+msgstr ""
+
+msgid "Riddle"
+msgstr ""
+
+msgid "Doom"
+msgstr ""
+
+msgid "Text file"
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "Doom virus"
+msgstr ""
+
+msgid "Virus"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Software name"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Bitcoin Wallet"
+msgstr ""
+
+msgid "Delete folder"
+msgstr ""
+
+msgid "There are no softwares to display."
+msgstr ""
+
+msgid "HDD Usage"
+msgstr ""
+
+msgid "New text file"
+msgstr ""
+
+msgid "Create folder"
+msgstr ""
+
+msgid "Delete DDoS reports"
+msgstr ""
+
+msgid "Seek (hidden with "
+msgstr ""
+
+msgid "Terms of Use"
+msgstr ""
+
+msgid "Stats"
+msgstr ""
+
+msgid "queries in"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "Report Bug"
+msgstr ""
+
+msgid "Premium"
+msgstr ""
+
+msgid "Licensed to"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "RAM usage"
+msgstr ""
+
+msgid "Last Edit"
+msgstr ""
+
+msgid "No one"
+msgstr ""
+
+msgid "Unknown player"
+msgstr ""
+
+msgid "Seek (hidden with "
+msgstr ""
+
+msgid "Research"
+msgstr ""
+
+msgid "Buy license"
+msgstr ""
+
+msgid "Back to root"
+msgstr ""
+
+msgid "Edit file"
+msgstr ""
+
+msgid "Edit folder"
+msgstr ""
+
+msgid "Seek (hidden with "
+msgstr ""
+
+msgid "Detailed Information"
+msgstr ""
+
+msgid "Seek (hidden with "
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Server %1$s is %2$s"
+msgstr ""
+
+msgid "No webserver running at "
+msgstr ""
+
+msgid "Bank"
+msgstr ""
+
+msgid "Whois"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "ISP"
+msgstr ""
+
+msgid "Clan Server"
+msgstr ""
+
+msgid "Evil Corp"
+msgstr ""
+
+msgid "Bitcoin Market"
+msgstr ""
+
+msgid "Important"
+msgstr ""
+
+msgid "Seek (hidden with "
+msgstr ""
+
+msgid "Index"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Account login"
+msgstr ""
+
+msgid "Hack account"
+msgstr ""
+
+msgid "Register account"
+msgstr ""
+
+msgid "Account overview"
+msgstr ""
+
+msgid "Logs"
+msgstr ""
+
+msgid "Softwares"
+msgstr ""
+
+msgid "Clan server"
+msgstr ""
+
+msgid "Server %1$s is %2$s"
+msgstr ""
+
+msgid "Seek (hidden with "
+msgstr ""
+
+msgid "Server %1$s is %2$s"
+msgstr ""
+
+msgid "Upgrade processor"
+msgstr ""
+
+msgid "Power"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Upgrade memory"
+msgstr ""
+
+msgid "Upgrade Hard Drive"
+msgstr ""
+
+msgid "Buy Server"
+msgstr ""
+
+msgid "Account #"
+msgstr ""
+
+msgid "You dont have enough money"
+msgstr ""
+
+msgid "Buy new external hard drive"
+msgstr ""
+
+msgid "Upgrade External Disk"
+msgstr ""
+
+msgid "Upgrade internet connection"
+msgstr ""
+
+msgid "What would you like to rename \'%s\' for?"
+msgstr ""
+
+msgid "Seek (hidden with "
+msgstr ""
+
+msgid "Enter username and password to continue."
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "IP address"
+msgstr ""
+
+msgid "Go"
+msgstr ""
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Server %1$s is %2$s"
+msgstr ""
+
+msgid "Enter account number and password to continue."
+msgstr ""
+
+msgid "You do not have an account on this bank."
+msgstr ""
+
+msgid "%s Create one %s now"
+msgstr ""
+
+msgid "Important IPs"
+msgstr ""
+
+msgid "Recently visited"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "My external disks"
+msgstr ""
+
+msgid "Ops. You do not have any external disks yet."
+msgstr ""
+
+msgid "What would you like to rename \'%s\' for?"
+msgstr ""
+
+msgid "Seek (hidden with "
+msgstr ""
+
+msgid "Server %1$s is %2$s"
+msgstr ""
+
+msgid "change"
+msgstr ""
+
+msgid "Look! Your %s has a new, pretty name. :)"
+msgstr ""
+
+msgid "Confirm buy"
+msgstr ""
+
+msgid "Are you sure you want to buy this new %s for %s<strong>$%s</strong></span>?"
+msgstr ""
+
+msgid "Yes, I want to buy it."
+msgstr ""
+
+msgid "No, cancel"
+msgstr ""
+
+msgid "What would you like to rename \'%s\' for?"
+msgstr ""
+
+msgid "Software %s moved to folder."
+msgstr ""
+
+msgid "Seek (hidden with "
+msgstr ""
+
+msgid "Disconnected from %s."
+msgstr ""
+
+msgid "Disconnected from account %s."
+msgstr ""
+
+msgid "The connection to %s doesnt exists anymore. You were disconnected."
+msgstr ""
+
+msgid "Server %1$s is %2$s"
+msgstr ""
+
+msgid "%s transferred to account %s."
+msgstr ""
+
+msgid "%s transferred to account %s. Mission completed."
+msgstr ""
+
+msgid "Account password changed. The new password is %s."
+msgstr ""
+
+msgid "New virus assigned to %s."
+msgstr ""
+
+msgid "%s removed from list."
+msgstr ""
+
+msgid "You must be logged in at %s to complete this process!"
+msgstr ""
+
+msgid "Successfully cracked %s. Password is <strong>%s</strong>."
+msgstr ""
+
+msgid "Bank account hacked! Password is <strong>%s</strong>. %sLogin!%s"
+msgstr ""
+
+msgid "Successfully exploited %s. You have <strong>%s</strong> permissions."
+msgstr ""
+
+msgid "Invalid username. Allowed characters are %s."
+msgstr ""
+
+msgid "The email %s is not valid."
+msgstr ""
+
+msgid "Mission completed! %s added to %s."
+msgstr ""
+
+msgid "My hardware"
+msgstr ""
+
+msgid "Upgrade server"
+msgstr ""
+
+msgid "Buy new server"
+msgstr ""
+
+msgid "Paste your text inside the following box:"
+msgstr ""
+
+msgid "Insert"
+msgstr ""
+
+msgid "Rows:"
+msgstr ""
+
+msgid "Cols:"
+msgstr ""
+
+msgid "URL:"
+msgstr ""
+
+msgid "Width (optional):"
+msgstr ""
+
+msgid "Height (optional):"
+msgstr ""
+
+msgid "E-mail:"
+msgstr ""
+
+msgid "Description (optional):"
+msgstr ""
+
+msgid "<a class="sceditor-more">{0}</a>', editor._('More"
+msgstr ""
+
+msgid "Video URL:"
+msgstr ""
+
+msgid "You need the certification %s to enable this page."
+msgstr ""
+
+msgid "Developer"
+msgstr ""
+
+msgid "Game Designer"
+msgstr ""
+
+msgid "System Administrator"
+msgstr ""
+
+msgid "Design"
+msgstr ""
+
+msgid "Javascript Libraries"
+msgstr ""
+
+msgid "Special thanks"
+msgstr ""
+
+msgid "You should be here?"
+msgstr ""
+
+msgid "contact@hackerexperience.com"
+msgstr ""
+
+msgid "Contact us"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Create text file at "
+msgstr ""
+
+msgid "File name"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Show editor"
+msgstr ""
+
+msgid "Create text file"
+msgstr ""
+
+msgid "Edit text file at "
+msgstr ""
+
+msgid "Edit text file"
+msgstr ""
+
+msgid "Create folder at "
+msgstr ""
+
+msgid "Folder name"
+msgstr ""
+
+msgid "Edit folder at "
+msgstr ""
+
+msgid "Change password"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "You can wait %s<strong>%s</strong></span> for your next free reset or pay <strong>$%s</strong> for our charged password reset service."
+msgstr ""
+
+msgid "Please wait"
+msgstr ""
+
+msgid "You do not have enough money."
+msgstr ""
+
+msgid "You can reset your password now <b>for free!</b>"
+msgstr ""
+
+msgid "There already is a password change in process. Refeer to the %sTask Manager%s."
+msgstr ""
+
+msgid "Are you sure you want to buy %s for %s<strong>$%s</strong></span>?"
+msgstr ""
+
+msgid ".DOKU_PLUGIN_NAME_REGEX."
+msgstr ""
+
+msgid "All tasks"
+msgstr ""
+
+msgid "CPU tasks"
+msgstr ""
+
+msgid "Download manager"
+msgstr ""
+
+msgid "Running softwares"
+msgstr ""
+
+msgid "Look! Your %s has a new, pretty name. :)"
+msgstr ""
+
+msgid "Are you sure you want to buy this new %s for %s<strong>$%s</strong></span>?"
+msgstr ""
+
+msgid "What would you like to rename \'%s\' for?"
+msgstr ""
+
+msgid "Seek (hidden with "
+msgstr ""
+
+msgid "Server %1$s is %2$s"
+msgstr ""
+
+msgid "Successfully cracked %s. Password is <strong>%s</strong>."
+msgstr ""
+
+msgid "Bank account hacked! Password is <strong>%s</strong>. %sLogin!%s"
+msgstr ""
+
+msgid "Successfully exploited %s. You have <strong>%s</strong> permissions."
+msgstr ""
+
+msgid "Hello World"
+msgstr ""
+
+msgid "Hello again."
+msgstr ""
+
+msgid "pattern should get me :)"
+msgstr ""
+
+msgid "text need translation"
+msgstr ""
+
+msgid "%s BTC transfered from %s to %s."
+msgstr ""
+
+msgid "%s BTC bought for $%s."
+msgstr ""
+
+msgid "$%s transfered to account #%s"
+msgstr ""
+
+msgid "Logged out from address <strong>%s</strong>."
+msgstr ""
+
+msgid "You logged in to the address <strong>%s</strong>."
+msgstr ""
+
+msgid "DDoS attack against <strong>%s</strong> launched."
+msgstr ""
+

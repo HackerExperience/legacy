@@ -1,0 +1,19 @@
+/*  phpBB3 Style Sheet
+    --------------------------------------------------------------
+	Style name:			CA Gen2
+	Based on style:		prosilver (the default phpBB 3.0.x style)
+	Original author:	Tom Beddard ( http://www.subblue.com/ )
+	Modified by:		stsoftware ( http://www.stsoftware.biz/ )
+    --------------------------------------------------------------
+*/
+
+@import url("common.css");
+@import url("links.css");
+@import url("content.css");
+@import url("buttons.css");
+@import url("cp.css");
+@import url("forms.css");
+@import url("post.css");
+@import url("blocks.css");
+@import url("tweaks.css");
+@import url("colours.css");

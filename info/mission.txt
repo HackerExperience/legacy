@@ -1,0 +1,18 @@
+mission types:
+
+1 - delete 1.0 (money rate)
+2 - copy   2.0 
+3 - bank check acc 3.0
+4 - bank TRANSFER 5.0
+5 - ddos 20.0
+
+
+50 - Desenvolveu CRC X => Hack NSA, DL doom, (Install doom);
+51 - Fez download do doom => Install doom;
+52 - Fez download do CRC X => HACK NSA, DL doom, (install doom);
+53 - Recebeu upload do doom => install doom;
+54 - Recebeu upload do CRC X => Hack NSA, dl doom, (install doom);
+
+80 - tutorial 1 (Invadir X atrás de 1 arquivo)
+81 - tutorial 2 (invadiu e foi em software. não muda nada)
+82 - tutorial 3 (invadiu, software, foi em log. muda o ip da victim)

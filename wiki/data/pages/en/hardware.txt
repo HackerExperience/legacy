@@ -1,0 +1,33 @@
+Hardware is the page where you can view your current server(s) and upgrade them. You can also choose to purchase one or more external harddrives.
+
+======Servers======
+Servers are where your hardware lives. You can have more than one server. If this is the case, your total hardware will simply be the sum of each servers hardware.
+
+You can buy as many servers as your money allows, though the price for servers grows exponentially and you will likely have no more than five servers.
+
+Your server is split into four different parts, each one of them with a specific function.
+
+=====CPU=====
+The CPU - Central Processing Unit - is responsible for most file-related actions. It determines how quickly you are able to, for example, edit the log file, delete a software, run the antivirus, or hide a software.
+
+Having a good CPU is a must to anyone who wants to compete between the first positions.
+
+=====Internet=====
+The Internet, also refereed to as NET or Connection, determines how fast you can download/upload a file. Having a good connection speed will ensure you faster download speed.
+
+=====Hard Drive Disk======
+The Hard Drive, also refereed to as HD or HDD, is an important aspect of your server. It determines how many softwares you can have stored.
+
+=====RAM======
+The RAM, also refereed to as Memory, might not seem very important at the first stages of the game, but it will limit how many simultaneous running softwares you can have. The higher your software versions get, the more RAM you will need.
+
+======External Hard Drive======
+The External Hard Drive, or XHD, can be used as a backup strategy in case someone wipes your files and you need to restart from scratch. 
+
+The external hard drive can not be accessed remotely. This means the files you store there will never be deleted, even if someone performs a powerful DDoS attack against you. Use it wisely, because space is quite limited (and expensive).
+
+If you already have an XHD, you can choose to upgrade it or buy a new one. Use whatever strategy you prefer.
+
+
+======Clan Hardware======
+You can buy new servers or upgrade existing ones simply by connecting to your clan server and selecting the tab Hardware. It works the same way as your local hardware, except that any clan member can upgrade the server.

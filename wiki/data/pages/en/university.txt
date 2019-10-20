@@ -1,0 +1,49 @@
+At the University you are able to research your softwares and also take brand new certifications.
+
+====== Research ======
+Researching is a key aspect of the game. With it, you are allowed to upgrade your current software by paying a <del>small</del> fee.
+
+In order to research a software, you must first buy it's [[en:softwares#software_license|license]].
+
+===== Researchable Softwares =====
+A software is said researchable if you can buy it's license and upgrade it's version.
+
+Softwares you can research:
+  * Cracker
+  * Password Hashing
+  * Firewall
+  * Hidder
+  * Seeker
+  * Anti-Virus
+  * Viruses (Spam, Warez, Miner and DDoS)
+  * Exploits (FTP and SSH)
+
+====== Certifications ======
+Certifications have the purpose of gradually introduce the game mechanics to players. They are needed in order to perform specific actions.
+===== Basic Tutorial ======
+The basic tutorial explains the very basics of the game, like what are [[en:log|Logs]], [[en:softwares|Softwares]], [[en:processes|Processes]], [[en:hacked_database|Hacked Database]], etc.
+
+Unlocks
+    * Menu links, except Internet
+===== Hacking 101 ======
+Now let's play. This certification explains the basics of hacking.
+
+Unlocks
+    * [[en:Internet]]
+    * [[en:hacking#brute-force_attack|Brute-Force attack]]
+    * [[en:Viruses]], except DDoS
+    * Guided tutorial
+===== Intermediate Hacking ======
+Here the player will learn new techniques like exploit attack and bank hacking
+
+Unlocks
+    * [[en:hacking#exploit_attack|Exploit attack]]
+    * Bank Hacking
+===== Advanced Hacking ======
+Unlocks
+    * DDoS attack
+===== DDoS Security ======
+This certification introduces the concept of DDoS Mitigation. After taking it, the user will be able to automatically mitigate DDoS attacks using his firewall.
+
+Unlocks
+    * DDoS Mitigation

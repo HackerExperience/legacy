@@ -1,0 +1,12 @@
+#2019: Not sure if accurate
+
+default units:
+
+Ram: mb
+hdd: mb
+cpu: mhz
+net: mb
+xhd: mb
+
+modelo por computador:
+PC: hdID:cpuID:ramID;hdID:cpuID:ramID //modelo com 2 computadores

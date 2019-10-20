@@ -1,0 +1,146 @@
+/* colour scheme for Taratasy template */
+/* _edit.css --- HIGHLIGHTING */
+.dokuwiki .section_highlight {
+	background-color: #F9F9F9 !important;
+}
+div.insitu-footnote {
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FDFCFA), color-stop(100%, #F5F2EC));
+	background: -webkit-linear-gradient(top, #FDFCFA 0%, #F5F2EC 100%);
+	background: -moz-linear-gradient(top, #FDFCFA 0%, #F5F2EC 100%);
+	background: -o-linear-gradient(top, #FDFCFA 0%, #F5F2EC 100%);
+	background: -ms-linear-gradient(top, #FDFCFA 0%, #F5F2EC 100%);
+	background: linear-gradient(top, #FDFCFA 0%, #F5F2EC 100%);
+}
+.dokuwiki div.tocheader {
+	color: __text_neu__;
+}
+.dokuwiki #toc__inside a.toc {
+	/*color: #805C78 !important;*/
+}
+/* basic.css */
+a:link, a:visited {
+	color: #5F4A1E;
+}
+input[type=submit], input.button, button {
+	background-color: #EAF0F0;
+    color: #353D48;
+}
+input[type=submit]:hover, input.button:hover, button:hover {
+	background-color: #CEDFFF;
+}
+input[type=text] {
+	color: #353D48;
+}
+/* content.css --- TABLES */
+.dokuwiki table.inline th {
+	background-color: #CEDFFF;
+}
+.dokuwiki table.inline tr:hover td, .dokuwiki table.inline tr:hover th {
+	background-color: #EAF0F0;
+}
+/* design.css */
+/* HEADER */
+#dokuwiki__header .row {
+	border-bottom: solid 1px #CFDBEC;
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #E7EDF5), color-stop(100%, #CFDBEC));
+	background: -webkit-linear-gradient(top, #E7EDF5 0%, #CFDBEC 100%);
+	background: -moz-linear-gradient(top, #E7EDF5 0%, #CFDBEC 100%);
+	background: -o-linear-gradient(top, #E7EDF5 0%, #CFDBEC 100%);
+	background: -ms-linear-gradient(top, #E7EDF5 0%, #CFDBEC 100%);
+	background: linear-gradient(top, #E7EDF5 0%, #CFDBEC 100%);
+}
+#dokuwiki__header h1 a {
+	color: #BCCFEA;
+    /*text-shadow:0 1px 2px rgba(17,38,67,0.5);*/
+    text-shadow: 0px 1px 0px rgba(255,255,255,.3), 0px -1px 0px rgba(0,0,0,.45);
+}
+#dokuwiki__header h1 a:hover {
+	color: #A6C1E7;
+}
+
+#dokuwiki__header div.breadcrumbs {
+    color: #A2A2A2;
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FEFEFE), color-stop(100%, #E8E8E8));
+	background: -webkit-linear-gradient(top, #FEFEFE 0%, #E8E8E8 100%);
+	background: -moz-linear-gradient(top, #FEFEFE 0%, #E8E8E8 100%);
+	background: -o-linear-gradient(top, #FEFEFE 0%, #E8E8E8 100%);
+	background: -ms-linear-gradient(top, #FEFEFE 0%, #E8E8E8 100%);
+	background: linear-gradient(top, #FEFEFE 0%, #E8E8E8 100%);
+}
+#dokuwiki__header div.breadcrumbs .bchead,
+#dokuwiki__header div.breadcrumbs a {
+	color: #A2A2A2;
+}
+#dokuwiki__header div.breadcrumbs .bchead {
+    font-style: normal;
+}
+#dokuwiki__footer .doc {
+	color: #CCCCCC;
+}
+#dokuwiki__header form.search {
+	color: #353D48;
+}
+/* TOOLS */
+#dokuwiki__usertools a.wikilink1, #dokuwiki__pagetools a.wikilink1, #dokuwiki__sitetools a.wikilink1,
+#dokuwiki__usertools a.wikilink2, #dokuwiki__pagetools a.wikilink2, #dokuwiki__sitetools a.wikilink2 {
+	color: #14273E;
+}
+
+/* USERTOOLS, PAGETOOLS, SITETOOLS */
+#dokuwiki__pagetools, #dokuwiki__pagetools ul {
+	background: none;
+	border: none;
+}
+#dokuwiki__usertools li,
+#dokuwiki__sitetools li {
+    border-right: 1px solid rgba(0, 0, 0, 0.06);
+}
+#dokuwiki__usertools li:last-child {
+    border-right: 0;
+}
+#dokuwiki__usertools li a,
+#dokuwiki__sitetools li a {
+    color: #777777;
+    text-decoration: none;
+}
+
+input[type=submit],
+input.button, button,
+#dokuwiki__usertools li a,
+#dokuwiki__sitetools li a,
+#dokuwiki__pagetools li a,
+#dokuwiki__usertools li.user {
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+#dokuwiki__pagetools li {
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #E7EDF5), color-stop(100%, #CFDBEC));
+	background: -webkit-linear-gradient(top, #E7EDF5 0%, #CFDBEC 100%);
+	background: -moz-linear-gradient(top, #E7EDF5 0%, #CFDBEC 100%);
+	background: -o-linear-gradient(top, #E7EDF5 0%, #CFDBEC 100%);
+	background: -ms-linear-gradient(top, #E7EDF5 0%, #CFDBEC 100%);
+	background: linear-gradient(top, #E7EDF5 0%, #CFDBEC 100%);
+	border-color: __border__;
+}
+#dokuwiki__usertools a:hover,
+#dokuwiki__sitetools a:hover,
+#dokuwiki__pagetools li:hover {
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #C5D0DF), color-stop(100%, #AAB4C2));
+	background: -webkit-linear-gradient(top, #C5D0DF 0%, #AAB4C2 100%);
+	background: -moz-linear-gradient(top, #C5D0DF 0%, #AAB4C2 100%);
+	background: -o-linear-gradient(top, #C5D0DF 0%, #AAB4C2 100%);
+	background: -ms-linear-gradient(top, #C5D0DF 0%, #AAB4C2 100%);
+	background: linear-gradient(top, #C5D0DF 0%, #AAB4C2 100%);
+}
+#dokuwiki__pagetools a {
+	text-decoration: none;
+}
+#dokuwiki__pagetools a, #dokuwiki__usertools a, #dokuwiki__sitetools a {
+	color: #353D48;
+}
+#dokuwiki__usertools a:hover, #dokuwiki__sitetools a:hover {
+    text-decoration:none;
+    color: #5F4A1E;
+}
+#dokuwiki__usertools li.user {
+	color: #A69DA4;
+}

@@ -1,0 +1,68 @@
+1 - Password cracker .crc
+2 - Password hasher .hash //sugestão de alteração para HASH, hash generator, sei lá.
+3 - Portscanner .scn
+4 - Firewall .fwl
+5 - Hidder //esconde softwares, arrumar outro nome .hdr
+6 - Seeker //"des-"esconde softwares, arrumar outro nome .skr
+7 - AntiVirus .av
+8 - Virus {spam} .vspam
+9 - Virus {warez} .vwarez
+10 - virus{ddos} .vddos
+11 - Virus collector (coleta $ de virus spam e warez .vcol)
+12 - DDoS breaker ("manager" do ddos) .vbreaker
+13 - FTP Exploit ftp_ .exp
+14 - SSH Exploit ssh_ .exp
+15 - nmap scanner
+16 - Hardware Analyzer
+17 - torrent.torrent
+18 - webserver.exe
+19 - wallet.dat
+20 - BTC Miner (.vminer)
+...
+26 - riddle.exe
+...
+29 - DOOM (nao virus).doom
+30 - text file (pointing to software_texts)
+31 - folder
+...
+50 - exploit to hack NSA .nsa [DEPRECATED]
+51 - EMP Launcher .emp [DEPRECATED]
+...
+90 - DOOM (virus).vdoom
+96 - vminer installed
+97 - vddos installed
+98 - vwarez installed
+99 - vspam installed
+
+notification lists types:
+
+1 - IP removed / changed
+2 - Password changed
+3 - Virus removed or deleted
+
+(generated software) names:
+
+if(v < 15):
+        return 'Basic'
+elif(v < 20):
+        return 'Generic'
+elif(v < 30):
+        return 'Decent'
+elif(v < 40):
+        return 'Intermediate'
+elif(v < 50):
+        return 'Competent'
+elif(v < 65):
+        return 'Advanced'
+elif(v < 80):
+        return 'Big'
+elif(v < 100):
+        return 'Amazing'
+elif(v < 120):
+        return 'Super'
+elif(v < 150):
+        return 'Ultra'
+elif(v < 175):
+        return 'Epic'
+else:
+        return 'Ultimate'

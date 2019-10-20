@@ -1,0 +1,99 @@
+﻿/* colour scheme for Taratasy template */
+
+/* _edit.css --- HIGHLIGHTING */
+
+.dokuwiki .section_highlight {
+    background-color: #F9F9F9 !important;
+}
+
+div.insitu-footnote {
+    background: -moz-linear-gradient(top, #FDFCFA 0%, #F5F2EC 100%);
+}
+
+.dokuwiki div.tocheader {
+    color: __text_neu__;
+}
+
+.dokuwiki #toc__inside {
+    color: #14273E;
+}    
+
+/* basic.css */
+
+a:link, a:visited {
+    color: #5F4A1E;
+}
+
+input[type=submit], input.button, button {
+    background-color: #EAF0F0;
+}
+
+input[type=submit]:hover, 
+input.button:hover, button:hover {
+    background-color: #CEDFFF;
+}
+
+/* content.css --- TABLES */
+
+.dokuwiki table.inline th {
+    background-color: #CEDFFF;
+}
+.dokuwiki table.inline tr:hover td,
+.dokuwiki table.inline tr:hover th {
+    background-color: #EAF0F0;
+}
+
+/* design.css */
+
+/* HEADER */
+
+#dokuwiki__header .row {
+    border: solid 1px #CFDBEC;
+    background: -moz-linear-gradient(top, #EDF9CF 0%, #CFE3A2 100%);
+}
+
+#dokuwiki__header h1 a {
+    color: #4E7031;
+}
+
+#dokuwiki__header p.claim {
+    color: #AAB4C2;
+}
+
+#dokuwiki__header div.breadcrumbs {
+    background: -moz-linear-gradient(top, #FEFEFE 0%, #E8E8E8 100%);
+}
+
+#dokuwiki__header div.breadcrumbs .bchead {
+    color: #0183B7;
+}
+
+#dokuwiki__footer .doc {
+    color: #CCCCCC;
+}
+
+/* TOOLS */
+#dokuwiki__usertools a.wikilink1,
+#dokuwiki__pagetools a.wikilink1,
+#dokuwiki__sitetools a.wikilink1,
+#dokuwiki__usertools a.wikilink2,
+#dokuwiki__pagetools a.wikilink2,
+#dokuwiki__sitetools a.wikilink2 {
+    color: #14273E;
+}
+
+/* USERTOOLS, PAGETOOLS, SITETOOLS */
+
+#dokuwiki__pagetools {
+    background: -moz-linear-gradient(top, #C5D0DF 0%, #AAB4C2 100%);
+}
+
+#dokuwiki__pagetools a,
+#dokuwiki__usertools a,
+#dokuwiki__sitetools a {
+    color: #353D48;
+}
+
+#dokuwiki__usertools li.user {
+    color: #805C78;
+}

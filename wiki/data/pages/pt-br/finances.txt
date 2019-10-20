@@ -1,0 +1,1 @@
+A página de Finanças lista seu dinheiro total, suas contas bancárias e a informação da sua [[pt-br:bitcoin|carteira de bitcoin]].

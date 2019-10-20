@@ -1,0 +1,155 @@
+**Softwares** use your system to perform specific functions. These functions varies according to the software type, and are listed below.
+
+Softwares also have a corresponding size, version and RAM usage. If a software is said researchable, you can purchase it's license and research it, thus achieving a higher version number.
+
+======Software types======
+
+===== Cracker =====
+Crackers are needed to the execution of the main method of attack, known as [[en:hacking#brute-force_attack|brute-force]], and therefore are the most important software of the game.
+
+In order to [[en:hacking#keeping_connected|stay connected]] to an IP, you must have a running cracker with version higher or equal than the victim Password Hash.
+
+They are also responsible for your [[en:missions#mission_level|mission level]].
+
+^ Cracker Version      ^ Mission Level    ^
+|   < 3.0                |     1    |
+|    ≥ 3.0 and < 6.0     |     2    |
+|   ≥6.0                 |     3    |
+
+Another important role of the Cracker is played at the [[en:Storyline]]. When a specific version of this software is researched, the player receives a mission to steal the Doom virus.
+
+===== Password Hashing =====
+Password Hashing is the main - and only - option to defend against [[en:hacking#brute-force_attack|brute-force attacks]]. It is probably the second most important software of the game.
+
+===== Port Scanner =====
+Port Scanners are needed in order to perform an [[en:hacking#exploit_attack|exploit attack]]. When used with at least one running exploit software, the Port Scan will list which ports are vulnerable to exploitation, if any.
+
+Port Scanners are not researchable.
+
+===== Exploits =====
+At least one running exploit is needed in order to perform an [[en:hacking#exploit_attack|exploit attack]]. Currently, there are two types of exploits: FTP and SSH.
+
+    * **FTP Exploit** - When running an FTP exploit, the user can //only// Download and Upload softwares. Installing or executing softwares is not permitted.
+
+    * **SSH Exploit** - When running an SSH exploit, the user can perform any action, //except// Downloading and Uploading softwares.
+
+Any exploit can view and edit the log file.
+
+If both FTP and SSH exploits are used in the same attack, the user gains full, root access.
+
+In order to keep a connection with the victim, the exploit(s) must be running and they need to meet the [[en:hacking#exploit_login_criteria|attack criteria]]. Otherwise, the connection (or some of the permissions) will be lost.
+
+===== Firewall =====
+A firewall software is used to defend the user against [[en:hacking#exploit_attack|exploit attacks]].
+
+Firewall is also a defense to [[en:softwares#nmap|Nmap]] scans.
+
+If the user completed the [[en:university#ddos_security|DDoS Security certification]], firewalls can be used to mitigate DDoS attacks.
+
+===== Hider =====
+The hider software is used to, uh, hide softwares.
+
+You are not allowed to hide running softwares.
+
+===== Seeker =====
+The seekers softwares is needed if you want to view hidden softwares. Of course this will only work if your seeker version is greater than or equal to the version the software was hid.
+
+In order to install/execute the software, you must first seek it.
+
+===== Spam Virus =====
+The spam virus, when installed on the victim, will generate money to you by sending spams over the Internet. In order to collect it's money, you must have a [[en:Softwares#Virus_Collector|Virus Collector]].
+
+The amount of money given by a spam virus is directly dependent to the victim's CPU version. It can be roughly approximated to $0.025 per MHz per hour.
+
+===== Warez Virus =====
+The warez virus, when installed on the victim, will generate money to you by sending warez over the Internet. A [[en:Softwares#Virus_Collector|Virus Collector]] is needed in order to collect money.
+
+It requires an additional software, though: the Torrent. You need to have a running Torrent in //your// software list.
+
+Generated amount of warez is dependent of the victim's internet connection. Roughly, you earn $1 per Mbit per hour plus the torrent value.
+
+===== Miner Virus =====
+The miner virus will use the victim's CPU to generate bitcoins. A [[en:Softwares#Virus_Collector|Virus Collector]] is needed in order to collect the money.
+
+Roughly, it generates about 0.00010417 BTC per MHz per hour.
+
+===== Torrent =====
+Torrent is the software you will use to sell warez. It is needed in order to generate money from Warez viruses.
+
+Torrents are not researchable. You can view the list and price of torrents at the [[en:npc#torrent_market|Torrent Market]] (listed on the [[en:npc#first_whois|First Whois]])
+
+===== Virus Collector =====
+The Virus Collector is needed in order to collect money from [[en:Softwares#spam_virus|Spam]], [[en:Softwares#warez_virus|Warez]] and [[en:Softwares#miner_virus|Miner]] viruses.
+
+The collector version offers a bonus that is multiplied to the sum of collected money. A 1.0 collector will generate 1% bonus. A 2.0 collector will generate 2% bonus, and so on.
+
+===== DDoS Virus =====
+The DDoS virus is needed in order to perform a DDoS action. The resulting DDoS power directly depends of the victim's CPU. The virus version also affects the DDoS power.
+
+DDoS virus does not generates money.
+
+===== DDoS Breaker =====
+The DDoS Breaker is needed to complete a DDoS attack.
+
+===== Anti-Virus =====
+Anti-Virus is used to deleted installed virus. It will only delete //visible// viruses with version smaller than or equal to the anti-virus.
+
+===== Nmap =====
+The Nmap scans the network, looking for any connected IPs.
+
+You can protect your IP from being discovered by having a firewall with version greater than the Nmap version.
+===== Hardware Analyzer =====
+The Hardware Analyzer will scan the victim's computer in order to determine hardware information such as CPU and RAM. When executed, the results will be saved to your [[en:Hacked_Database|Hacked Database]].
+
+The Analyzer accuracy depends on it's version.
+
+^ Analyzer Version      ^ Accuracy    ^
+|   1.0                |     50%    |
+|    2.0     |     80%    |
+|   3.0                 |     100%    |
+
+The Analyzer is not researchable.
+
+===== Wallet.exe =====
+The Wallet is created automatically when you have a Bitcoin account. It stores your //public// information, like wallet address and BTC finance. Remote access to wallet allow users to know the total BTC amount of the victim.
+
+The wallet private key is only listed when a money collect is made (using at least one Miner Virus) or when someone connects to the [[en:npc#bitcoin_market|Bitcoin Market]] using their account.
+
+The wallet is not researchable.
+
+===== Webserver.exe =====
+The webserver software allows the user to run an HTTP server on his IP, with custom text. This mean that anyone accessing his/her IP will see the text written by the user.
+
+This functionality is available only to premium users. This software won't work on [[en:npc|NPCs]]
+
+The web server is not researchable.
+
+===== Riddle.exe =====
+The riddle software exists only on [[en:npc|NPCs]] that belong to the [[en:riddle#riddle_trail|Riddle Trail]]. Executing them will allow the player to see the current level riddle.
+
+The riddle can be executed with FTP exploit.
+
+You can not download the riddle. Actually, you can't do anything to it.
+
+===== Doom =====
+The Doom, also referred to as Doom Virus, is the storyline software. When installed, it will automatically propagate to **any** user who connects to the correspondent IP.
+
+Doom virus are not recognized by Anti-Virus. The only way to kill a doom, and therefore stop the doom attack, is by DDoSing whoever launched the virus //until// the launcher's hardware (specifically, the hard-drive) is damaged enough to corrupt the Doom file.
+
+====== Software version ====== 
+The version of as software defines how powerful it is. For example, a 3.0 Cracker is more powerful than a 2.5 Password Hashing, and therefore it would be possible to successfully hack someone using this setup.
+
+====== Software size ======
+Every software have a corresponding size. The size, measured in MB or GB, defines how heavy it is. It also imposes limitations as whether the user can store it or not, since he must have enough available space on disk (HDD).
+
+The software size is directly responsible for the duration of processes such as Download, Upload, Install, Kill, Delete, Hide and Seek.
+
+====== Software RAM usage ======
+Every software have a corresponding RAM usage. The sum of all running software's RAM usage can not exceed your total RAM. Otherwise, you will not be able to run softwares.
+
+====== Software License ======
+Softwares are licensed to someone. By default, if you downloaded the software from someone, you will not be the owner of the software nor you will be able to see who owns it.
+
+However, if the software is in //your// hard-drive and if the software is researchable, you can buy it's license.
+
+Purchasing the software license is needed in order to research the software. Any software researched by you will automatically be licensed to you.

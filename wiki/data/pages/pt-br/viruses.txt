@@ -1,0 +1,40 @@
+Vírus são aplicações que geram dinheiro e/ou poder. Existem cinco tipos de vírus: //spam//, //warez//, //minerador//, //DDoS//, e //doom//.
+
+====== Vírus que geram dinheiro ======
+Os vírus listados nessa seção têm a habilidade comum de gerar dinheiro ao usuário. Você deve ter um [[pt-br:softwares#Coletor_de_virus|Coletor de Vírus]] para poder coletar dinheiro de todos eles.
+
+===== Vírus Spam =====
+O Vírus Spam, quando instalado na vítima, irá gerar dinheiro ao enviar spams pela Internet. Para poder coletar o dinheiro gerado, você deve ter um Coletor de Vírus.
+
+A quantia de dinheiro gerado pelo Vírus Spam é diretamente proporcional à CPU da vítima. Pode ser considerada, aproximadamente, $0,025 por MHz por hora.
+
+===== Vírus Warez =====
+O Vírus Warez, quando instalado na vítima, irá gerar dinheiro ao vender warez (pirataria) pela Internet. Um Coletor de Vírus é necessário para poder coletar o dinheiro.
+
+O funcionamento do Vírus Warez dependente de um software adicional: o [[pt-br:softwares#Torrent]]. Você precisa ter um Torrent rodando na //sua// lista de software.
+
+A quantia de dinheiro gerada pelo Vírus Warez é diretamente proporcional à conexão de internet da vítima. Aproximadamente $1 por Mbit por hora mais o valor do Torrent.
+
+===== Vírus Minerador =====
+O Vírus Minerador irá usar a CPU da vítima para gerar Bitcoins. Um Coletor de Vírus é necessário para poder coletar o dinheiro.
+
+O Vírus Minerador irá gerar, aproximadamente, 0.00010417 BTC por MHz por hora.
+
+====== Vírus que danificam o Hardware ======
+Atualmente existe somente um vírus que pode danificar o hardware da vítima.
+
+===== DDoS Virus =====
+O Vírus DDoS é necessário para poder realizar um Ataque DDoS. A força do ataque resultante depende diretamente da CPU da vítima. A versão do vírus também afeta a força resultante.
+
+O Vírus DDoS não gera dinheiro.
+O [[pt-br:softwares#ddos_breaker|DDoS Breaker]] é necessário para poder lançar um ataque DDoS.
+
+====== Vírus relacionado ao Enredo ======
+Atualmente há somente um vírus que está relacionado ao [[pt-br:storyline|enredo]].
+
+===== Vírus Doom =====
+O Doom, também conhecido como Vírus Doom, é o software principal do enredo do jogo. Quando instalado, irá automaticamente se propagar para **qualquer** usuário que se conectar ao IP correspondente.
+
+Vírus Doom não são reconhecidos pelo Anti-Vírus. A única forma de deletar um doom, e portanto encerrar o Ataque Doom, é DDoSando quem lançou o vírus //até// o hardware dessa pessoa (mais precisamente, o disco rígido) estar danificado o suficiente para corromper o arquivo Doom.
+
+Você pode ler mais sobre o Vírus Doom na [[pt-br:storyline|página de enredo]].

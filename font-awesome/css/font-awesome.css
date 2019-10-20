@@ -1,0 +1,216 @@
+/*!
+ *  Font Awesome 4.0.3 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+/* FONT PATH
+ * -------------------------- */
+
+
+ /** CUSTOM EDIT HE **/
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../fonts/fontawesome-webfont.eot?v=4.0.3');
+  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff?v=4.0.3') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.0.3') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.fa {
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* makes the font 33% larger relative to the icon container */
+.fa-lg {
+  font-size: 1.3333333333333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.fa-2x {
+  font-size: 2em;
+}
+.fa-3x {
+  font-size: 3em;
+}
+.fa-4x {
+  font-size: 4em;
+}
+.fa-5x {
+  font-size: 5em;
+}
+.fa-fw {
+  width: 1.2857142857142858em;
+  text-align: center;
+}
+.fa-ul {
+  padding-left: 0;
+  margin-left: 2.142857142857143em;
+  list-style-type: none;
+}
+.fa-ul > li {
+  position: relative;
+}
+.fa-li {
+  position: absolute;
+  left: -2.142857142857143em;
+  width: 2.142857142857143em;
+  top: 0.14285714285714285em;
+  text-align: center;
+}
+.fa-li.fa-lg {
+  left: -1.8571428571428572em;
+}
+.fa-border {
+  padding: .2em .25em .15em;
+  border: solid 0.08em #eeeeee;
+  border-radius: .1em;
+}
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
+.fa.pull-left {
+  margin-right: .3em;
+}
+.fa.pull-right {
+  margin-left: .3em;
+}
+
+.fa-stack {
+  position: relative;
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  vertical-align: middle;
+}
+.fa-stack-1x,
+.fa-stack-2x {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+.fa-stack-1x {
+  line-height: inherit;
+}
+.fa-stack-2x {
+  font-size: 2em;
+}
+.fa-inverse {
+  color: #ffffff;
+}
+.fa-power-off:before {
+  content: "\f011";
+}
+.fa-plus:before {
+  content: "\f067";
+}
+.fa-info-circle:before {
+  content: "\f05a";
+}
+.fa-facebook-square:before {
+  content: "\f082";
+}
+.fa-twitter:before {
+  content: "\f099";
+}
+.fa-terminal:before {
+  content: "\f120";
+}
+.fa-bug:before {
+  content: "\f188";
+}
+.fa-dollar:before,
+.fa-usd:before {
+  content: "\f155";
+}
+.fa-bitcoin:before,
+.fa-btc:before {
+  content: "\f15a";
+}
+.fa-desktop:before {
+  content: "\f108";
+}
+.fa-flask:before {
+  content: "\f0c3";
+}
+.fa-group:before,
+.fa-users:before {
+  content: "\f0c0";
+}
+.fa-globe:before {
+  content: "\f0ac";
+}
+.fa-apple:before {
+  content: "\f179";
+}
+.fa-windows:before {
+  content: "\f17a";
+}
+.fa-android:before {
+  content: "\f17b";
+}
+.fa-linux:before {
+  content: "\f17c";
+}
+.fa-mobile-phone:before,
+.fa-mobile:before {
+  content: "\f10b";
+}
+.fa-envelope-o:before {
+  content: "\f003";
+}
+.fa-home:before {
+  content: "\f015";
+}
+.fa-tasks:before {
+  content: "\f0ae";
+}
+.fa-wrench:before {
+  content: "\f0ad";
+}
+.fa-envelope:before {
+  content: "\f0e0";
+}
+.fa-user:before {
+  content: "\f007";
+}
+.fa-folder-open:before {
+  content: "\f07c";
+}
+.fa-book:before {
+  content: "\f02d";
+}
+.fa-briefcase:before {
+  content: "\f0b1";
+}
+.fa-building-o:before {
+  content: "\f0f7";
+}
+.fa-bars:before {
+  content: "\f0c9";
+}
+.fa-star:before {
+  content: "\f005";
+}
+.fa-chevron-down:before {
+    content:"\f078";
+}
+.fa-arrow-right:before {
+    content:"\f061";
+}
+.fa-lock:before {
+    content:"\f023";
+}
+.fa-google-plus:before {
+    content:"\f0d5";
+}
+.fa-bullseye:before{
+    content:"\f140";
+}

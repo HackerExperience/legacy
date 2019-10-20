@@ -1,0 +1,3 @@
+**Log de Dados** é o lugar onde //toda// ação feita num computador é registrada.
+
+O termo //localhost// significa seu computador. Se você encontrar um "localhost" nos seus logs, estará se referindo ao seu próprio computador. Se você vir "localhost" num servidor remoto, está se referindo ao servidor remoto.

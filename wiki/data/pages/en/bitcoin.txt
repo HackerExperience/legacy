@@ -1,0 +1,23 @@
+**Bitcoin** is a virtual cryptocurrency present in the game. Bitcoins can be traded for in-game money (or vice-versa).
+
+====== Anonymity ======
+Bitcoin has unique anonymous features. 
+
+    * The amount of BTC on a wallet is public
+    * Login / transfers completed on the [[en:npc#bitcoin_market|Bitcoin Market]] will not contain the user's IP or the wallet key //on the remote server//.
+    * It's not possible to crack a wallet by performing a [[en:hacking#brute-force_attack|brute-force attack]]
+
+The only way to login on someone's else wallet is by sighting it's key on the victim's log. This happens when:
+    * The victim collects money from her viruses. If there are miner viruses, the wallet address and key will be listed.
+    * When a login or transfer is done on the Bitcoin Market, the key will be listed //on the users's localhost//.
+
+====== Wallet ======
+A wallet is the equivalent of a bank account. The wallet is stored on your software page, and publicly lists how much BTC you have on it.
+
+====== Collecting Bitcoin ======
+In order to collect bitcoins you need to install the [[en:viruses#miner|miner virus]]. You will also need a [[en:softwares#Virus_Collector|virus collector]].
+
+====== Bitcoin Value ======
+The value of 1 BTC is the same of real life's bitcoin buy price. (It might be rounded).
+
+[[https://blockchain.info/q/24hrprice|You can see the current price here]].

@@ -1,0 +1,85 @@
+Processos, também conhecido como tarefas, são **ações** realizadas por você que precisam ser calculadas/processadas de alguma forma, e portanto algum tempo irá ser necessário até que o processo seja completado. Pode levar desde 4 segundos a até horas ou dias, dependendo da ação que você estiver fazendo e outros fatores.
+
+======Gerenciador de Tarefas======
+O Gerenciador de Tarefas é a página onde você pode gerenciar seus processos. Ela também lista os seus softwares instalados, e quanto de [[pt-br:hardware#RAM]] você está usando.
+
+======Duração de Processos======
+
+=====Baixar / enviar software=====
+Quando você estiver baixando ou enviando um software, a duração do processo irá depender de dois fatores:
+    * Tamanho do arquivo
+    * Velocidade relativa de conexão
+
+O tamanho de arquivo é fácil de entender. É, simplesmente, quantos MB você precisa transferir. A velocidade relativa de conexão funciona da seguinte forma:
+
+Quando você está enviando um software, você é a fonte (uploader), e a vítima é o alvo (downloader). A velocidade relativa de conexão será a //menor// entre sua velocidade de upload e a velocidade de download da vítima. Por exemplo, se você tem uma conexão de 100 Mbit e está enviando para um servidor de 1 Mbit, sua velocidade de upload será limitada a ~125 KB/s (a velocidade de download da vítima será o limite).
+
+Quando você estiver fazendo download de um software, você é o alvo (downloader) e a vítima é a fonte (uploader). A velocidade relativa de conexão será a //menor// entre sua velocidade de download e a velocidade de upload da vítima. Por exemplo, se você tem uma conexão de 1 Mbit e está baixando de um servidor de 1 Mbit, sua velocidade de download será limitada a ~64 KB/s (a velocidade de upload da vítima será o limite).
+
+Dito isso, outro limite é a percentagem de internet que você está usando na sua tarefa atual. Por exemplo, se você estiver realizando dois downloads ao mesmo tempo, a velocidade da internet será dividida entre as duas tarefas.
+
+=====Deletar software=====
+Deletar um software irá depender de dois fatores:
+    * Tamanho do software
+    * Velocidade do processador
+
+Realizar essa ação no seu próprio servidor é 2x mais rápido.
+
+=====Instalar / Desinstalar software=====
+Instalar (rodar) e desinstalar (matar) softwares irá depender de dois fatores:
+    * Tamanho do software
+    * Velocidade do processador
+
+Realizar essas ações no seu próprio servidor é 2x mais rápido.
+
+=====Esconder / Encontrar software=====
+Esconder e encontrar softwares irá depender de dois fatores:
+    * Tamanho do software
+    * Velocidade do processador
+Ao encontrar um software, há um fator adicional:
+    * Versão com que foi escondido
+
+Quanto maior a versão com que o software foi escondido, mais tempo irá levar para encontrar o arquivo.
+
+Realizar essa ação no seu próprio servidor é 2x mais rápido.
+=====Ataque Bruta-força=====
+O processo de um [[pt-br:hacking#ataque_bruta-força|ataque bruta-força]] depende do:
+    * processador do invasor
+    * cracker do invasor
+    * hasher da vítima.
+
+A mesma lógica se aplica quando invadindo uma conta bancária.
+=====Varredura de Portas=====
+Varrer portas leva um tempo fixo de 30 segundos.
+=====Ataque exploit=====
+Realizar o [[pt-br:hacking#ataque_exploit|ataque exploit]] (após a varredura de portas) sempre leva 60 segundos.
+=====Rodar Anti-Vírus=====
+=====Formatar Disco Rígido=====
+Esse recurso ainda não foi implementado
+=====Lançar ataque DDoS=====
+Lançar um ataque DDoS leva um tempo fixo de 5 minutos.
+=====Desenvolver=====
+O tempo necessário para desenvolver um software depende //somente// da sua versão.
+
+^   Versão Atual (v)       ^    Duração (s)      ^
+|   < 3.0                |     280 + 20 * (v - 10)     |
+|    ≥ 3.0 and < 5.0     |     660 + 10 * (v - 29)   |
+|   ≥ 5.0 and < 7.5      |     900     |
+|   ≥ 7.5 and < 10.0     |     1200   |
+|   ≥ 10.0 and < 15.0    |     1500     |
+|    ≥ 15.0              |     1800   |
+
+=====Editar Log=====
+Editar logs de dados é certamente um aspecto fundamental do jogo. Dois fatores determinam sua duração:
+    * Tamanho do log
+    * Velocidade do seu processador
+
+Editar logs no seu próprio servidor lhe garante um bônus de velocidade de 50% devido à baixa latência. O tempo mínimo para editar um log é 4 segundos, e o limite superior é de 60 segundos.
+
+Alguns usuários deixam, intencionalmente, um grande bloco de logs para atrasar a edição remota. Ter uma boa CPU é, portanto, essencial.
+
+===== Resetar IP =====
+Você pode resetar seu IP no [[pt-br:npc#isp|ISP]]. Leva um tempo fixo de 10 minutos.
+
+=====Atacar a Internet com Doom=====
+Sinta-se sortudo se você conseguir lançar um desses. O ataque doom leva 6 horas para completar. É a parte final do [[pt-br:Storyline|enredo]].

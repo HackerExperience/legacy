@@ -1,0 +1,78 @@
+Missões são uma forma alternativa de ganhar dinheiro. Atualmente, há cinco tipos diferentes de missões, cada uma com um trabalho específico a ser realizado.
+
+Missões acontecem entre Empresas, um tipo especial de NPC.
+
+====== Tipos de Missões ======
+Tem idéias legais para missões? Poste nos fórums ou envie um email para contato@hackerexperience.com
+
+===== Deletar software =====
+O tipo mais fácil que você vai encontrar. O usuário é pedido para invadir uma empresa e deletar um arquivo específico.
+
+A recompensa varia entre $150 e $350
+
+===== Roubar dados ======
+
+Ainda uma missão relativamente fácil, com uma camada de complexidade a mais que a missão acima. Você é pedido para invadir uma empresa e roubar um software. "Roubar" significa baixar esse software e enviar para a empresa que contratou você. Eles irão fazer um melhor uso do arquivo, e isso é tudo para a missão.
+
+A recompensa varia entre $250 e $450
+
+===== Verificar balanço de conta =====
+
+Agora você tem que invadir um banco, então a porra ficou séria. O contratante envia uma conta bancária (com o IP do respectivo banco) que pertence à empresa que eles querem comprar. Eles querem se certificar que é um bom negócio, então pedem para você invadir essa conta e relatar a quantia total de dinheiro existente lá. Tecnicamente não é necessário entrar no banco, mas você precisa se quiser apagar seus logs (e você deveria).
+
+A recompensa varia entre $500 e $750, além disso você tem a chance de roubar o dinheiro da conta. Afinal de contas, você é confiável?
+
+===== Transferir dinheiro =====
+Ok, agora parece hacking de verdade. Uma empresa pede pra você transferir dinheiro de alguém para eles. Você pode precisar invadir até dois bancos para limpar seus logs (se a conta de destino estiver num banco diferente da conta de origim, a transferência será logada em ambos os bancos).
+
+A recompensa é entre $1000 e $1500, além disso você tem a chance de roubar o dinheiro da conta.
+
+===== Destruir servidor =====
+Alguém está muito bravo. Eles querem que você derrube o site da empresa vítima. Para poder derrubar o servidor, você deve realizar poderos ataques DDoS recorrentes contra o IP da vítima.
+
+Tome cuidado, seus logs estarão em todo lugar e você pode entrar na Lista de Procurados do FBI.
+
+A recompensa varia entre $2000 e $3000.
+
+====== Nível de Missão ======
+
+Para poder manter o jogo balanceado, existem diferentes níveis de missão. As missões são as mesmas, na verdade, o que muda é quão forte são os softwares das empresas.
+
+O seu nível de missão depende somente da versão do seu cracker.
+
+^ Versão do Cracker      ^ Nível de Missão    ^
+|   < 3.0                |     1    |
+|    ≥ 3.0 e < 6.0       |     2    |
+|   ≥6.0                 |     3    |
+
+A mesma tabela acima se aplica para o nível de software das empresas (isto é, empresas nível 1 terão cracker/hash/firewall até 3.0. Level 2, de 3.0 a 6.0. Level 3, acima de 6.0).
+
+====== Missões Escondidas ======
+
+As empresas não vão usar Google Ads para encontrar hackers. Elas precisam //conhecer// o hacker antes de enviar uma oferta. Para que uma empresa conheça você, você deve tê-la no seu Banco de Dados.
+
+Não tem ideia de onde começar? O Primeiro Whois pode ser uma boa ideia. Tem algumas empresas lá.
+
+====== Geração de Missões ======
+
+Toda hora (:00), 20 missões são geradas para o nível 1, 15 para o nível 2 e 10 para o nível 3. Missões não acumulam, isso é, nunca haverá mais de 20 missões nível 1.
+
+(Por favor note que esses números podem mudar / estar desatualizados)
+
+====== Abortar uma missão ======
+
+Você pode abortar missões (exceto missões do Enredo), entretanto você terá que pagar uma penalidade de $500 + recompensa da missão. Você também irá perder 10% da sua reputação atual.
+
+Se você não consegue invadir a empresa da missão, pode ser uma boa ideia usar o que seria o dinheiro da penalidade para melhorar seu cracker (ou exploits) até que você possa invadir.
+
+Se você não pode encontrar o software especificado da missão, por favor espere. Softwares dos NPC são restaurados uma vez por dia.
+
+Se você acredita que há um bug, entre em contato conosco em contato@hackerexperience.com.
+
+====== Missões Finalizadas ======
+
+Você pode ver toda missão que já completou na aba Missões Finalizadas. Bastante <del>inútil</del> legal.
+
+====== Missões de Enredo ======
+
+Por favor consulte a [[pt-br:storyline|página de enredo]].

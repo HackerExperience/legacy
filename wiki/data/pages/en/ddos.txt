@@ -1,0 +1,42 @@
+**DDoS**, also refereed as DDoS attack, is the act of overloading someone's server by sending colossal amounts of data from dozens of different servers distributed through the Internet.
+
+After the attack, the victim's hardware can be damaged. The severity of the damage depends directly of the DDoS Power.
+
+====== Launching a DDoS attack ======
+
+In order to launch a DDoS attack, you must have:
+    * The target IP address listed on your Hacked Database.
+    * At least three running DDoS Viruses, excluding any on the target IP.
+    * A [[en:softwares#DDoS_breaker|DDoS Breaker]]
+    * <del>The guts</del>
+
+====== DDoS Power ======
+The DDoS power is a number that rates how powerful the DDoS attack was.
+
+The total DDoS power depends of:
+   * each server's CPU
+   * your current CPU
+   * each server's installed ddos version
+
+===== Increasing the power =====
+Tips to increase the DDoS power:
+    * Active the DDoS virus on more servers.
+    * Use more powerful servers (servers with more CPU).
+    * Make sure //you// have a powerful CPU.
+
+As a general rule of thumb, a DDoS attack of 200 Gbps is considered a regular one. Meaningful attacks usually have 250 to 300 Gbps. 
+
+====== Logs ======
+Be aware that, when an attack is completed, logs will be recorded on every server that was part of the attack.
+    * The launcher server:
+        * <code>localhost launched a DDoS attack against [victim] [...]</code>
+    * The victim server:
+        * <code>[attacker] launched a DDoS attack against localhost [...]</code>
+    * Every server with an installed ddos virus:
+        * <code>[attacker] DDoSed [victim] via localhost [...]</code>
+====== Mitigating a DDoS attack =======
+A nice way to protect yourself from a DDoS attack is mitigating it. This feature is unlocked after you complete the [[en:university#DDoS_Security|DDoS Security]] certification.
+
+If you have completed this certification, then your firewall will automatically mitigate the DDoS attack.
+
+The level of mitigation will be based upon your firewall version and the DDoS power. In some cases, you can even nullify the attack.

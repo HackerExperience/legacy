@@ -1,0 +1,15 @@
+**Riddle**, or puzzle, is a small challenge or mini-game. Examples of riddles within the game are: Tic Tac Toe, 2048, Lights Out, Trivia questions, Math questions.
+
+====== Riddle Trail ======
+Starting on the First Puzzle located at the First Whois, every server will have a riddle that can be found at the [[en:softwares#riddleexe|riddle.exe]] software, where the player will be challenged.
+
+The moment the user nails the question, or completes the mini-puzzle-game, a new IP is discovered. This is the location of the next riddle, gradually harder than the previous one and with gradually better software.
+
+====== Convergence ======
+Riddles converge to the upper Whois they are located. 
+
+So, for example, the First Puzzle will lead to other puzzles that will, gradually, lead to the First Whois.
+
+Every Whois also have a puzzle in it that points to the next Whois. 
+
+Once you go to the next Whois, you must find the first puzzle within this Whois. It will be listed there, hopefully.

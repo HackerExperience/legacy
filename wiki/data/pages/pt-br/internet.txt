@@ -1,0 +1,24 @@
+A Internet é o lugar onde você pode navegar para diferentes computadores ao redor do mundo. Servidores podem ser administrados por um jogador real, como você, ou por [[pt-br:NPC|NPCs]].
+
+====== Navegação ======
+Quando desconectado, a primeira coisa que você irá ver é o conteúdo web do servidor. Pode mostrar informações úteis se for um [[pt-br:NPC]], ou pode ter conteúdo customizado se o VPC estiver rodando o [[pt-br:softwares#servidor_web_webserverexe|servidor web]].
+
+No canto superior direito do conteúdo da web você pode ver o tipo do servidor que você está conectado. Veja a lista completa em [[pt-br:npc#tipos_de_npc|tipos de NPC]].
+
+Se conectado, você terá acesso ao [[pt-br:log|Log de Dados]] e [[pt-br:softwares|softwares]] da vítima. Essas páginas remotas funcionam basicamente da mesma forma que no localhost.
+
+====== Bancos ======
+Ao acessar bancos, você pode notar uma interface diferente. Você tem a opção de invadir e entrar no //servidor do banco//, e também pode invadir e entrar numa //conta bancária//.
+
+Quando conectado numa conta de banco, você pode transferir seu dinheiro ou mudar sua senha (caso você seja o dono). Por favor note que **transferir dinheiro irá gerar logs no banco de cada conta**, isto é, se você estiver no banco A e transferir para o banco B, //ambos// os bancos mostrarão seu IP, número da conta e quantia total transferida.
+
+====== IPs importantes ======
+IPs importantes são listados no barra lateral à direita, como uma ferramenta de favoritos.
+
+Lista de IPs importantes:
+    * Bancos
+    * FBI
+    * Safenet
+    * ISP
+    * Whois
+    * NSA

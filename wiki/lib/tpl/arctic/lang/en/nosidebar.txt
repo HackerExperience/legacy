@@ -1,0 +1,13 @@
+:!: Looks like you haven't created the main sidebar yet. Do it now by creating the following page: LINK
+
+Once you've created the page, just add an unordered list of links to create the navigation i.e.:
+
+<file>  
+* [[link 1]]
+* [[link 2]]
+* [[link 3]]
+</file>
+
+You can also use one of the many available index [[doku>plugins]]. 
+
+For further information about sidebars refer to the template [[doku>template:arctic#first steps|documenation]].

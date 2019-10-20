@@ -1,0 +1,7 @@
+base     taratasy
+author   Symon Bent
+email    hendrybadao@gmail.com
+date     2014-01-20
+name     Taratasy Template
+desc     Taratasy is an elegant, low-noise, visually pleasing, HTML5 template designed for use in a personal or organisation knowledge-base, a journal or a blog.
+url      http://www.dokuwiki.org/template:taratasy

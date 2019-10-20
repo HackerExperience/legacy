@@ -1,0 +1,39 @@
+Viruses are applications that generate you money and power. There are five types of viruses: //spam//, //warez//, //miner//, //DDoS// and //doom// virus. 
+
+====== Money-making viruses ======
+The viruses listed on this section have the common ability of generating money to the user. You must have a [[en:softwares#Virus_Collector|Virus Collector]] in order to collect money from all of them.
+
+===== Spam Virus =====
+The Spam Virus, when installed on the victim, will generate money to you by sending spams over the Internet.
+
+The amount of money given by a spam virus is directly dependent to the victim's CPU version. It can be roughly approximated to $0.0025 per MHz per hour.
+
+===== Warez Virus =====
+The Warez Virus, when installed on the victim, will generate money to you by selling warez over the Internet.
+
+It requires an additional software, though: the [[en:softwares#Torrent]]. You need to have a running Torrent in your software list.
+
+Generated amount of warez is dependent of the victim's internet connection. Roughly, you earn $0.1 per Mbit per hour plus the torrent value.
+
+===== Miner Virus =====
+The Miner Virus will use the victim's CPU to generate [[en:bitcoin|bitcoins]].
+
+Roughly, it generates about 0.000010417 BTC per MHz per hour.
+
+====== Hardware-damaging virus ======
+Currently there is only one virus that damages hardware.
+
+===== DDoS Virus =====
+The DDoS virus is needed in order to perform a DDoS action. The resulting DDoS power directly depends of the victim's CPU. The virus version also affects the DDoS power.
+
+The [[en:softwares#DDoS_Breaker|DDoS Breaker]] is needed to complete a DDoS attack.
+
+====== Storyline-related virus ======
+Currently there is only one virus that is related to the [[en:storyline]].
+
+===== Doom Virus =====
+The Doom, also referred to as Doom Virus, is the [[en:storyline]] software. When installed, it will automatically propagate to any user who connects to the correspondent IP.
+
+Doom virus are not recognized by Anti-Virus. The only way to kill a doom, and therefore stop the doom attack, is by DDoSing whoever launched the virus until the launcher's hardware (specifically, the hard-drive) is damaged enough to corrupt the Doom file.
+
+You can read more about the role of the Doom Virus on the [[en:Storyline]] page.

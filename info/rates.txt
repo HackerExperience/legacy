@@ -1,0 +1,78 @@
+min cpu:
+
+500 MHz -> $12.5 / hour
+div 10 => $1.25 / hour <--- é essa taxa!
+
+min net:
+
+1 MBit -> $2 / hour
+div 10 => $0.2 / hour <---- é essa taxa!
+
+@@@@@@@@@@
+@@@@@@@@@@
+@@@FOTO@@@
+@@@@@@@@@@
+@@@@@@@@@@
+
+Collect rates:
+CPU: $0.025 per MHz per hour (VALOR REAL É DIVIDIO POR 10)
+NET: $1 per MBit + torrent value (Basic = $1 per MBit) per hour (VALOR REAL É DIVIDIO POR 10)
+BTC: 10 BTC per day per 4GHz OR 0.00010417 BTC per MHZ per hour (VALOR REAL É DIVIDIO POR 10)
+
+Div -> 100MBit = 8GHz = $200 / hour (NET greater than 100mbit, wawrez is probably better)
+
+Slow mode: div 10 \/
+
+NET:
+1
+2 - $500
+4 - $999
+10 - $2500
+20 - $10000
+50 - $25000
+100 - $75000
+250 - $250000
+500 - $500000
+1000 - $1000000
+
+CPU:
+500
+1000 - $999
+1500 - $1500
+2000 - $3000
+2500 - $6000
+3000 - $15000
+3500 - $20000
+4000 - $50000
+
+HD:
+1
+5 - $999
+10 - $3000
+20 - $10000
+50 - $30000
+100 - $80000
+
+RAM:
+256
+512 - $999
+1024 - $5000
+2048 - $25000
+
+XHD:
+10^n+3
+1
+2 - $9999
+3 - $50000
+
+PC
+10^n+2
+
+PWD RESET:
+
+0, 6h, 12h, 1d, 2d, 4d, 7d
+ou $(500+100n+n^3.2)
+
+IP RESET:
+0, 12h, 1d, 2d, 4d, 7d
+ou $(1000+5000n+n^3.8)

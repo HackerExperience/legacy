@@ -1,0 +1,24 @@
+**Bitcoin** é uma criptomoeda presente no jogo. Bitcoins podem ser trocados por dinheiro do jogo (ou vice-versa).
+
+====== Anonimidade ======
+Bitcoin tem recursos únicos de anonimidade.
+
+    * É impossível saber a quem uma conta pertence.
+    * A quantia de BTC existente na sua conta é pública.
+    * Logins e transferências realizadas no [[pt-br:npc#mercado_bitcoin|Mercado Bitcoin]] não conterão o IP do usuário ou a chave privada da carteira //no servidor remoto//.
+    * Não é possível invadir uma carteira realizando um [[pt-br:hacking#ataque_forca-bruta|ataque força-bruta]]
+
+A única forma de entrar na carteira de outra pessoa é visualizando sua chave no log d avítima. Isso acontece quando:
+    * A vítima coleta dinheiro dos seus vírus. Se há vírus minerador ativo, o endereço da carteira e sua chave serão listados no log.
+    * Quando um login ou transferência é feito no Mercado Bitcoin, a chave será listada //no localhost do usuário//.
+
+====== Carteira ======
+A carteira é o equivalente de uma conta de banco. A carteira é armazenada na sua página de software, e publicamente lista quanto BTC você tem.
+
+====== Coletando Bitcoin ======
+Para coletar bitcoins você deve instalar o [[pt-br:viruses#virus_minerador|Vírus Minerador]]. Você também vai precisar de um [[pt-br:softwares#coletor_de_virus|Coletor de Vírus]].
+
+====== Valor do Bitcoin ======
+O valor de 1 BTC é o mesmo do preço de compra do bitcoin verdadeiro. (Pode ser arredondado).
+
+[[https://blockchain.info/q/24hrprice|Você pode ver o preço atual aqui]].

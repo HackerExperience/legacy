@@ -1,0 +1,14 @@
+Se ha subido un fichero a tu DokuWuki. Estos son los detalles:
+
+Archivo : @MEDIA@
+Fecha : @DATE@
+Navegador : @BROWSER@
+Dirección IP : @IPADDRESS@
+Hostname : @HOSTNAME@
+Tamaño : @SIZE@
+MIME Type : @MIME@
+Usuario : @USER@
+
+-- 
+Este correo fue generado por DokuWiki en
+@DOKUWIKIURL@

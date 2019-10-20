@@ -1,0 +1,82 @@
+NPC stands for //non-player computer// and each one have a different role in the game. The opposite of a NPC is a VPC (//virtual player computer//), which represents a real player computer.
+
+====== NPC Types ======
+
+The roles a NPC can have are listed below.
+
+===== Whois =====
+A whois server //lists// a variety of NPCs and their respective IP address, giving the user some direction. There are four whois servers in the game, each one with a different set of IPs.
+==== First Whois ===
+The first whois deserves  a special definition because it is the most important IP of the game. It's IP is 1.2.3.4 and it's every player's default home location. It contains the First Puzzle, allowing the user to start the [[en:riddle#riddle_trail|Riddle Trail]].
+
+The First Whois IP, and every IP listed there is public and //can// be shared to other users on forum or via the [[en:mail|mail system]].
+===== Banks =====
+A special type of NPC are the banks. As the name say, they act as financial institutions where the player can register an account for a small fee, move his money there and transfer money between accounts.
+
+Needless to say they are also common target of hackers, as the log file can often contain account details. All the attacker needs is the account number in order to [[en:hacking#brute-force_attack|hack]] it. Therefore, never reveal your account number to untrusted players.
+===== Riddle =====
+Riddle NPCs are special because they contain a [[en:softwares#riddleexe|riddle.exe]] file. This files contains a small riddle that, when solved, points the player to the next puzzle.
+
+The collection of riddles is called [[en:ridle_trail]].
+===== Download Center =====
+The Download Center, or DC, is a server containing basic softwares needed in order to be able to play the game. It's a good place to start and it's also a good option if someone deleted you and you have no remaining softwares.
+
+You can login there using the username //download// and password //download//. This gives you download/upload permissions.
+
+The Download Center is located at the First Whois.
+===== Bitcoin Market =====
+The Bitcoin Market, or BTC Market, is a place to buy, sell or transfer bitcoins. In order to do these actions, you must login to your (or someone else) account.
+
+When logging in, the user IP and private key are listed **only** on the user's localhost log. The NPC log will contain //only// the public address, so it is pretty much anonymous. To login, use both public address and private key.
+
+Mine bitcoins using the [[en:softwares#miner_virus|Miner Virus]].
+
+===== Torrent Market =====
+The Torrent Market lists the current selling prices of [[en:softwares#torrent|torrent warez]]. 
+
+Currently, the price is fixed and there are no variations. Price variation coming soon.
+===== FBI =====
+The FBI server lists the FBI Most Wanted List, i.e., every IP address that did some infraction and the FBI wants to get the hacker. It also lists the respective bounty. In order to get the bounty, DDoS and seize the user's IP.
+
+Read more about the FBI on the [[en:safenet_fbi|Safenet/FBI]] page
+
+===== Safenet =====
+Safenet is a global monitoring service trying to bring order to the Internet. If you do any break the rules, you might be listed there. The public page of safenet lists partial IPs only. Crack the server in order to get the complete IP address.
+
+Read more about the Safenet on the [[en:safenet_fbi|Safenet/FBI]] page.
+
+===== Companies =====
+Companies represent big corporations that will eventually offer [[en:missions]]. You can accept these freelance jobs and earn some cash.
+
+A company will only reach to you if it's listed on your [[en:hacked_database|Hacked Database]]
+
+===== Clan Server =====
+Clan servers are, technically, NPC. As the name says, it's the main server belonging to a [[en:clan]].
+
+Be careful when hacking one of those, you may piss off some people and even start a [[en:clan#war|clan war]].
+
+===== ISP =====
+The ISP (Internet Service Provider ) is a service that allows you to reset your IP address. It will cost you some money, but this may be the only option to get away from a powerful hacker.
+
+==== Pricing ====
+
+The first reset is always free. Then, you have to wait a small time to reset again for free. The table below shows how long you have to wait in order to get a free reset.
+
+^ # of resets      ^ Wait time (hours)    ^
+|   1                |     3    |
+|    2     |     6    |
+|   3                 |     12    |
+|   4                |     24    |
+|    5     |     48    |
+|   6                 |     56    |
+|   7+                 |     168 (1 week)    |
+
+You can always pay to reset anytime. The formula is
+
+  price = 100 + 500 * (No. of resets) + ((No. of resets)^3.8)/10
+
+with an upper limit price of 1000000.
+===== NSA =====
+The NSA (National Security Agency) secures the world's most dangerous software, the Doom Virus.
+
+Read more about the NSA on the [[en:Storyline]] page.

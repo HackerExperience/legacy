@@ -1,0 +1,37 @@
+{
+    "1": [
+        {
+            "name": "Basic tutorial",
+            "desc": "Follow this tutorial to learn how to play",
+            "price": "0"
+        }
+    ],
+    "2": [
+        {
+            "name": "Hacking 101",
+            "desc": "Learn the basics of hacking",
+            "price": "0"
+        }
+    ],
+    "3": [
+        {
+            "name": "Intermediate hacking",
+            "desc": "Improve your hacking techniques",
+            "price": "50"
+        }
+    ],
+    "4": [
+        {
+            "name": "Advanced hacking",
+            "desc": "Meet the wonders of DDoS world",
+            "price": "200"
+        }
+    ],
+    "5": [
+        {
+            "name": "DDoS security",
+            "desc": "Learn to protect yourself from DDoS",
+            "price": "500"
+        }
+    ] 
+}

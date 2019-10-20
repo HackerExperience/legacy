@@ -1,0 +1,83 @@
+			table#sudoku_panel {
+				border-collapse: collapse;
+				margin-left: auto;
+				margin-right: auto;
+			}
+			#sudoku_panel tbody td {
+				border: 1px solid black;
+				padding: 10px 10px;
+				margin: 0;
+				text-align:center;
+				vertical-align: middle;
+				width: 11%;
+				height: 20px;
+				background-color: #eee;
+			}
+			
+			#sudoku_panel tbody td.topBorder{
+				border-top: 2px solid black;
+			}
+			
+			#sudoku_panel tbody td.bottomBorder{
+				border-bottom: 2px solid black;
+			}
+			
+			#sudoku_panel tbody td.leftBorder{
+				border-left: 2px solid black;
+			}
+			
+			#sudoku_panel tbody td.rightBorder{
+				border-right: 2px solid black;
+			}
+			
+			#sudoku_panel tbody td.notice {
+				padding: 4px;
+				vertical-align: bottom;
+				font-size: 0;
+				line-height: 0;
+				background-color: white;
+			}
+			
+			#sudoku_panel tfoot td {
+				font-size: x-small;
+			}
+			#sudoku_panel tfoot td.leftFootInfo {
+				text-align:left;
+			}
+			#sudoku_panel tfoot td.centerFootInfo {
+				text-align:center;
+			}
+			#sudoku_panel tfoot td.rightFootInfo {
+				text-align:right;
+			}
+			#sudoku_panel input {
+				border: none;
+				text-align:center;
+				width: 20px;
+				height: 18px;
+				margin-bottom:0;
+				padding:0;
+			}
+			
+			#sudoku_panel input.notice {
+				font-family: arial, sans-serif;
+				border: 1px solid #eee;
+				text-align:left;
+				width: 20px;
+				font-size: 8px;
+				height: 9px;
+				margin: 0 5px;
+			}
+
+			#slider01 {
+				margin: 0.5em auto;
+				position: relative;
+				width: 176px;
+				height: 20px;
+				background: url(./gfx/sudoku_range.png) 50% 50% no-repeat;
+			}
+			#slider01 img {
+				position: absolute;
+				top: 2px;
+				left: 0px;
+			}			

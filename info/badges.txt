@@ -1,0 +1,355 @@
+1 - Developer
+        Add: special
+        Image
+2 - Admin
+        Add: special
+        Image
+3 - Moderator
+        Add: special
+        Image
+4 - Translator
+        Add: special
+        Image
+5 - Premium
+        Image
+        IMPLEMENTADO
+6 - Beta tester
+        Add: special
+        Image
+7 - Best Player
+        Situação: Terminar o round em primeiro lugar
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+8 - Runner up
+        Situação: Terminar o round em segundo lugar
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+9 - 3rd placed
+        Situação: Terminar o round em terceiro lugar
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+10 - Almost there
+        Situação: Terminar o round entre os 7 primeiros, a partir do quarto lugar.
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+11 - Doom
+        Evento: Iniciar um ataque doom
+        Image
+        IMPLEMENTADO.
+12 - Anti-Doom
+        Evento: Desabilitar um ataque doom
+        Image
+        IMPLEMENTADO.
+13 - DDoS (?)
+        Evento: lançar um ataque DDoS que cause dano.
+        Image
+        IMPLEMENTADO.
+14 - Doom master
+        Evento: Finalizar um ataque doom
+        Image
+        IMPLEMENTADO
+15 - 
+        Evento: comprar um segundo PC
+        Image
+        IMPLEMENTADO
+16 - 
+        Evento: max out PC upgrade (de qualquer pc)
+        Image
+        IMPLEMENTADO
+17 - Overclocker
+        Evento: max out hardware upgrade (de 4 pcs)
+        Image
+        IMPLEMENTADO
+18 - Storage maniac
+        Evento: max out HDD upgrades (de 4 pcs)
+        Image
+        IMPLEMENTADO
+19 - Processor maniac
+        Evento: max out CPU upgrades (de 4 pcs)
+        Image
+        IMPLEMENTADO
+20 - Memory maniac
+        Evento: max out RAM upgrades (de 4 pcs)
+        Image
+        IMPLEMENTADO
+21 - Internet maniac
+        Evento: max out NET upgrades
+        Image
+        IMPLEMENTADO
+22 - H4x0r
+        Evento: ter 100 ips na hacked database. (round delayed)
+        Image
+        IMPLEMENTADO
+23 - b4nk3r
+        Evento: ter 50 bank accounts na hacked database. (round delayed)
+        Image
+        IMPLEMENTADO
+24 - Worker 
+        Evento: ganhar $x (round)
+        Image
+        badge_hunter
+25 - Work'a'holic
+        Evento: ganhar $xx (geral)
+        Image
+        badge_hunter_all
+26 - Wired
+        Evento: transferir um total de $x (round)
+        Image
+        badge_hunter
+27 - Wired master:
+        Evento: transferir um total de $xx (geral)
+        Image
+        badge_hunter_all
+28 - Casemodder
+        Evento: gastar $x com pc upgrades (geral)
+        Image
+        badge_hunter_all
+29 - Researcher
+        Evento: gastar $x com research (round)
+        Image
+        badge_hunter
+30 - Software master
+        Evento: gastar $xx com research (geral)
+        Image
+        badge_hunter_all
+31 - Web Celeb
+        Evento: ter 1000 cliques no perfil (geral)
+        Image
+        IMPĹEMENTADO
+32 - ThePirateBay member
+        Evento: Upload a total warez of x (round)
+        Image
+        badge_hunter
+33 - Pirate Master
+        Evento: Upload a total warez of xx (geral)
+        Image
+        badge_hunter_all
+34 - Spammer
+        Evento: send a total of x emails (round)
+        Image
+        badge_hunter
+35 - Really Spammer
+        Evento: send a total of xx emails (geral)
+        Image
+        badge_hunter_all
+36 - Employee
+        Evento: complete a total of 50 missions (round)
+        Image
+        IMPLEMENTADO
+37 - Seriously you are addicted
+        Evento: complete a total of 500 missions (geral)
+        Image
+        IMPLEMENTADO
+38 - I can't handle
+        Evento: reset ip 20 times (round)
+        Image
+        IMPLEMENTADO
+39 - Noob certification
+        Evento: reset ip 100 times (geral)
+        Image
+        IMPLEMENTADO
+40 - Addicted player
+        Evento: time playing superior a 1 dia (round)
+        Image
+        IMPLEMENTADO
+41 - I need help
+        Evento: time playing superior a 14 dias (geral)
+        Image
+        IMPLEMENTADO
+42 - Aniversary
+        Evento: 1 ano de age
+        Image
+        IMPLEMENTADO
+43 - Old school
+        Evento: 2 anos de age
+        Image
+        IMPLEMENTADO
+44 - Veteran
+        Evento: 5 anos de age
+        Image
+        IMPLEMENTADO
+45 - Loyal player
+        Evento: ficou em apenas um clan o round inteiro
+        Image
+        round reset
+TODO
+46 - Powerful member
+        Evento: reputação de 1 milhão (geral)
+        Image
+        IMPLEMENTADO
+47 - I haz fame
+        Evento: reputação de 10 milhões (geral)
+        Image
+        IMPLEMENTADO
+48 - Social
+        Evento: have 10 friends
+        Image
+        IMPLEMENTADO
+49 - Go to facebook
+        Evento: have 50 friends
+        Image
+        IMPLEMENTADO
+50 - Badge Hunter
+        Evento: have 30 badges
+        Image
+        IMPLEMENTADO
+51 - Who ate my ram?
+        Evento: ter 20 softwares (ou mais) rodando ao mesmo tempo (round delayed)
+        Image
+        IMPLEMENTADO
+52 - Downloader
+        Evento: ter mais de 50 GB ocupados no HD
+        Image
+        IMPLEMENTADO
+53 - Googler
+        Evento: ter todos os (15?) important ips
+        Image
+        IMPLEMENTADO
+54 - Student
+        Evento: completar todas as certificações
+        Image
+        IMPLEMENTADO
+55 - Rich
+        Evento: ter mais de $1 milhão somado nas contas
+        Image
+        IMPLEMENTADO
+56 - DDoSer
+        Evento: ddosar mais de 100 vezes (round)
+        Image
+        IMPLEMENTADO
+57 - DDoS Master
+        Evento: ddosar mais de 1000 vezes (geral)
+        Image
+        IMPLEMENTADO
+58 - Noob
+        Evento: abort 5 missions
+        Image
+        IMPLEMENTADO
+59 - Efficient
+        Evento: depois de 10 missões, ter uma rate > 95%
+        Image
+        IMPLEMENTADO
+60 - 
+        Evento: participar de uma clan war
+        Image
+        IMPLEMENTADO
+61 -   
+        Evento: ser o jogador mais influente de uma clan war
+        Image
+        IMPLEMENTADO
+62 -
+        Evento: start a clan war
+        Image
+        IMPLEMENTADO
+63 - Talker
+        Evento: send over 100 mails (geral)
+        Image
+        IMPLEMENTADO
+64 - Famous
+        Evento: receive over 50 mails from users (geral)
+        Image
+        IMPLEMENTADO
+65 - researcher
+        Evento: research over 50 times (round)
+        Image
+        IMPLEMENTADO
+66 - researcher master (software engineer)
+        Evento: research over 500 times (geral)
+        Image
+        IMPLEMENTADO
+67 - Hacker
+        Evento: hack count of 100 (round)
+        Image
+        IMPLEMENTADO
+68 - Hacker master
+        Evento: hack count of 1000 (geral)
+        Image
+        IMPLEMENTADO
+69 - Whatya doin'??
+        Evento: have over 50 running tasks (round delayed)
+        Image
+        IMPLEMENTADO
+70 - Hipster
+        Evento: buy first XHD
+        Image
+        IMPLEMENTADO
+71 - Hacker News
+        Evento: have name quoted on news
+        Image
+        IMPLEMENTADO - (Doom(start)/Antidoom/Doom(end)/War
+72 - Best Software
+        Situação: primeiro lugar no ranking de software
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+73 - Runner up
+        Situação: segundo lugar no ranking de software
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+74 - 3rd placed
+        Situação: terceiro lugar no ranking de software
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+75 - Almost there
+        Situação: Terminar o round entre os 7 primeiros softwares, a partir do quarto lugar.
+        Evento: round reset
+        Image
+76 - Best ddos
+        Situação: primeiro lugar no ranking de ddos
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+77 - Runner up
+        Situação: segundo lugar no ranking de ddos
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+78 - 3rd placed
+        Situação: terceiro lugar no ranking de ddos
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+79 - Almost there
+        Situação: Terminar o round entre os 7 primeiros ddos, a partir do quarto lugar.
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+80 - Donator
+        WAS premium at least once
+        Evento: expire premium
+        Image
+        IMPLEMENTADO
+81 - Best clan
+        Situação: primeiro lugar no ranking de clan
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+82 - Runner up
+        Situação: segundo lugar no ranking de clan
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+83 - 3rd placed
+        Situação: terceiro lugar no ranking de clan
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+84 - Almost there
+        Situação: Terminar o round entre os 7 primeiros clan, a partir do quarto lugar.
+        Evento: round reset
+        Image
+        IMPLEMENTADO
+85 - Bad ass
+        Situação: venceu clan war.
+        Evento: end clan war
+        Image
+86 - Feels like a clan
+        Situação: clan tem 5 ou mais membros
+        Evento: adicionar quinto membro ao clan
+        Image

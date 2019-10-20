@@ -1,0 +1,15 @@
+
+ul.cd{float:left;list-style-type:none;margin:0;padding:0}
+li.t{background:url(digits-top.png) 0 0 no-repeat;width:53px;height:39px}
+li.b{background:url(digits-bottom.png) 0 0 no-repeat;width:53px;height:64px}
+li.s{background:url(comma.png) 2px 75px no-repeat;width:12px;height:100px}        
+
+
+#wrapper{float:right;position:relative;left:-50%;margin-top:30px}
+#counter{position:relative;left:50%;clear:both}
+.clear{clear:both}
+#queries-desc{text-align: center;}
+#uptime{text-align: center; margin-top: 30px;}
+#status{font-weight: bold;text-align: center; margin-top: 40px;}
+#status_ok{color: green;}
+#status_fail{color: red;}

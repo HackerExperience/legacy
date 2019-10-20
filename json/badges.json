@@ -1,0 +1,521 @@
+{
+  "1": {
+    "name":"Developer",
+    "desc":"",
+    "collectible":false,
+    "per_round":false
+  },
+  "2": {
+    "name":"Administrator",
+    "desc":"",
+    "collectible":false,
+    "per_round":false
+  },
+  "3": {
+    "name":"Moderator",
+    "desc":"",
+    "collectible":false,
+    "per_round":false
+  },
+  "4": {
+    "name":"Translator",
+    "desc":"",
+    "collectible":false,
+    "per_round":false
+  },
+  "5": {
+    "name":"Premium",
+    "desc":"",
+    "collectible":false,
+    "per_round":false
+  },
+  "6": {
+    "name":"Beta Tester",
+    "desc":"",
+    "collectible":false,
+    "per_round":false
+  },
+  "7": {
+    "name":"Best Player",
+    "desc":"Best player of the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "8": {
+    "name":"Runner Up",
+    "desc":"Ranked #2 among all the players.",
+    "collectible":true,
+    "per_round":true
+  },
+  "9": {
+    "name":"3rd placed",
+    "desc":"Ranked #3 among all the players.",
+    "collectible":true,
+    "per_round":true
+  },
+  "10": {
+    "name":"Almost there",
+    "desc":"Placed between the best 10 players of the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "11": {
+    "name":"Doom the World",
+    "desc":"Player launched a doom attack.",
+    "collectible":true,
+    "per_round":false
+  },
+  "12": {
+    "name":"Anti-Doom",
+    "desc":"Player stopped a doom attack.",
+    "collectible":true,
+    "per_round":false
+  },
+  "13": {
+    "name":"DDoS",
+    "desc":"Player launched a DDoS attack.",
+    "collectible":true,
+    "per_round":false
+  },
+  "14": {
+    "name":"Doom Master",
+    "desc":"Player's doom worked and nuked the Internet.",
+    "collectible":true,
+    "per_round":true
+  },
+  "15": {
+    "name":"Go Multi",
+    "desc":"Player bought his second server.",
+    "collectible":true,
+    "per_round":true
+  },
+  "16": {
+    "name":"Clock Maniac",
+    "desc":"Player maxed server upgrades (of 1 or more servers).",
+    "collectible":true,
+    "per_round":false
+  },
+  "17": {
+    "name":"Overclocker",
+    "desc":"Player maxed server upgrades (of all possible servers).",
+    "collectible":true,
+    "per_round":false
+  },
+  "18": {
+    "name":"Storage Maniac",
+    "desc":"Player maxed out HDD upgrades (of all servers).",
+    "collectible":true,
+    "per_round":false
+  },
+  "19": {
+    "name":"Processor maniac",
+    "desc":"Player maxed out CPU upgrades (of all servers).",
+    "collectible":true,
+    "per_round":false
+  },
+  "20": {
+    "name":"Memory Maniac",
+    "desc":"Player maxed out RAM upgrades (of all servers).",
+    "collectible":true,
+    "per_round":false
+  },
+  "21": {
+    "name":"Internet Maniac",
+    "desc":"Player maxed out internet upgrades.",
+    "collectible":true,
+    "per_round":false
+  },
+  "22": {
+    "name":"H4x0r",
+    "desc":"Player have 100 or more IPs on Hacked Database.",
+    "collectible":true,
+    "per_round":false,
+    "extra":{
+      "delay":7
+    }
+  },
+  "23": {
+    "name":"B4nk3r",
+    "desc":"Player have 50 or more bank accounts on Hacked Database.",
+    "collectible":true,
+    "per_round":false,
+    "extra":{
+      "delay":7
+    }
+  },
+  "24": {
+    "name":"Worker",
+    "desc":"Player earned a total of $x on the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "25": {
+    "name":"Workaholic",
+    "desc":"Player earned a total of $xx during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "26": {
+    "name":"Wired",
+    "desc":"Player transfered a total of $x on the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "27": {
+    "name":"Wired Master",
+    "desc":"Player transfered a total of $xx during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "28": {
+    "name":"Casemodder",
+    "desc":"Player spent a total of $x with hardware upgrades during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "29": {
+    "name":"Researcher",
+    "desc":"Player spent a total of $x with software research on the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "30": {
+    "name":"Software Master",
+    "desc":"Player spent a total of $xx with software research during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "31": {
+    "name":"Web Celeb",
+    "desc":"Player reached 1,000 profile clicks.",
+    "collectible":false,
+    "per_round":true
+  },
+  "32": {
+    "name":"ThePirateBay Member",
+    "desc":"Player uploaded a total of x GB warez on the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "33": {
+    "name":"Pirate Matey",
+    "desc":"Player uploaded a total of xx GB warez during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "34": {
+    "name":"Spammer",
+    "desc":"Player sent a total of x emails on the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "35": {
+    "name":"Serious Spammer",
+    "desc":"Player sent a total of xx emails during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "36": {
+    "name":"Employee",
+    "desc":"Player completed a total of 50 missions on the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "37": {
+    "name":"Seriously, you are addicted",
+    "desc":"Player completed a total of 500 missions during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "38": {
+    "name":"I Can't Handle",
+    "desc":"Player reseted his IP over 20 times on the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "39": {
+    "name":"Noob Certification",
+    "desc":"Player reseted his IP over 200 times on the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "40": {
+    "name":"Addicted Player",
+    "desc":"Player have a gameplay higher than 24 hours (on the round).",
+    "collectible":true,
+    "per_round":true
+  },
+  "41": {
+    "name":"I Need Help",
+    "desc":"Player have a total gameplay of over 14 days during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "42": {
+    "name":"Anniversary",
+    "desc":"Player account is 1 year old.",
+    "collectible":false,
+    "per_round":true
+  },
+  "43": {
+    "name":"Old School",
+    "desc":"Player account is 2 years old.",
+    "collectible":false,
+    "per_round":true
+  },
+  "44": {
+    "name":"Veteran",
+    "desc":"Player account is 5 year old.",
+    "collectible":false,
+    "per_round":true
+  },
+  "45": {
+    "name":"Loyal Player",
+    "desc":"Player spent whole round only on one clan.",
+    "collectible":true,
+    "per_round":true
+  },
+  "46": {
+    "name":"Powerful Member",
+    "desc":"Player have a total reputation of 1,000,000 during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "47": {
+    "name":"I Am Your Hacker",
+    "desc":"Player have a total reputation of 10,000,000 during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "48": {
+    "name":"Social",
+    "desc":"Player have 10 friends.",
+    "collectible":false,
+    "per_round":true
+  },
+  "49": {
+    "name":"Go To Facebook",
+    "desc":"Player have 30 friends.",
+    "collectible":false,
+    "per_round":true
+  },
+  "50": {
+    "name":"Badge Hunter",
+    "desc":"Player earned 30 badges.",
+    "collectible":true,
+    "per_round":true
+  },
+  "51": {
+    "name":"Who Ate My RAM?",
+    "desc":"Player have 20 or more running softwares at the same time.",
+    "collectible":true,
+    "per_round":true
+  },
+  "52": {
+    "name":"Downloader",
+    "desc":"Player have 50 GB of HD used.",
+    "collectible":true,
+    "per_round":true
+  },
+  "53": {
+    "name":"Googler",
+    "desc":"Player have all important IPs.",
+    "collectible":true,
+    "per_round":true
+  },
+  "54": {
+    "name":"Student",
+    "desc":"Player completed all certifications.",
+    "collectible":false,
+    "per_round":true
+  },
+  "55": {
+    "name":"I Haz Money",
+    "desc":"Player have over $1,000,000 on his bank accounts.",
+    "collectible":true,
+    "per_round":true
+  },
+  "56": {
+    "name":"DDoSer",
+    "desc":"Player DDoSed a total of 100 times during the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "57": {
+    "name":"DDoS Master",
+    "desc":"Player DDoSed a total of 1,000 times during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "58": {
+    "name":"N00b",
+    "desc":"Player aborted 5 missions.",
+    "collectible":true,
+    "per_round":true
+  },
+  "59": {
+    "name":"Efficient",
+    "desc":"After 10 missions, player have a completion rate higher than 95%.",
+    "collectible":true,
+    "per_round":true
+  },
+  "60": {
+    "name":"300",
+    "desc":"Player was part of a Clan War.",
+    "collectible":true,
+    "per_round":false
+  },
+  "61": {
+    "name":"War Lord",
+    "desc":"Most influent player of a Clan War.",
+    "collectible":true,
+    "per_round":false
+  },
+  "62": {
+    "name":"Dat Guy",
+    "desc":"Player started a Clan War.",
+    "collectible":true,
+    "per_round":false
+  },
+  "63": {
+    "name":"Talker",
+    "desc":"Player sent over 100 mails during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "64": {
+    "name":"Famous",
+    "desc":"Player received over 100 mails during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "65": {
+    "name":"Researcher",
+    "desc":"Player researched over 50 times during the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "66": {
+    "name":"Software Engineer",
+    "desc":"Player researched over 500 times during the game history.",
+    "collectible":false,
+    "per_round":true
+  },
+  "67": {
+    "name":"Hacker",
+    "desc":"Player have hacked 100 IPs on the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "68": {
+    "name":"Top Hacker",
+    "desc":"Player have hacked 1,000 IPs during the game history.",
+    "collectible":true,
+    "per_round":true
+  },
+  "69": {
+    "name":"What'ya doin'??",
+    "desc":"Player have over 50 running tasks",
+    "collectible":true,
+    "per_round":false,
+    "extra":{
+      "delay":7
+    }
+  },
+  "70": {
+    "name":"Hispter",
+    "desc":"Player bought an External Hard Drive.",
+    "collectible":true,
+    "per_round":true
+  },
+  "71": {
+    "name":"Hacker News",
+    "desc":"Player had his name quoted on the news.",
+    "collectible":true,
+    "per_round":false
+  },
+  "72": {
+    "name":"Best Software",
+    "desc":"Player had the best software of the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "73": {
+    "name":"Runner up (software)",
+    "desc":"Ranked #2 among the best softwares of the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "74": {
+    "name":"3rd placed (software)",
+    "desc":"Ranked #3 among the best softwares of the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "75": {
+    "name":"Almost There (software)",
+    "desc":"Player's software was among the top 10 softwares of the round",
+    "collectible":true,
+    "per_round":true
+  },
+  "76": {
+    "name":"Best DDoS",
+    "desc":"First placed on the DDoS ranking.",
+    "collectible":true,
+    "per_round":true
+  },
+  "77": {
+    "name":"Runner up (DDoS)",
+    "desc":"Ranked #2 among the best DDoS attacks of the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "78": {
+    "name":"3rd placed (DDoS)",
+    "desc":"Ranked #3 among the best DDoS attacks of the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "79": {
+    "name":"Almost There (DDoS)",
+    "desc":"Player's DDoS attack was among the top 10 attacks of the round",
+    "collectible":true,
+    "per_round":true
+  },
+  "80": {
+    "name":"Donator",
+    "desc":"Player donated to the game at least once, with his premium membership being expired.",
+    "collectible":false,
+    "per_round":false
+  },
+  "81": {
+    "name":"Best Clan",
+    "desc":"Best clan of the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "82": {
+    "name":"Runner up",
+    "desc":"Ranked #2 among the best clans of the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "83": {
+    "name":"3rd placed",
+    "desc":"Ranked #3 among the best clans of the round.",
+    "collectible":true,
+    "per_round":true
+  },
+  "84": {
+    "name":"Almost There",
+    "desc":"Clan was among the top 10 of the round",
+    "collectible":true,
+    "per_round":true
+  },
+  "85": {
+    "name":"Bad Ass",
+    "desc":"Clan won a clan war",
+    "collectible":true,
+    "per_round":false
+  }
+}

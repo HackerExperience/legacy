@@ -1,0 +1,128 @@
+/**
+ * This file provides styles for the TOC (table of contents), the
+ * sitemap (?do=index) and backlinks (?do=backlink).
+ */
+
+/* toc
+********************************************************************/
+
+/* toc container */
+.dokuwiki div.toc, /* old, until 2012-01-25 */
+#dw__toc /* new */ {
+    float: right;
+    margin: 0 0 1.4em 1.4em;
+    width: 12em;
+    background-color: __background_alt__;
+    color: inherit;
+}
+[dir=rtl] .dokuwiki div.toc, /* old, until 2012-01-25 */
+[dir=rtl] #dw__toc /* new */ {
+    float: left;
+    margin: 0 1.4em 1.4em 0;
+}
+
+/*____________ toc header ____________*/
+
+.dokuwiki div.tocheader, /* old */
+#dw__toc h3 /* new */ {
+    padding: .2em .5em;
+    font-weight: bold;
+    margin-bottom: 0;
+    font-size: 1em;
+}
+
+.dokuwiki .toc span.toc_open, /* old */
+.dokuwiki .toc span.toc_close, /* old */
+#dw__toc h3 strong /* new */ {
+    float: right;
+    margin: 0 .2em;
+    line-height: 1;
+}
+[dir=rtl] .dokuwiki .toc span.toc_open, /* old */
+[dir=rtl] .dokuwiki .toc span.toc_close, /* old */
+[dir=rtl] #dw__toc h3 strong /* new */ {
+    float: left;
+}
+
+/*____________ toc list ____________*/
+
+.dokuwiki #toc__inside,
+#dw__toc > div {
+    padding: .2em .5em;
+}
+.dokuwiki #toc__inside ul, /* old */
+#dw__toc ul /* new */ {
+    padding: 0;
+    margin: 0;
+}
+.dokuwiki #toc__inside ul li, /* old */
+#dw__toc ul li /* new */ {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    line-height: 1.1;
+}
+.dokuwiki #toc__inside ul li div.li, /* old */
+#dw__toc ul li div.li /* new */ {
+    padding: .15em 0;
+}
+.dokuwiki #toc__inside ul ul, /* old */
+#dw__toc ul ul /* new */ {
+    padding-left: 1em;
+}
+[dir=rtl] .dokuwiki #toc__inside ul ul, /* old */
+[dir=rtl] #dw__toc ul ul /* new */ {
+    padding-left: 0;
+    padding-right: 1em;
+}
+.dokuwiki #toc__inside ul ul li, /* old */
+#dw__toc ul ul li /* new */ {
+}
+.dokuwiki #toc__inside ul li a, /* old */
+#dw__toc ul li a /* new */ {
+}
+
+/* in case of toc list jumping one level
+  (e.g. if heading level 3 follows directly after heading level 1) */
+.dokuwiki #toc__inside ul li.clear, /* old */
+#dw__toc ul li.clear /* new */ {
+}
+
+
+/* sitemap (and backlinks)
+********************************************************************/
+
+.dokuwiki ul.idx {
+    padding-left: 0;
+}
+[dir=rtl] .dokuwiki ul.idx {
+    padding-right: 0;
+}
+.dokuwiki ul.idx li {
+    list-style-image: url(images/bullet.png);
+    /*
+    @deprecated, change since Adora Belle:
+    list-style-image: url(../../images/bullet.png);
+    */
+}
+.dokuwiki ul.idx li.open {
+    list-style-image: url(images/open.png);
+    /*
+    @deprecated, change since Adora Belle:
+    list-style-image: url(../../images/open.png);
+    */
+}
+.dokuwiki ul.idx li.closed {
+    list-style-image: url(images/closed.png);
+    /*
+    @deprecated, change since Adora Belle:
+    list-style-image: url(../../images/closed.png);
+    */
+}
+[dir=rtl] .dokuwiki ul.idx li.closed {
+    list-style-image: url(images/closed-rtl.png);
+    /*
+    @deprecated, change since Adora Belle:
+    list-style-image: url(../../images/closed-rtl.png);
+    */
+}

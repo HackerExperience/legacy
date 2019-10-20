@@ -1,0 +1,8 @@
+The Hacked Database is the place where you can manage every IP address you currently have access to. Additionally, it will also list every bank account you cracked.
+
+It is also the page where you can manage your installed virus, collect money from them and launch a DDoS attack.
+
+====== Collecting Money ======
+In order to collect money, you need a [[en:softwares#virus_collector|Virus Collector]].
+
+Each virus must work at least 10 minutes and generate a minimum amount of $1. If these two conditions are not met, the virus is ignored.

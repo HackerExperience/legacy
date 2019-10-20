@@ -1,0 +1,65 @@
+/* 
+    CSS tweaks for all IE browsers
+
+    Note: file is being included after other css
+*/
+
+* html .buttons div {
+    font-size: 10px;
+}
+
+/* Forums list: links */
+* html li.row dl.icon dt
+{
+    height: 35px;
+    overflow: visible;
+}
+
+/* profile buttons fix */
+ul.profile-icons, ul.searchresults {
+	width: 99%;
+	float: right;
+}
+* html ul.profile-icons, * html ul.searchresults {
+    float: none;
+    width: auto;
+}
+.profile-fix {
+    border-width: 0;
+    background-color: transparent;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+* html .post-maximize, * html .post-minimize { display: none; }
+
+/* IE 7 clearing div fix */
+.clear:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.clear { display: inline-block; }
+* html .clear { height:1px; }
+
+
+/* BBCode fix for IE7 */
+.code-links, #ignore#ie8 {
+    width: 100px;
+}
+
+/* Profile view, FAQ */
+* html .post-profile, * html .post-content, * html .column1 { position: relative; }
+
+.online .profile-top, #ie8#ignore {
+    border-left: solid 1px #fff;
+}
+
+/* Tables */
+* html .forumbg table.table1, * html #ucp-main table.table1 { margin: 0; padding: 0; }
+
+/* MCP */
+* html ul.topiclist { position: relative; }

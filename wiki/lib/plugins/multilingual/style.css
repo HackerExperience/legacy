@@ -1,0 +1,87 @@
+.dokuwiki div.plugin_multilingual {
+    float: right;
+    font-size: 95%;
+    padding-right: 0.1em;
+    margin : 0.0em 0 0.3em 0;
+}
+
+.dokuwiki div.plugin_multilingual ul {
+    padding: 0;
+    margin: 0;
+}
+.dokuwiki div.plugin_multilingual ul li{
+    float: left;
+    list-style-type: none;
+    padding: 0;
+    margin: 0.2em 0 0 0;
+}
+
+
+.dokuwiki div.plugin_multilingual ul li a.wikilink1:link,
+.dokuwiki div.plugin_multilingual ul li a.wikilink1:hover,
+.dokuwiki div.plugin_multilingual ul li a.wikilink1:active,
+.dokuwiki div.plugin_multilingual ul li a.wikilink1:visited {
+    background-color: #000080;
+    color: #fff !important;
+    text-decoration:none;
+    padding: 0 0.2em;
+    margin: 0.1em 0.2em;
+    border: none !important;
+}
+
+.dokuwiki div.plugin_multilingual ul li a.wikilink2:link,
+.dokuwiki div.plugin_multilingual ul li a.wikilink2:hover,
+.dokuwiki div.plugin_multilingual ul li a.wikilink2:active,
+.dokuwiki div.plugin_multilingual ul li a.wikilink2:visited {
+    background-color: #808080;
+    color: #fff !important;
+    text-decoration:none;
+    padding: 0 0.2em;
+    margin: 0.1em 0.2em;
+    border: none !important;
+}
+
+.dokuwiki div.plugin_multilingual option.wikilink1 {
+    color: #000080;
+    text-align: center;
+}
+
+.dokuwiki div.plugin_multilingual option.wikilink2 {
+    color: #808080;
+    text-align: center;
+}
+
+/******************************************************************************
+ * Flags
+ *****************************************************************************/
+
+.dokuwiki div.plugin_multilingual ul li a img {
+    opacity: 0.80;
+    border: 1px solid #888888;
+    margin-top: 0em;
+}
+.dokuwiki div.plugin_multilingual ul li div.flag_not_exists a img {
+    opacity: 0.25;
+    border: 1px solid #666666;
+}
+.dokuwiki div.plugin_multilingual ul li a.wikilink2 img {
+  /* Image links only have class "media", they don't have wikilink 1 and 2 yet */
+}
+.dokuwiki div.plugin_multilingual span.curid a img {
+    opacity: 1.0;
+    border: 1px solid #666666;
+    /*height: 13px;*/
+}
+.dokuwiki div.plugin_multilingual ul li a:hover img {
+    opacity: 1.0;
+    border: 1px solid #444444;
+    /* height: 12px; */
+}
+
+.dokuwiki div.plugin_multilingual ul li div.flag_not_exists a:hover img {
+    opacity: 0.5;
+    border: 1px solid #444444;
+}
+
+
+

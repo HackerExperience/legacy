@@ -1,0 +1,51 @@
+At the University you are able to research your softwares and also take brand new certifications.
+Na Universidade você pode desenvolver softwares e também tirar novas certificações.
+
+====== Desenvolver ======
+Desenvolvimento de software é um aspecto fundamental do jogo. Com isso, você pode melhorar seu software atual pagando uma <del>pequena</del> taxa.
+
+Para poder desenvolver um software, você deve antes comprar sua [[pt-br:softwares#licenca_de_software|licença]] antes.
+
+===== Softwares que podem ser desenvolvidos =====
+Um software pode ser desenvolvido se você pode comprar sua licença e melhorar sua versão.
+
+Softwares que você pode desenvolver:
+  * Cracker
+  * Hasher
+  * Firewall
+  * Hider
+  * Seeker
+  * Anti-Vírus
+  * Vírus (Spam, Warez, Miner e DDoS)
+  * Exploits (FTP and SSH)
+  * Coletor de Vírus
+
+====== Certificações ======
+Certificações têm o propósito de gradualmente introduzir conceitos da mecânica do jogo. Elas são necessárias para realizar ações específicas.
+===== Tutorial Básico ======
+O tutorial básico explica como funciona os conceitos mais básicos do jogo, como o que são [[pt-br:log|Logs]], [[pt-br:softwares|Softwares]], [[pt-br:processes:Processos, [[pt-br:hacked_database|Banco de Dados]], etc.
+
+Destrava:
+     * Links do menu, exceto a Internet
+===== Princípios de Hacking ======
+Agora vamos jogar. Essa certificação explica os básicos de invasão.
+
+Destrava
+    * [[pt-br:Internet]]
+    * [[pt-br:hacking#ataque_bruta-forca|Ataque Bruta-força]]
+    * [[pt-br:Viruses|Vírus]], exceto DDoS
+    * Tutorial Guiado
+===== Invasões - Nível médio ======
+Aqui o jogador irá aprender novas técnicas como ataque exploit e invadir contas de banco.
+
+Destrava
+    * [[pt-br:hacking#ataque_exploit|Ataque Exploit]]
+    * Invasão de Contas Bancárias
+===== Hacking Avançado ======
+Destrava
+    * Ataque DDoS
+===== Segurança DDoS ======
+Essa certificação introduz o conceito de Migitação DDoS. Após tirá-la, o usuário irá automaticamente mitigar ataques DDoS usando seu Firewall.
+
+Destrava
+    * Mitigação DDoS

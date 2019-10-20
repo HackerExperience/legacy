@@ -1,0 +1,7 @@
+base   acl
+author Andreas Gohr
+email  andi@splitbrain.org
+date   2013-02-17
+name   ACL Manager
+desc   Manage Page Access Control Lists
+url    http://dokuwiki.org/plugin:acl

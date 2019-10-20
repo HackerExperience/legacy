@@ -1,0 +1,8 @@
+O Banco de Dados é o lugar onde você pode gerenciar todo endereço IP que você atualmente tem acesso. Além disso, ele também lista toda conta de banco que você invadiu.
+
+É também a página onde você gerencia seus vírus instalados, coleta dinheiro deles e lança ataque DDoS.
+
+====== Coletando dinheiro ======
+Para poder coletar dinheiro, você precisa de um [[pt-br:softwares#coletor_de_virus|Coletor de Vírus]].
+
+Cada vírus deve trabalhar pelo menos 10 minutos e gerar um mínimo de $1. Se essas duas condições não forem satisfeitas, o vírus é ignorado.

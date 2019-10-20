@@ -1,0 +1,6 @@
+author Daniel Stonier
+email  d.stonier@gmail.com
+date   2009-02-06
+name   Multi-Lingual Plugin
+desc   Simple multilanguage plugin
+url    http://snorriheim.dnsdojo.com/doku/en:help:plugins:multilingual

@@ -1,0 +1,88 @@
+/**
+ * This file provides styles for the recent changes (?do=recent) and
+ * old revisions (?do=revisions).
+ */
+
+/*____________ list of revisions / recent changes ____________*/
+
+/* select type of revisions (media/pages), should have a class on it's own, but hasn't (until after version 2012-01-25)  */
+.dokuwiki #dw__recent label, /* old, until 2012-01-25 */
+.dokuwiki .changeType /* new */ {
+    margin-bottom: .5em;
+    display: block;
+}
+
+.dokuwiki #dw__recent ul li, /* old, until 2012-01-25 */
+.dokuwiki #page__revisions ul li, /* old, until 2012-01-25 */
+.dokuwiki form.changes ul li /* new */ {
+    list-style: none;
+    margin-left: 0;
+}
+[dir=rtl] .dokuwiki #dw__recent ul li, /* old, until 2012-01-25 */
+[dir=rtl] .dokuwiki #page__revisions ul li, /* old, until 2012-01-25 */
+[dir=rtl] .dokuwiki form.changes ul li /* new */ {
+    margin-right: 0;
+}
+
+.dokuwiki #dw__recent ul li span, /* old, until 2012-01-25 */
+.dokuwiki #page__revisions ul li span, /* old, until 2012-01-25 */
+.dokuwiki form.changes ul li span, /* new */
+.dokuwiki #dw__recent ul li a, /* old, until 2012-01-25 */
+.dokuwiki #page__revisions ul li a, /* old, until 2012-01-25 */
+.dokuwiki form.changes ul li a /* new */ {
+    vertical-align: middle;
+}
+.dokuwiki #dw__recent ul li span.user a, /* old, until 2012-01-25 */
+.dokuwiki #page__revisions ul li span.user a, /* old, until 2012-01-25 */
+.dokuwiki form.changes ul li span.user a /* new */ {
+    vertical-align: bottom;
+}
+.dokuwiki #dw__recent ul li.minor, /* old, until 2012-01-25 */
+.dokuwiki #page__revisions ul li.minor, /* old, until 2012-01-25 */
+.dokuwiki form.changes ul li.minor /* new */ {
+    opacity: .7;
+}
+
+.dokuwiki #dw__recent ul li span.date, /* old, until 2012-01-25 */
+.dokuwiki #page__revisions ul li span.date, /* old, until 2012-01-25 */
+.dokuwiki form.changes ul li span.date /* new */ {
+}
+.dokuwiki #dw__recent ul li a.diff_link, /* old, until 2012-01-25 */
+.dokuwiki #page__revisions ul li a.diff_link, /* old, until 2012-01-25 */
+.dokuwiki form.changes ul li a.diff_link /* new */ {
+    vertical-align: baseline;
+}
+.dokuwiki #dw__recent ul li a.revisions_link, /* old, until 2012-01-25 */
+.dokuwiki #page__revisions ul li a.revisions_link, /* old, until 2012-01-25 */
+.dokuwiki form.changes ul li a.revisions_link /* new */ {
+    vertical-align: baseline;
+}
+.dokuwiki #dw__recent ul li a.wikilink1, /* old, until 2012-01-25 */
+.dokuwiki #page__revisions ul li a.wikilink1, /* old, until 2012-01-25 */
+.dokuwiki form.changes ul li a.wikilink1, /* new */
+.dokuwiki #dw__recent ul li a.wikilink2, /* old, until 2012-01-25 */
+.dokuwiki #page__revisions ul li a.wikilink2, /* old, until 2012-01-25 */
+.dokuwiki form.changes ul li a.wikilink2 /* new */ {
+}
+.dokuwiki #dw__recent ul li span.sum, /* old, until 2012-01-25 */
+.dokuwiki #page__revisions ul li span.sum, /* old, until 2012-01-25 */
+.dokuwiki form.changes ul li span.sum /* new */ {
+    font-weight: bold;
+}
+.dokuwiki #dw__recent ul li span.user, /* old, until 2012-01-25 */
+.dokuwiki #page__revisions ul li span.user, /* old, until 2012-01-25 */
+.dokuwiki form.changes ul li span.user /* new */ {
+}
+
+
+/*____________ page navigator ____________*/
+
+.dokuwiki div.pagenav {
+    text-align: center;
+    margin: 1.4em 0;
+}
+.dokuwiki div.pagenav-prev,
+.dokuwiki div.pagenav-next {
+    display: inline;
+    margin: 0 .5em;
+}

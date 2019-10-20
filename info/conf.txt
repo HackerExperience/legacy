@@ -1,0 +1,73 @@
+
+    /*******************************************************************************
+    *             ,        ,                                                       *
+    *            / \,,_  .'|                                                       *
+    *         ,{{| /}}}}/_,'          _________________________________________    *
+    *        }}}}` '{{'  '.          /                                         \   *
+    *      {{{{{    _   ;, \        /           Ladies and gentlemen,           \  *
+    *   ,}}}}}}    /o`\  ` ;)      /                 this is...                  \ *
+    *  {{{{{{   /   __      (      |                                             | *
+    *  }}}}}}   |            \     |    _____     __  .-_'''-.   .---.  .---.    | *
+    * {{{{{{{{   \            \    |    \   _\   /  /'_( )_   \  |   |  |_ _|    | *
+    * }}}}}}}}}   '.__      _  |   |    .-./ ). /  '|(_ o _)|  ' |   |  ( ' )    | *
+    * {{{{{{{{       /`._  (_\ /   |    \ '_ .') .' . (_,_)/___| |   '-(_{;}_)   | *
+    *  }}}}}}'      |    //___/ --=:   (_ (_) _) '  |  |  .-----.|      (_,_)    | *
+    *  `{{{{`       |     '--'     |     /    \   \ '  \  '-   .'| _ _--.   |    | *
+    *   }}}________/               |     `-'`-'    \ \  `-'`   | |( ' ) |   |    | *
+    *                              \    /  /   \    \ \        / (_{;}_)|   |    / *
+    *                               \  '--'     '----' `'-...-'  '(_,_) '---'   /  *
+    *                                \_________________________________________/   *
+    *                                                                              *
+    *******************************************************************************/
+
+2019: This is like life: mostly useless. Kept for hysterical reasons.
+
+MySQL:
+
+SET innodb_flush_log_at_trx_commit to 0. (@VIDALOK)
+
+
+//facebook needs curl
+sudo apt-get install curl libcurl3 libcurl3-dev php5-curl
+
+http://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html
+
+http://piwik.org/#
+
+*** FORUM ***
+
+//alterar o primeiro fórum criado automaticamente (my first forum) pra se tornar ANNOUNCEMENTS
+
+-> criar topic_clan no phpbb_topics
+ALTER TABLE `phpbb_topics` ADD `topic_clan` INT( 5 ) UNSIGNED NOT NULL DEFAULT '0', ADD INDEX ( `topic_clan` ) 
+
+-> criar game_id no phpbb_users
+ALTER TABLE `phpbb_users` ADD `user_game_id` INT( 5 ) UNSIGNED NOT NULL 
+
+-> criar forum_clan no phpbb_forums
+ALTER TABLE `phpbb_forums` ADD `forum_clan` INT( 5 ) UNSIGNED NOT NULL DEFAULT '0', ADD INDEX ( `forum_clan` ) 
+
+//Criar a categoria "Clans"
+//Criar o fórum Clan Recruitment sob clans
+//Ver qual a id da categoria pai Clans
+//Adicionar essa id na função createForum de Forum.class.php ($parentID) (default = 3)
+
+*Configurações do fórum*
+
+Disallow avatar upload
+Disallow PMs
+
+Instalar imagemagick (usado na edição de imagens)
+
+apt-get install libmagickwand-dev
+apt-get install imagemagick
+pecl install imagick
+echo "extension=imagick.so" >> /etc/php5/apache2/php.ini
+
+Server monitoring: http://www.cacti.net/index.php
+
+VPN: https://www.privateinternetaccess.com
+
+Certificado: https://www.cacert.org
+
+Piwik: http://piwik.org/what-is-piwik/

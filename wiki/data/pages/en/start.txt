@@ -1,0 +1,17 @@
+====== The Hacker Experience Official Wiki ======
+
+===== What is Hacker Experience =====
+
+Hacker Experience is a free hacking simulation game. Play now: www.hackerexperience.com
+
+===== Using the Wiki =====
+
+Navigate through the contents on the left sidebar.
+
+This wiki is currently supported in two languages: English and Portuguese.
+
+**Você pode acessar a wiki em Português [[pt-br:start|aqui]].**
+
+Having any questions don't hesitate to contact us at contact@hackerexperience.com
+
+~~NOTOC~~

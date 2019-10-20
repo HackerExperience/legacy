@@ -1,0 +1,84 @@
+/* Margin of outer divs */
+.forabg, .forumbg {
+	margin-bottom: 4px;
+	clear: both;
+}
+
+.panel, .post {
+	margin-bottom: 4px;
+	clear: both;
+}
+
+/* Padding of inner divs */
+.navbar .block-content, .panel .block-content, .post .block-content {
+	padding: 0 5px;
+}
+
+.panel-table .block-content, #ip .block-content {
+    padding: 0;
+}
+#navigation .block-content, #pm-folder .block-content {
+    padding: 1px;
+}
+.cp-mini .block-content, .rules .block-content {
+    padding: 5px;
+}
+
+.panel-table h3 { padding-left: 5px; }
+
+/* Outer divs */
+.panel {
+	color: #3f3f3f;
+}
+
+.post:target .content {
+	color: #000000;
+}
+
+.post:target h3 a {
+	color: #000000;
+}
+
+/* Blocks */
+.block-border {
+    padding: 1px;
+    border: 1px solid #ededed;
+    background-color: #fff;
+    background-position: bottom left;
+    background-repeat: repeat-x;
+    margin: 5px 0;
+}
+.block-panel, .navbar .block-border {
+    border-width: 0;
+    padding: 0;
+}
+.block-content {
+    border: 1px solid #e5e5e5;
+    background-color: #fff;
+}
+.navbar .block-content {
+    background-position: bottom left;
+    background-repeat: repeat-x;
+}
+.block-footer {
+    clear: both;
+}
+.navbar {
+    white-space: nowrap;
+}
+
+/* PM notification */
+.pm-notify-new, .pm-notify-unread {
+    width: 400px;
+    margin: 5px auto;
+    text-align: center;
+    border: solid 1px white;
+    background-position: top left;
+    background-repeat: repeat-x;
+    padding: 5px;
+    text-align: center;
+}
+.pm-notify-new h3, .pm-notify-unread h3 {
+    margin-top: 5px;
+    text-align: left;
+}

@@ -1,0 +1,79 @@
+Missions are an alternative way to earn money. Currently, there are five different types of missions, each one of them with a specific duty.
+
+Missions happen between Companies, a special type of NPC.
+
+====== Missions Types ======
+
+Got a cool mission idea? Post on the forum or mail us at contact@hackerexperience.com
+===== Delete software =====
+
+The easiest mission you will find. The user is asked to hack into a Company and delete a given file. 
+
+Reward is between $150 and $350
+
+===== Steal Data ======
+
+Still a very easy mission, with one more complexity layer than the mission above. You are asked to hack into a company and steal a software. "Steal" means downloading this specific software and upload it to the company who hired you. They will make a better use of the file, and that's it for the mission.
+
+Reward is between $250 and $450
+
+===== Check Account Status =====
+
+Now you've got to hack a bank, so shit just got real. The hirer sends you a bank account (with the respective bank IP) that belongs to a company they want to buy. They want to make sure it is a good deal, so you are asked to crack this account and report the amount of money existent there. Technically you do not need to login into the bank, but you have to if you want to clear you logs (and you should).
+
+Reward is between $500 and $750, plus you get the chance to steal the account money. After all, are you trustworthy?
+
+===== Transfer money =====
+Ok, now it feels like hacking. A company asks you to transfer the money from some guys to them. You might need to hack up to two banks in order to clear your logs (if the destination account is in a different bank from the source, the transfer will be logged on both banks). 
+
+Reward is between $1000 and $1500, plus you get the chance to steal the account money. Boy, I would feel bad for the hirer.
+
+===== Destroy server =====
+Someone is very upset. They want you to take down the victim company website. In order to take down a server, you must perform a recurrent powerful DDoS attack against the victim IP.
+
+Be careful, your logs will be everywhere and you might get to the FBI Most Wanted list.
+
+Reward is between $2000 and $3000.
+
+====== Mission Level ======
+
+In order to keep the game balanced, there are different levels of missions. The missions are the same, actually, what changes is how powerful the company softwares are.
+
+The level you are at depends only of your cracker version.
+
+^ Cracker Version      ^ Mission Level    ^
+|   < 3.0                |     1    |
+|    ≥ 3.0 and < 6.0     |     2    |
+|   ≥6.0                 |     3    |
+
+The same table above applies to the companies softwares level (i.e. Level 1 companies will have cracker/hash/firewall up to 3.0. Level 2, from 3.0 to 6.0. Level 3, above 6.0)
+
+====== Hidden Missions ======
+
+Companies won't use Google Ads to find hackers. They need to //know// the hacker before sending a mission offer. In order to get your name to a company, you simply need to have it on your hacked database. 
+
+No idea where to start? The First Whois might be a good place. There are some companies there.
+
+====== Mission Generation ======
+
+Every hour (:00), 50 missions are generated for level 1, 30 for level 2 and 25 for level 3. Missions won't accumulate, i.e., there will never be more than 50 level 1 missions.
+
+(Please note these numbers might change / be outdated)
+
+====== Aborting a mission ======
+
+You can abort a mission (except Storyline missions), however you will have to pay a penalty of $500 + the mission reward. You will also lose 10% of your current reputation.
+
+If you can't currently hack the assigned company, it might be wise to use what would be the penalty money to upgrade your cracker (or exploits) until you are able to hack.
+
+If you can't find the specified mission software, please wait. NPCs softwares are restored <del>daily</del> every 15 minutes.
+
+If you believe there is a bug, contact us at contact@hackerexperience.com.
+
+====== Completed Missions ======
+
+You are able to see every mission you completed on the Completed Missions tab. Pretty <del>useless</del> cool.
+
+====== Storyline Missions ======
+
+Please reefer to the [[en:Storyline]] page.

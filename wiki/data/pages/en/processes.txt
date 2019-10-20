@@ -1,0 +1,82 @@
+Processes, also known as tasks, are **actions** performed by you that need to be calculated/processed somehow, and therefore some time will take until the process is completed. It can take from as little as 4 seconds to days or weeks, depending of the action you are performing and others factors.
+
+======Task Manager======
+Task manager is the page where you can manage your processes. It also lists your running softwares, and how much [[en:hardware#RAM]] you are using.
+
+======Processes Duration======
+
+=====Download / Upload software=====
+When downloading or uploading a software, the duration of the process will depend of two factors:
+    * File size
+    * Relative internet connection
+
+The file size is easy to understand. It simply is how many MB you need to transfer. The relative internet connection works the following way:
+
+When you are uploading a software, you are the source (uploader) and the victim is the target (downloader). The relative connection speed will be the //lower// between your upload speed and the victim download speed. For example, if you have a 100 Mbit connection and are uploading to a 1 Mbit server, your upload speed will be limited to ~125 KB/s. (the victim download speed will be the limit)
+
+When you are downloading a software, you are the target (downloader) and the victim is the source (uploader). The relative connection speed will be the //lower// between your download speed and the victim upload speed. For example, if you have a 1 Mbit connection and is downloading from a 1 Mbit server, your download speed will be limited to ~64 KB/s (the victim upload speed will be the limit)
+
+That said, another limit is the percentage of your internet you are using for the current task. For example, if you are performing two downloads at the same time, your internet speed will be split between the two tasks.
+=====Delete software=====
+Deleting a software will depend of two factors:
+    * Software  size
+    * CPU power
+
+Performing this action on your own server is 2x faster.
+
+=====Install / Uninstall software=====
+Installing (run) and uninstalling (kill) softwares will depend of two factors:
+    * Software  size
+    * CPU power
+
+Performing these actions on your own server is 2x faster.
+=====Hide / Seek software=====
+Hide and seeking a software will depend of two factors:
+    * Software  size
+    * CPU power
+When seeking, there is an additional factor:
+    * Hidden version
+
+Higher the hidden version, more time will take to seek the file.
+
+Performing these actions on your own server is 2x faster.
+=====Bruteforce attack=====
+A [[en:hacking#brute-force_attack|brute-force attack]] process depends of
+    * The attacker's CPU
+    * The attacker's Cracker
+    * The victim's Password Hashing
+
+The same logic applies when cracking a bank account.
+=====Port Scan=====
+Port Scanning takes a fixed time of 30 seconds.
+=====Exploit attack=====
+Performing the [[en:hacking#exploit_attack|exploit attack]] (after the scanning) always takes 60 seconds.
+=====Run Anti-Virus=====
+=====Format Hard Drive=====
+This feature is not yet implemented.
+=====Launch DDoS=====
+=====Research=====
+The time to research a software depends //only// of it's version.
+
+^   Current Version (v)       ^    Duration (s)      ^
+|   < 3.0                |     280 + 20 * (v - 10)     |
+|    ≥ 3.0 and < 5.0     |     660 + 10 * (v - 29)   |
+|   ≥ 5.0 and < 7.5      |     900     |
+|   ≥ 7.5 and < 10.0     |     1200   |
+|   ≥ 10.0 and < 15.0    |     1500     |
+|    ≥ 15.0              |     1800   |
+
+=====Edit Log=====
+Editing log files is certainly a key aspect of the game. Two factors determine the duration of this action:
+    * Log size
+    * Your CPU speed
+
+Editing logs at localhost gives a speed bonus of 50% because of the low latency. The minimum time taken to edit a log is 4 seconds, and the upper limit is 60 seconds.
+
+Some users intentionally leave large blocks of logs to delay remote edition. Having a good CPU is, therefore, essential. 
+
+===== Reset IP =====
+You can reset your IP on the [[en:npc#isp|ISP]]. It takes a fixed time of 10 minutes.
+
+=====Doom the Internet=====
+Feel lucky if you launched one of those. Doom takes 6 hours to complete. It is the final part of the [[en:Storyline]].

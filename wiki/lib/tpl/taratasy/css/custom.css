@@ -1,0 +1,266 @@
+/* All the additional CSS rules needed for this template
+Make all your changes here, and not in the original Starter template files
+ */
+/* _edit.css --- HIGHLIGHTING */
+.dokuwiki .secedit input.button {
+	margin: 4px 0 2px 0;
+}
+/* _footnotes.css --- FOOTNOTES */
+/* link to footnote inside the text */
+.dokuwiki sup a.fn_top {
+	font-size: 0.7em;
+	margin: 0 0.18em;
+}
+
+/* JS footnote popup */
+div.insitu-footnote {
+	padding: 0.3em 0.6em 0.4em;
+	font-size: 90%;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 5px 5px 7px #888;
+	-moz-box-shadow: 5px 5px 7px #888;
+	box-shadow: 5px 5px 7px #888;
+}
+.dokuwiki div.footnotes {
+	font-size: 75%;
+}
+/* _toc.css --- TOC */
+.dokuwiki div.tocheader {
+	color: __text_neu__;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+}
+.dokuwiki #toc__inside {
+	padding: .2em .5em .5em;
+	font-size: 85%;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+}
+/* basic.css */
+body {
+	font-family: "Segoe UI";
+}
+h1, h2, h3, h4, h5, h6, caption, legend {
+	font-family: Calibri;
+}
+textarea.edit {
+	font-family: Consolas;
+}
+input[type=submit], input[type=text], input.button, button, #dokuwiki__header form.search #qsearch__in, .dokuwiki form.search div.ajax_qsearch {
+	border: 1px solid __border__;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-o-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+    line-height: normal;
+}
+input[type=submit] {
+    padding-bottom: 1px;
+}
+input[type=text] {
+	padding: 2px 5px;
+}
+/* content.css --- TABLES */
+.dokuwiki table.inline th, .dokuwiki table.inline td {
+	border: 1px solid __border__;
+}
+.dokuwiki ul {
+	list-style-image: url("images/bullet.gif");
+}
+/* design.css */
+/* HEADER */
+#dokuwiki__header {
+	top: 0;
+	right: 0;
+	margin: 0;
+	width: auto;
+}
+#dokuwiki__header .pad {
+	padding: 0;
+}
+#dokuwiki__header .row {
+    width: 100%;
+    height: 40px;
+}
+#dokuwiki__header h1 a {
+	clear: left;
+	font-size: 28px;
+	font-family: Calibri;
+    line-height:40px;
+    vertical-align: middle;
+}
+#dokuwiki__header .tools {
+	margin-bottom: 0;
+	overflow: hidden;
+}
+#dokuwiki__header .headings {
+	margin: 0 1.5em;
+}
+#dokuwiki__header .headings,
+#dokuwiki__header form.search {
+	float: left;
+    display: block;
+}
+#dokuwiki__header form.search {
+	clear: none;
+    padding: 8px 0 4px;
+    margin-top: 0 !important;
+    height: 28px;
+}
+#dokuwiki__header form.search #qsearch__in {
+	width: 12em;
+	font-size: 95%;
+}
+.dokuwiki form.search div.ajax_qsearch {
+	left: 14em;
+	top: 26px;
+	width: auto;
+	-webkit-box-shadow: 5px 5px 7px #888;
+	-moz-box-shadow: 5px 5px 7px #888;
+	box-shadow: 5px 5px 7px #888;
+}
+#dokuwiki__header div.breadcrumbs {
+	padding: .2em 0 .2em 2em;
+	font-size: 75%;
+}
+#dokuwiki__header div.breadcrumbs .bchead {
+	font-family: Calibri;
+	font-weight: bold;
+	font-size: 112%;
+	font-style: italic;
+}
+#dokuwiki__header div.breadcrumbs a {
+	font-style: italic;
+}
+#dokuwiki__footer .doc {
+	float: right;
+	font-size: 75%;
+	font-style: italic;
+	padding-right: 1em;
+}
+/* TOOLS */
+/* USERTOOLS, PAGETOOLS, SITETOOLS */
+#dokuwiki__usertools, #dokuwiki__sitetools {
+	width: auto;
+	position: static;
+	float: right;
+	background: inherit;
+	border: none;
+}
+#dokuwiki__usertools {
+	clear: none;
+}
+#dokuwiki__pagetools,
+#dokuwiki__usertools,
+#dokuwiki__sitetools {
+	font-size: 82%;
+}
+
+#dokuwiki__usertools ul,
+#dokuwiki__sitetools ul {
+    position: relative;
+}
+
+#dokuwiki__usertools li,
+#dokuwiki__sitetools li {
+    float: left;
+    display: table-cell;
+    list-style-type: none;
+    /*height: 34px;*/
+    margin: 0 0;
+}
+
+#dokuwiki__usertools li a,
+#dokuwiki__sitetools li a,
+#dokuwiki__usertools li.user {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    vertical-align: middle;
+    text-align: center;
+    padding:0 0.5em;
+}
+
+/* page tools fixed at bottom of browser window */
+
+#dokuwiki__pagetools ul {
+    max-width: 100%;
+    padding: 0.1em 0;
+    margin: 0 0;
+}
+#dokuwiki__pagetools li {
+	margin: 0 0 !important;
+	padding: .1em 1em;
+	float: left;
+	border-width: 1px;
+	border-style: solid;
+	border-bottom: none;
+	border-left: none;
+}
+#dokuwiki__pagetools li:nth-last-child(2) {
+	-webkit-border-radius: 0 5px 0 0;
+	-moz-border-radius: 0 5px 0 0;
+	-o-border-radius: 0 5px 0 0;
+	-ms-border-radius: 0 5px 0 0;
+	-khtml-border-radius: 0 5px 0 0;
+	border-radius: 0 5px 0 0;
+    margin: 0 0 !important;
+    padding: .1em 1em;
+    float: left;
+    border-width: 1px;
+    border-style: solid;
+    border-bottom: none;
+    border-left: none;
+}
+
+#dokuwiki__pagetools li:nth-last-child(2) {
+    border-radius: 0 5px 0 0;
+}
+#dokuwiki__pagetools li:nth-last-child(1) {
+	float: right;
+	-webkit-border-radius: 5px 0 0 0;
+	-moz-border-radius: 5px 0 0 0;
+	-o-border-radius: 5px 0 0 0;
+	-ms-border-radius: 5px 0 0 0;
+	-khtml-border-radius: 5px 0 0 0;
+	border-radius: 5px 0 0 0;
+	border-right: none;
+	border-left: 1px;
+    float: right;
+    border-radius: 5px 0 0 0;
+    border-right: none;
+    border-left: 1px;
+}
+/* SIDEBAR */
+#dokuwiki__aside .pad {
+	border-right: 2px dotted #CFDBEC;
+	padding-left: 4px;
+}
+#dokuwiki__aside ul {
+	list-style: none;
+}
+/* structure.css */
+#dokuwiki__site {
+	max-width: 100%;
+	padding: 0 0 2.4em;
+}
+#dokuwiki__site .wrapper {
+	margin: 0.7em auto;
+	max-width: __site_width__;
+	padding: 0 1em;
+}

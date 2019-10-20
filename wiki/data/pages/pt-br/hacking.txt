@@ -1,0 +1,45 @@
+No jogo, //invadir// ou //hacking// é o ato de conectar-se com sucesso a um outro servidor (computador) com permissões especiais. Existem, atualmente, duas formas de invasão.
+
+Após um ataque com sucesso, todo servidor é armazenado no seu Banco de Dados.
+
+====== Métodos de Ataque ======
+
+===== Ataque Força-Bruta =====
+Todo servidor é protegido com uma senha. O método força-bruta usa o software Cracker para sistematicamente verificar todas as senhas possíveis até que a correta seja encontrada. É extremamente rápido quando estiver crackeando senhas fracas, mas senhas mais complexas podem levar tempos infinitos. Portanto, o uso de um Password Hasher é essencial para proteger-se desse tipo de ataque.
+
+Quando realizado com sucesso, retorna a senha do usuário root, dando acesso total ao computador da vítima.
+
+Instruções para invadir uma conta de banco são similares, retornando a senha da conta no lugar da senha do servidor.
+
+O tempo necessário para completar um ataque força-bruta depende da versão do cracker de quem está invadindo e da versão do hasher da vítima, além do processador do atacante.
+
+===== Ataque Exploit =====
+Um método alternativo de ataque é conhecido como exploração. Ele consiste em //explorar// vulnerabilidades de serviços específicos que estão rodando dentro do servidor. Esses servições são conhecidos como SSH e FTP, e são responsáveis por ações relacionadas a CPU e transferência de arquivos, respectivamente.
+
+Primeiramente o atacante precisa varrer o endereço IP para saber se a vítima está vulnerável aos seus exploits. Para poder estar vulnerável a algum (ou ambos) exploit(s), a versão do(s) Exploit(s) do atacante deve(m) ser maior(es) que, ou igual(is), à versão do Firewall da vítima.
+
+Se a varredura retornar um resultado positivo, o atacante pode usar pelo menos um dos seus exploits para conseguir permissões especiais no servidor da vitima. Se somente o serviço FTP estiver vulnerável, o atacante irá conseguir permissões de FTP e estará apto //somente// a transferir arquivos (download e upload). Se o serviço SSH estiver vulnerável, o atacante poderá instalar, deletar, esconder ou deletar arquivos na vítima, mas não poderá transferir arquivos. Em ambos os casos o invasor pode ver e editar os logs.
+
+Se ambos os serviços FTP e SSH estiverem vulneráveis, o atacante irá conseguir acesso root (completo), podendo fazer qualquer coisa de um invasor que entrou por método força-bruta faria. A única diferença é que a senha do servidor //não// será listada no Banco de Dados.
+
+
+====== Mantendo-se conectado ======
+Para poder entrar e //manter-se// conectado, alguns critérios devem ser satisfeitos.
+=====Critérios para login por Força-bruta======
+Para manter-se conectado, o invasor deve
+    * ter um cracker //instalado// com versão maior que, ou igual, ao hasher da vítima.
+=====Critérios para login por Exploit======
+Para manter-se conectado, o invasor deve
+    * ter pelo menos um exploit //instalado// com versão maior que, ou igual, ao firewall da vítima.
+Em outras palavras: Usuário é desconectado se
+    * O invasor está logado como root (ambos exploits) e ambos param de rodar, ou
+    * O invasor está logado como root (ambos exploits) e a vítima instala um firewall mais forte, ou
+    * O invasor está logado usando exploit X e o exploit X para de rodar, ou
+    * O invasor está logado usando exploit X e a vítima roda um firewall mais forte que X.
+Permissões são perdidas se
+    * O invasor está logado como root (ambos exploits) e um deles para de rodar, ou
+    * O invasor está logado como root (ambos exploits) e a vítima roda um firewall que é mais forte que um exploit somente.
+Nesse caso, o usuário mantém-se conectado com permissões do exploit que está funcionando, //somente//.
+
+====== Invasão de contas de banco ======
+Invasão de contas bancárias, ou bank hacking, é o ato de descobrir a senha uma específica conta de [[pt-br:npc#bancos|banco]].

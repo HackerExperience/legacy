@@ -1,0 +1,63 @@
+/* Buttons */
+
+/* Rollover buttons
+   Based on: http://wellstyled.com/css-nopreload-rollovers.html
+----------------------------------------*/
+.buttons {
+	float: left;
+	width: auto;
+	height: auto;
+}
+
+/* Rollover state */
+.buttons div {
+	float: left;
+	margin: 0 5px 0 0;
+	background-position: 0 100%;
+}
+
+/* Rolloff state */
+.buttons div a {
+	display: block;
+	width: 100%;
+	height: 100%;
+	background-position: 0 0;
+	position: relative;
+	overflow: hidden;
+}
+
+/* Hide <a> text and hide off-state image when rolling over (prevents flicker in IE) */
+/*.buttons div span		{ display: none; }*/
+/*.buttons div a:hover	{ background-image: none; }*/
+.buttons div span			{ position: absolute; width: 100%; height: 100%; cursor: pointer;}
+.buttons div a:hover span	{ background-position: 0 100%; }
+
+/* Big button images */
+.reply-icon span	{ background: transparent none 0 0 no-repeat; }
+.post-icon span		{ background: transparent none 0 0 no-repeat; }
+.locked-icon span	{ background: transparent none 0 0 no-repeat; }
+.pmreply-icon span	{ background: none 0 0 no-repeat; }
+.newpm-icon span 	{ background: none 0 0 no-repeat; }
+.forwardpm-icon span 	{ background: none 0 0 no-repeat; }
+
+/* Set big button dimensions */
+.buttons div.reply-icon		{ width: {IMG_BUTTON_TOPIC_REPLY_WIDTH}px; height: {IMG_BUTTON_TOPIC_REPLY_HEIGHT}px; }
+.buttons div.post-icon		{ width: {IMG_BUTTON_TOPIC_NEW_WIDTH}px; height: {IMG_BUTTON_TOPIC_NEW_HEIGHT}px; }
+.buttons div.locked-icon	{ width: {IMG_BUTTON_TOPIC_LOCKED_WIDTH}px; height: {IMG_BUTTON_TOPIC_LOCKED_HEIGHT}px; }
+.buttons div.pmreply-icon	{ width: {IMG_BUTTON_PM_REPLY_WIDTH}px; height: {IMG_BUTTON_PM_REPLY_HEIGHT}px; }
+.buttons div.newpm-icon		{ width: {IMG_BUTTON_PM_NEW_WIDTH}px; height: {IMG_BUTTON_PM_NEW_HEIGHT}px; }
+.buttons div.forwardpm-icon	{ width: {IMG_BUTTON_PM_FORWARD_WIDTH}px; height: {IMG_BUTTON_PM_FORWARD_HEIGHT}px; }
+
+
+/* Home icon
+---------------------------------------- */
+.icon-home {
+	background-position: 0 50%;
+	background-repeat: no-repeat;
+	background-image: none;
+	padding: 1px 0 0 14px;
+}
+.navbar-top .icon-home {
+    padding-top: 0;
+}
+

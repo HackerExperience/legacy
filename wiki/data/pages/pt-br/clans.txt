@@ -1,0 +1,40 @@
+**Clans** são grupos de jogadores organizados em times. Todo clan tem //um// servidor, nomeado //Servidor do Clan// ou //Clan Server//.
+
+====== Força do Clan ======
+
+Por enquanto, a única forma de aumentar a força do clan é atacando (DDoSando) outros servidores.
+
+A quantia total de força recebida em cada ataque depende da força do ataque DDoS e de quem a vítima é.
+
+Multiplicador de vítima:
+
+    * Servidor de clan OU Jogador com um clan e em guerra contra o seu - x4
+    * Jogador com clan, mas sem estar em guerra contra o seu - x3
+    * Jogador sem clan - x2
+    * NPCs - x1
+
+====== Guerras de Clan ======
+
+===== Iniciando uma guerra =====
+
+Para começar uma Guerra de Clan, um dos seguintes cenários tem que acontecer:
+
+    * Dois (ou mais) membros do clan A atacaram um (ou mais) membros do clan B e pelo menos um membro do clan B retaliou o ataque contra qualquer membro do clan A.
+    * Um membro do clan A atacou dois (ou mais) membros do clan B e pelo menos um membro do clan B retaliou o ataque contra qualquer membro do clan A.
+
+**Observação**:
+
+    * As menções acima de "membro do clan" incluem o servidor do clan.
+    * Ataques mais velhos que 3 dias são deletados, então as condições acima têm que acontecer numa janela de 72 horas.
+
+===== Terminando uma Guerra ======
+
+Não há como terminar uma guerra manualmente.
+
+Toda guerra de clan tem uma duração inicial de 2 dias (48 horas), e 1 hora é adicionada à duração após cada ataque subsequente.
+
+===== Recompensa & Pontuação =====
+
+Toda guerra de clan começa com uma pontuação zerada para ambos os times, //independente dos ataques anteriores que iniciaram a guerra//.
+
+Após cada ataque, uma quantia de recompensa e pontuação irá ser somada aos valores atuais. Essa quantia depende de quão forte o ataque DDoS foi.

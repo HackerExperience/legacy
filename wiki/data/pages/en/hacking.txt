@@ -1,0 +1,46 @@
+In the game, //hacking// is the act of successfully connecting to another server (computer) with special permissions. There are, currently, two ways of hacking.
+
+After a successful attack, every server is stored on the Hacked Database.
+
+====== Hacking Methods ======
+
+===== Brute-Force Attack =====
+Every server is protected with a password. The brute-force method uses the Cracker software to systematically check all possible passwords until the correct one is found. It is very fast when cracking weak passwords, but more complex passwords can mean infinite time to crack. Therefore, the use of a Password Hash software is essential to protect against the attack.
+
+When successful, it returns the root password, giving the attacker full access to the victim's computer.
+
+Instructions to crack a bank account are similar, returning the account password instead.
+
+The time needed to complete a brute-force attack is affected by both attacker's cracker version and victim's hasher version, plus the attacker's CPU power.
+
+===== Exploit Attack =====
+An alternative method of attack is known as exploitation. It consists of exploiting vulnerabilities on specific services running within every computer. These services are known as SSH and FTP, and are responsible for CPU-related actions and file transfers, respectively. 
+
+First, the attacker needs to scan an IP address to know whether the victim is vulnerable to his exploits. In order to be vulnerable to some (or both) exploits, the victim's Firewall version must be smaller than or equal to the attacker's exploits versions. 
+
+If the scan returns a positive result, the attacker can use at least one of his exploits to achieve special permissions on the victim's server. If only the FTP service is vulnerable, the attacker will achieve FTP permission and will be able to download and upload files //only//. If the SSH service is vulnerable, the attacker will be able to install, delete, run, hide or seek files on the victim, but won't be able to transfer files. In both cases, though, the attacker can view and edit logs.
+
+If both FTP and SSH services are vulnerable, the attacker will have full root access, being able to do everything a brute-force hacker would do. The only difference is the password of the server //won't// be listed on the Hacked Database.
+
+
+
+====== Keeping Connected ======
+In order to login and //keep// logged, a few criteria needs to be matched.
+=====Brute-Force Login Criteria======
+To keep logged, the attacker must
+    * have a //running// cracker with version greater than or equal to the victim's hasher.
+=====Exploit Login Criteria======
+To keep logged, the attacker must
+    * have at least one //running// exploit with version greater than or equal to the victim's firewall.
+In other words: User is disconnected if
+    * The attacker is logged as root (both exploits) and both of them stops running, or
+    * The attacker is logged as root (both exploits) and the victim runs a stronger firewall, or
+    * The attacker is logged using exploit X and exploit X stops running, or
+    * The attacker is logged using exploit X and the victims runs a stronger firewall than X.
+Permissions are lost if
+    * The attacker is logged as root (both exploits) and one of them stops running, or
+    * The attacker is logged as root (both exploits) and the victims runs a firewall stronger than only one of the exploits.
+In this case, the user keeps logged with the permissions of the working exploit //only//.
+
+====== Bank Hacking ======
+Bank hacking is the act of discovering the password for a specific [[en:npc#banks|bank]] account.

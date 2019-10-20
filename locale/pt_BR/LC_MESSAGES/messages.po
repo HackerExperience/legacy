@@ -1,0 +1,5198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hacker Experience\n"
+"POT-Creation-Date: 2014-08-24 00:32-0300\n"
+"PO-Revision-Date: 2014-08-24 04:16-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+msgid "Home"
+msgstr "Início"
+
+msgid "Task Manager"
+msgstr "Gerenciador de Tarefas"
+
+msgid "Task manager"
+msgstr "Gerenciador de tarefas"
+
+msgid "Software"
+msgstr ""
+
+msgid "Internet"
+msgstr ""
+
+msgid "Log File"
+msgstr "Log de Dados"
+
+msgid "Hardware"
+msgstr ""
+
+msgid "University"
+msgstr "Universidade"
+
+msgid "Finances"
+msgstr "Finanças"
+
+msgid "Hacked Database"
+msgstr "Banco de Dados"
+
+msgid "Missions"
+msgstr "Missões"
+
+msgid "Clan"
+msgstr ""
+
+msgid "Ranking"
+msgstr ""
+
+msgid "Hall of Fame"
+msgstr "Mural da Fama"
+
+msgid "Server Time"
+msgstr "Tempo do Servidor"
+
+msgid "Control Panel"
+msgstr "Painel de Controle"
+
+msgid "Hardware Information"
+msgstr "Informação do Hardware"
+
+msgid "Processor"
+msgstr "Processador"
+
+msgid "Hard Drive"
+msgstr "Disco Rígido"
+
+msgid "Memory"
+msgstr "Memória"
+
+msgid "External HD"
+msgstr "HD Externo"
+
+msgid "None, f"
+msgstr "Nenhuma"
+
+msgid "None"
+msgstr "Nenhum"
+
+msgid "My Profile"
+msgstr "Meu Perfil"
+
+msgid "E-Mail"
+msgstr ""
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Logout"
+msgstr "Sair"
+
+msgid "Staff"
+msgstr "Equipe"
+
+msgid "Basic"
+msgstr "Básico"
+
+msgid "Premium"
+msgstr ""
+
+msgid "General Info"
+msgstr "Informações Gerais"
+
+msgid "Reputation"
+msgstr "Reputação"
+
+msgid "Running tasks"
+msgstr "Tarefas rodando"
+
+msgid "Connected to"
+msgstr "Conectado a"
+
+msgid "Mission"
+msgstr "Missão"
+
+msgid "No one"
+msgstr "Ninguém"
+
+msgid "Ranked"
+msgstr "Rank"
+
+msgid "Master"
+msgstr "Mestre"
+
+msgid "War"
+msgstr "Guerra"
+
+msgid "Top 7 users"
+msgstr "Top 7 usuários"
+
+msgid "View ranking"
+msgstr "Ver ranking"
+
+msgid "User"
+msgstr "Usuário"
+
+msgid "News"
+msgstr "Notícias"
+
+msgid "View all"
+msgstr "Ver todos"
+
+msgid "View all, f"
+msgstr "Ver todas"
+
+msgid "FBI Wanted List"
+msgstr "Lista de Procurados do FBI"
+
+msgid "FBI"
+msgstr ""
+
+msgid "View full wanted list"
+msgstr "Ver lista completa"
+
+msgid "No wanted IPs ATM"
+msgstr "Sem IPs procurados no momento"
+
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d dia"
+msgstr[1] "%d dias"
+
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d hora"
+msgstr[1] "%d horas"
+
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d minuto"
+msgstr[1] "%d minutos"
+
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d segundo"
+msgstr[1] "%d segundos"
+
+msgid "Announcements"
+msgstr "Anúncios"
+
+msgid "Latest Forum Posts"
+msgstr "Últimas Postagens no Fórum"
+
+msgid "View forum"
+msgstr "Ver fórum"
+
+msgid "Round Info"
+msgstr "Informação do Round"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Started"
+msgstr "Início"
+
+msgid "Age"
+msgstr "Idade"
+
+msgid "and"
+msgstr "e"
+
+msgid "Forum Updates"
+msgstr "Atualizações no Fórum"
+
+msgid "Recent Comments"
+msgstr "Comentários recentes"
+
+msgid "Recent Posts"
+msgstr "Posts recentes"
+
+msgid "Cracker"
+msgstr ""
+
+msgid "Password Hasher"
+msgstr ""
+
+msgid "Port Scan"
+msgstr ""
+
+msgid "Firewall"
+msgstr ""
+
+msgid "Hidder"
+msgstr ""
+
+msgid "Seeker"
+msgstr ""
+
+msgid "Antivirus"
+msgstr ""
+
+msgid "Spam virus"
+msgstr "Vírus Spam"
+
+msgid "Warez virus"
+msgstr "Vírus Warez"
+
+msgid "DDoS virus"
+msgstr "Vírus DDoS"
+
+msgid "Virus collector"
+msgstr "Coletor de Vírus"
+
+msgid "DDoS breaker"
+msgstr "DDoS Breaker"
+
+msgid "Exploit"
+msgstr ""
+
+msgid "Nmap"
+msgstr ""
+
+msgid "Analyzer"
+msgstr "Analizador"
+
+msgid "Torrent"
+msgstr ""
+
+msgid "Web server"
+msgstr "Servidor Web"
+
+msgid "Bitcoin Wallet"
+msgstr "Carteira Bitcoin"
+
+msgid "Bitcoin Miner"
+msgstr "Minerador Bitcoin"
+
+msgid "Riddle"
+msgstr "Enigma"
+
+msgid "Doom"
+msgstr ""
+
+msgid "Text file"
+msgstr "Arquivo Texto"
+
+msgid "Folder"
+msgstr "Pasta"
+
+msgid "Doom virus"
+msgstr "Vírus Doom"
+
+msgid "Virus"
+msgstr "Vírus"
+
+msgid "Unknown"
+msgstr "Desconhecido"
+
+msgid "Software name"
+msgstr "Nome do Software"
+
+msgid "Version"
+msgstr "Versão"
+
+msgid "Size"
+msgstr "Tamanho"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Move software back to root"
+msgstr "Mover software de volta pra raíz"
+
+msgid "Delete"
+msgstr "Deletar"
+
+msgid "Hide"
+msgstr "Esconder"
+
+msgid "Information"
+msgstr "Informação"
+
+msgid "Kill"
+msgstr "Matar"
+
+msgid "Run"
+msgstr "Rodar"
+
+msgid "Seek (hidden with "
+msgstr "Mostrar (escondido com "
+
+msgid "Delete folder"
+msgstr "Deletar pasta"
+
+msgid "There are no softwares to display."
+msgstr "Não há softwares para mostrar"
+
+msgid "HDD Usage"
+msgstr "Uso do HD"
+
+msgid "New text file"
+msgstr "Novo arquivo texto"
+
+msgid "Create folder"
+msgstr "Criar nova pasta"
+
+msgid "Delete DDoS reports"
+msgstr "Deletar relatórios DDoS"
+
+msgid "Terms of Use"
+msgstr "Termos de Uso"
+
+msgid "Forum"
+msgstr "Fórum"
+
+msgid "Stats"
+msgstr "Estatísticas"
+
+msgid "queries in"
+msgstr "queries em"
+
+msgid "Credits"
+msgstr "Créditos"
+
+msgid "Report Bug"
+msgstr "Relatar Bug"
+
+msgid "Unknown software"
+msgstr "Software desconhecido"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "RAM usage"
+msgstr "Uso de RAM"
+
+msgid "Unknown player"
+msgstr "Jogador desconhecido"
+
+msgid "Licensed to"
+msgstr "Licenciado para"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Last Edit"
+msgstr "Usado pela última vez em"
+
+msgid "Research"
+msgstr "Desenvolver"
+
+msgid "Buy license"
+msgstr "Comprar licença"
+
+msgid "Back to root"
+msgstr "Voltar para raíz"
+
+msgid "Edit file"
+msgstr "Editar arquivo"
+
+msgid "Edit folder"
+msgstr "Editar pasta"
+
+msgid "Detailed Information"
+msgstr "Informação Detalhada"
+
+msgid "All tasks"
+msgstr "Todas as tarefas"
+
+msgid "CPU tasks"
+msgstr "Tarefas da CPU"
+
+msgid "Download manager"
+msgstr "Gerenciador de downloads"
+
+msgid "Running softwares"
+msgstr "Softwares rodando"
+
+msgid "No webserver running at "
+msgstr "Nenhum servidor web rodando em "
+
+msgid "Server %1$s is %2$s"
+msgstr "Servidor %1$s está %2$s"
+
+msgid "Bank"
+msgstr "Banco"
+
+msgid "Whois"
+msgstr ""
+
+msgid "Company"
+msgstr "Empresa"
+
+msgid "ISP"
+msgstr "Provedor"
+
+msgid "Clan Server"
+msgstr "Servidor de Clan"
+
+msgid "Evil Corp"
+msgstr ""
+
+msgid "Bitcoin Market"
+msgstr "Mercado de Bitcoin"
+
+msgid "Important"
+msgstr "Importante"
+
+msgid "Index"
+msgstr ""
+
+msgid "Account login"
+msgstr "Entrar na conta"
+
+msgid "Hack account"
+msgstr "Invadir conta"
+
+msgid "Register account"
+msgstr "Criar conta"
+
+msgid "Account overview"
+msgstr "Informações da conta"
+
+msgid "Logs"
+msgstr ""
+
+msgid "Hack"
+msgstr "Invadir"
+
+msgid "Important IPs"
+msgstr "IPs importantes"
+
+msgid "Recently visited"
+msgstr "Visitados recentemente"
+
+msgid "IP address"
+msgstr "Endereço IP"
+
+msgid "Go"
+msgstr "Ir"
+
+msgid "Refresh"
+msgstr "Atualizar"
+
+msgid "Username"
+msgstr "Usuário"
+
+msgid "Password"
+msgstr "Senha"
+
+msgid "Enter username and password to continue."
+msgstr "Insira usuário e senha para continuar."
+
+msgid "Account #"
+msgstr "No. da conta"
+
+msgid "Enter account number and password to continue."
+msgstr "Insira o número da conta e a senha para continuar."
+
+msgid "You do not have an account on this bank."
+msgstr "Você não tem uma conta nesse banco."
+
+msgid "%s Create one %s now"
+msgstr "%s Crie uma %s agora"
+
+msgid "This IP is already on your hacked database."
+msgstr "Esse IP já está cadastrado no seu banco de dados."
+
+msgid "You already have this IP on your hacked database."
+msgstr "Você já tem esse IP no seu banco de dados."
+
+msgid "Error"
+msgstr "Erro"
+
+msgid "Success"
+msgstr "Sucesso"
+
+msgid "My hardware"
+msgstr "Meu hardware"
+
+msgid "Buy new server"
+msgstr "Comprar novo servidor"
+
+msgid "Change server name"
+msgstr "Mudar nome do servidor"
+
+msgid "Change disk name"
+msgstr "Mudar nome do disco"
+
+msgid "Change external disk name"
+msgstr "Mudar nome do disco externo"
+
+msgid "What would you like to rename '%s' for?"
+msgstr "Qual nome você gostaria no lugar de '%s'?"
+
+msgid "Upgrade processor"
+msgstr "Upgrade do processador"
+
+msgid "Power"
+msgstr "Força"
+
+msgid "Price"
+msgstr "Preço"
+
+msgid "Upgrade memory"
+msgstr "Upgrade da memória"
+
+msgid "Upgrade Hard Drive"
+msgstr "Upgrade do disco rígido"
+
+msgid "Buy Server"
+msgstr "Comprar servidor"
+
+msgid "You dont have enough money"
+msgstr "Você não tem dinheiro suficiente"
+
+msgid "You do not have enough money."
+msgstr "Você não tem dinheiro suficiente."
+
+msgid "Buy new external hard drive"
+msgstr "Comprar novo disco rígido externo"
+
+msgid "Upgrade External Disk"
+msgstr "Upgrade do disco externo"
+
+msgid "Upgrade internet connection"
+msgstr "Upgrade da conexão de internet"
+
+msgid "Action"
+msgstr "Ação"
+
+msgid "Buy"
+msgstr "Comprar"
+
+msgid "My servers"
+msgstr "Meus servidores"
+
+msgid "Clan servers"
+msgstr "Servidores do clan"
+
+msgid "My external disks"
+msgstr "Meus discos externos"
+
+msgid "You do not have any external disks yet."
+msgstr "Você não tem nenhum disco externo ainda."
+
+msgid "Software uninstalled."
+msgstr "Software desinstalado."
+
+msgid "Software installed."
+msgstr "Software instalado."
+
+msgid "Software successfully downloaded."
+msgstr "Software baixado com sucesso."
+
+msgid "You already have this software."
+msgstr "Você já tem esse software."
+
+msgid "Software successfully hidden."
+msgstr "Software escondido."
+
+msgid "The software is hidden, you must seek it before."
+msgstr "Essa ação não pôde ser completa porque o software está escondido."
+
+msgid "The hidder you are using is hidden!"
+msgstr "O hidder que você está usando está escondido!"
+
+msgid "You don't have a hidder software."
+msgstr "Você não tem um software hidder."
+
+msgid "You are hiding your own hidder!"
+msgstr "Você está escondendo seu próprio hidder!"
+
+msgid "The software is not hidden."
+msgstr "O software não está escondido."
+
+msgid "Your seeker is not good enough."
+msgstr "Seu seeker não é bom o suficiente para encontrar esse software."
+
+msgid "Your seeker is hidden."
+msgstr "Seu seeker está escondido."
+
+msgid "You don't have any seeker."
+msgstr "Você não tem nenhum seeker."
+
+msgid "You can't hide an installed software."
+msgstr "Você não pode esconder um software que está instalado."
+
+msgid "Software successfully uploaded."
+msgstr "Upload do software realizado com sucesso."
+
+msgid "Software uploaded. Mission completed!"
+msgstr "Software enviado. Você completou a missão!"
+
+msgid "Software successfully deleted."
+msgstr "Software deletado."
+
+msgid "Software deleted. Mission completed!"
+msgstr "Software deletado. Missão completa!"
+
+msgid "Software successfully seeked."
+msgstr "Software encontrado."
+
+msgid "%d virus removed"
+msgid_plural "%d viruses removed"
+msgstr[0] "%d vírus removido."
+msgstr[1] "%d vírus removidos."
+
+msgid "Log successfully edited."
+msgstr "Log editado."
+
+msgid "Successfully cracked %s. Password is <strong>%s</strong>."
+msgstr "Crackeado! A senha de %s é <strong>%s</strong>."
+
+msgid "Your cracker isnt good enough."
+msgstr "Seu cracker não é bom o suficiente."
+
+msgid "puzzle"
+msgstr "enigma"
+
+msgid "Bank account hacked! Password is <strong>%s</strong>. %sLogin!%s"
+msgstr "Conta do banco invadida! A senha é <strong>%s</strong>. %sEntrar!%s"
+
+msgid "Virus installed. Mission completed!"
+msgstr "Vírus instalado. Missão completa!"
+
+msgid "Successfully exploited %s. You have <strong>%s</strong> permissions."
+msgstr "%s exploitado com sucesso! Você tem permissões de <strong>%s</strong>."
+
+msgid "Software researched."
+msgstr "Software desenvolvido."
+
+msgid "Software uploaded to external HD."
+msgstr "Software enviado para o HD externo."
+
+msgid "Software downloaded from external HD."
+msgstr "Software baixado do HD externo."
+
+msgid "Software deleted."
+msgstr "Software deletado."
+
+msgid "Network scanned; %d connected IP found."
+msgid_plural "Network scanned; %d connected IPs found."
+msgstr[0] "Rede escaneada. %d IP conectado foi encontrado."
+msgstr[1] "Rede escaneada. %d IPs conectados foram encontrados."
+
+msgid "Delete file"
+msgstr "Deletar arquivo"
+
+msgid "Hardware listed on your <a href=\"list\">hacked database</a>."
+msgstr "Hardware detalhado no seu <a href=\"list\">banco de dados</a>."
+
+msgid "This software is not executable."
+msgstr "Esse software não é executável."
+
+msgid "Password changed."
+msgstr "Senha alterada."
+
+msgid "DDoS successful. Report file generated."
+msgstr "DDoS realizado com sucesso. Relatório gerado."
+
+msgid "Web server updated."
+msgstr "Web server atualizado."
+
+msgid "This software doesn't exists."
+msgstr "Esse software não existe."
+
+msgid "This software does not exists."
+msgstr "Esse software não existe."
+
+msgid "Certification bought."
+msgstr "Certificação comprada."
+
+msgid "Congratulations on completing the first certification. Take the next one as soon as possible."
+msgstr "Parabéns em completar sua primeira certificação. Tire a próxima assim que possível."
+
+msgid "Congratulations! You just completed certification 2! You are now able to hack servers and install viruses."
+msgstr "Parabéns! Você acabou de completar a certificação 2! Você agora pode invadir servidores e instalar vírus."
+
+msgid "Congratulations! You just completed certification 3! You are now able to hack bank accounts and exploit services."
+msgstr "Parabéns! Você acabou de completar a certificação 3! Você agora pode invadir contas bancárias e exploitar serviços."
+
+msgid "Congratulations! You just completed certification 4! You are now able to DDoS servers."
+msgstr "Parabéns! Você acabou de completar a certificação 4! Você agora pode DDoSar servidores."
+
+msgid "Congratulations! You just completed certification 5! You are now able to mitigate DDoS attacks."
+msgstr "Parabéns! Você acabou de completar a certificação 5! Você agora pode mitigar ataques DDoS."
+
+msgid "change"
+msgstr "alterar"
+
+msgid "Change"
+msgstr "Alterar"
+
+msgid "Change password"
+msgstr "Alterar senha"
+
+msgid "You can reset your password now <b>for free!</b>"
+msgstr "Você pode resetar sua senha agora <b>gratuitamente!</b>"
+
+msgid "There already is a password change in process. Refeer to the %sTask Manager%s."
+msgstr "Já existe um processo para alteração da senha. Veja seu %sgerenciador de tarefas%s."
+
+msgid "Please wait"
+msgstr "Por favor aguarde"
+
+msgid "You can wait %s<strong>%s</strong></span> for your next free reset or pay <strong>$%s</strong> for our charged password reset service."
+msgstr "Você pode esperar %s<strong>%s</strong></span> para o seu próximo reset gratuito, ou pagar <strong>$%s</strong> pelo nosso serviço de reset instantâneo."
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Create text file at "
+msgstr "Criar arquivo de texto em "
+
+msgid "Edit text file at "
+msgstr "Editar arquivo de texto em "
+
+msgid "Create text file"
+msgstr "Criar arquivo de texto"
+
+msgid "Edit text file"
+msgstr "Editar arquivo de texto"
+
+msgid "Show editor"
+msgstr "Mostrar editor"
+
+msgid "Create folder at "
+msgstr "Criar pasta em "
+
+msgid "Edit folder at "
+msgstr "Editar pasta em "
+
+msgid "Folder name"
+msgstr "Nome da pasta"
+
+msgid "File name"
+msgstr "Nome do arquivo"
+
+msgid "Content"
+msgstr "Conteúdo"
+
+msgid "Are you sure you want to buy %s for %s<strong>$%s</strong></span>?"
+msgstr "Você tem certeza que quer comprar %s por %s<strong>$%s</strong></span>?"
+
+msgid "Upgrade "
+msgstr ""
+
+msgid "Upgrade server"
+msgstr "Upgrade de servidor"
+
+msgid "Confirm buy"
+msgstr "Confirme a compra"
+
+msgid "Are you sure you want to buy this new %s for %s<strong>$%s</strong></span>?"
+msgstr "Você tem certeza que quer comprar esse novo %s por %s<strong>$%s</strong></span>?"
+
+msgid "server"
+msgstr "servidor"
+
+msgid "external hard drive"
+msgstr "disco rígido externo"
+
+msgid "Yes, I want to buy it."
+msgstr "Sim, eu quero comprar."
+
+msgid "No, cancel"
+msgstr "Não, cancelar"
+
+msgid "DDoS attack against <strong>%s</strong> launched."
+msgstr "Ataque DDoS contra <strong>%s</strong> iniciado."
+
+msgid "This IP is not on your Hacked Database."
+msgstr "Esse IP não está no seu Banco de Dados."
+
+msgid "You need to have at least 3 working DDoS viruses."
+msgstr "Você precisa ter pelo menos 3 vírus DDoS rodando."
+
+msgid "This IP doesnt exists."
+msgstr "Esse IP não existe."
+
+msgid "This IP does not exists."
+msgstr "Esse IP não existe."
+
+msgid "Invalid IP address."
+msgstr "Endereço IP inválido."
+
+msgid "Invalid request type."
+msgstr "Tipo de requisição inválido."
+
+msgid "Invalid amount."
+msgstr "Quantia inválida."
+
+msgid "Missing destination address."
+msgstr "Faltando endereço de destino."
+
+msgid "Invalid destination address."
+msgstr "Endereço de destino inválido."
+
+msgid "This address is invalid."
+msgstr "Esse endereço é inválido."
+
+msgid "LOL, you cant transfer to yourself."
+msgstr "LOL, você não pode transferir pra você mesmo."
+
+msgid "Yo transfering more bitcoins than you have."
+msgstr "Cê tá transferindo mais bitcoins do que você tem."
+
+msgid "%s BTC transfered from %s to %s."
+msgstr "%s BTC transferido de %s para %s."
+
+msgid "Missing bank account."
+msgstr "Faltando conta bancária."
+
+msgid "Invalid bank account."
+msgstr "Conta bancária inválida."
+
+msgid "This bank account does not exists."
+msgstr "Essa conta bancária não existe."
+
+msgid "This bank account is not valid."
+msgstr "Essa conta bancária não é válida."
+
+msgid "This bank account is invalid."
+msgstr "Essa conta bancária é inválida."
+
+msgid "Dude! You dont have money for this :/"
+msgstr "Cara! Você não tem dinheiro pra isso :/"
+
+msgid "You cant sell more than you have :/"
+msgstr "Você não pode vender mais do que você tem :/"
+
+msgid "%s BTC bought for $%s."
+msgstr "%s BTC comprado por $%s."
+
+msgid "$%s transfered to account #%s"
+msgstr "$%s transferidos para a conta #%s"
+
+msgid "Logged out from address <strong>%s</strong>."
+msgstr "Deslogado do endereço <strong>%s</strong>."
+
+msgid "Missing information."
+msgstr "Faltando informação."
+
+msgid "Invalid address."
+msgstr "Endereço inválido."
+
+msgid "Invalid key."
+msgstr "Chave inválida."
+
+msgid "This address does not exists."
+msgstr "Esse endereço não existe."
+
+msgid "This key is invalid."
+msgstr "Essa chave é inválida."
+
+msgid "You logged in to the address <strong>%s</strong>."
+msgstr "Você entrou no endereço <strong>%s</strong>."
+
+msgid "You already have an account :S"
+msgstr "Você já tem uma conta :S"
+
+msgid "Your wallet was created! You can find it's information on the Finances page."
+msgstr "Sua carteira foi criada! Você pode encontrar as informações dela na página de Finanças."
+
+msgid "Invalid get."
+msgstr "Get inválido."
+
+msgid "This clan isnt in war with yours."
+msgstr "Esse clan não está em guerra com o seu."
+
+msgid "Clan doesnt exists."
+msgstr "Esse clan não existe."
+
+msgid "Only members can see the war details."
+msgstr "Somente membros podem ver os detalhes da guerra."
+
+msgid "This request does not exists."
+msgstr "Esse pedido não existe."
+
+msgid "The user has been added to your clan. Welcome him to the other members!"
+msgstr "O usuário foi adicionado ao seu clan. Dê as boas-vindas a ele!"
+
+msgid "Request denied."
+msgstr "Pedido negado."
+
+msgid "Request sent."
+msgstr "Pedido enviado."
+
+msgid "Clan photo updated."
+msgstr "Foto do clan atualizada."
+
+msgid "User kicked."
+msgstr "Usuário expulso."
+
+msgid "Your clan was created."
+msgstr "Seu clan foi criado."
+
+msgid "You left the clan."
+msgstr "Você saiu do clan."
+
+msgid "Clan description edited."
+msgstr "Descrição do clan editada."
+
+msgid "Error while completing registration. Please, try again later."
+msgstr "Erro ao completar o cadastro. Por favor, tente novamente mais tarde."
+
+msgid "Error while sending email verification code."
+msgstr "Erro ao enviar o código de verificação por email."
+
+msgid "Registration complete. Please, verify your email address."
+msgstr "Cadastro completo. Por favor, olhe seu endereço de email."
+
+msgid "Invalid username. Allowed characters are %s."
+msgstr "Usuário inválido. Os caracteres permitidos são %s."
+
+msgid "The email %s is not valid."
+msgstr "O email %s não é válido."
+
+msgid "This email is already used."
+msgstr "Esse email já está sendo usado."
+
+msgid "This username is already taken."
+msgstr "Esse usuário já está sendo usado."
+
+msgid "Some fields are empty."
+msgstr "Campo(s) em branco."
+
+msgid "Yor username is too big :( Please, limit it to 15 characteres."
+msgstr "Seu usuário é muito grande :( Por favor, limite ele em 15 caracteres."
+
+msgid "Username and password doesnt match."
+msgstr "Combinação inválida de usuário e senha."
+
+msgid "Software was moved back to root."
+msgstr "Software foi movido de volta para a raíz."
+
+msgid "Software was moved to folder."
+msgstr "Software foi movido para a pasta."
+
+msgid "Disconnected from %s."
+msgstr "Desconectado de %s."
+
+msgid "Choose server to upgrade."
+msgstr "Escolha servidor para fazer upgrade."
+
+msgid "Disconnected from account %s."
+msgstr "Desconectado da conta %s."
+
+msgid "The connection to %s doesnt exists anymore - disconnected."
+msgstr "Sua conexão com %s não existe mais - desconectado."
+
+msgid "You do not have the cracker needed to keep logged in - disconnected."
+msgstr "Você não tem o cracker necessário para se manter logado - desconectado."
+
+msgid "Your cracker isnt good enough - disconnected."
+msgstr "Seu cracker não é bom o suficiente - desconectado."
+
+msgid "You do not have the exploits needed to keep logged in - disconnected."
+msgstr "Você não tem os exploits necessários para se manter logado - desconectado."
+
+msgid "Your exploits arent good enough - disconnected."
+msgstr "Seus exploits não são bom o suficiente - desconectado."
+
+msgid "Your FTP exploit isnt good enough anymore, now you have SSH permission only."
+msgstr "Seu exploit FTP não é bom o suficiente, agora você só tem permissões SSH."
+
+msgid "Your SSH exploit isnt good enough anymore, now you have FTP permission only."
+msgstr "Seu exploit SSH não é bom o suficiente, agora você só tem permissiões SSH."
+
+msgid "You do not have the FTP exploit anymore - disconnected."
+msgstr "Você não tem mais o exploit FTP - desconectado."
+
+msgid "Your FTP exploit isnt good enough - disconnected."
+msgstr "Seu exploit FTP não é bom o suficiente - desconectado."
+
+msgid "You do not have the SSH exploit anymore - disconnected."
+msgstr "Você não tem mais o exploit SSH - desconectado."
+
+msgid "Your SSH exploit isnt good enough - disconnected."
+msgstr "Seu exploit SSH não é bom o suficiente - desconectado."
+
+msgid "%s transferred to account %s."
+msgstr "%s transferidos para a conta %s."
+
+msgid "%s transferred to account %s. Mission completed."
+msgstr "%s transferidos para a conta %s. Missão completa."
+
+msgid "Bank account created."
+msgstr "Conta bancária criada."
+
+msgid "Account password changed. The new password is %s."
+msgstr "Senha da conta alterada. A nova senha é %s."
+
+msgid "Account closed."
+msgstr "Conta fechada."
+
+msgid "New virus assigned to %s."
+msgstr "Novo vírus atribuído para %s."
+
+msgid "Bank account removed from list."
+msgstr "Conta bancária removida da lista."
+
+msgid "%s removed from list."
+msgstr "%s removido da lista."
+
+msgid "E-mail sent."
+msgstr "E-mail enviado."
+
+msgid "E-mail deleted."
+msgstr "E-mail deletado."
+
+msgid "Mission aborted."
+msgstr "Missão abortada."
+
+msgid "The mission is yours! <a href=\"internet\">Go to your browser</a> and hack the victim."
+msgstr "A missão é sua! <a href=\"internet\">Vá para seu navegador</a> e invada a vítima."
+
+msgid "Mission completed! %s added to %s."
+msgstr "Missão completa! %s adicionado em %s."
+
+msgid "Look! Your %s has a new, pretty name. :)"
+msgstr "Olha só! Seu %s tem um novo, belo nome. :)"
+
+msgid "New clan server bought."
+msgstr "Novo servidor do clan comprado."
+
+msgid "Your new server was bought."
+msgstr "Seu novo servidor foi comprado."
+
+msgid "Your new External Hard Drive was bought."
+msgstr "Seu novo Disco Rígio Externo foi comprado."
+
+msgid "Your hardware was upgraded."
+msgstr "Seu hardware foi melhorado."
+
+msgid "You can only upgrade YOUR clan server. Sorry."
+msgstr "Você só pode fazer upgrade do servidor do SEU clan. Desculpa."
+
+msgid "All DDoS reports deleted."
+msgstr "Todos os relatórios DDoS foram deletados."
+
+msgid "License bought."
+msgstr "Licença comprada."
+
+msgid "Software is being researched."
+msgstr "Software está sendo desenvolvido."
+
+msgid "This software is already being researched."
+msgstr "Esse software já está sendo desenvolvido."
+
+msgid "Text file created."
+msgstr "Arquivo texto criado."
+
+msgid "Text file edited."
+msgstr "Arquivo texto editado."
+
+msgid "Folder created."
+msgstr "Pasta criada."
+
+msgid "Folder name edited."
+msgstr "Nome da pasta editado."
+
+msgid "Folder deleteded."
+msgstr "Pasta deletada."
+
+msgid "Software %s moved to folder."
+msgstr "Software %s movido para a pasta."
+
+msgid "This folder doesnt exists."
+msgstr "Essa pasta não existe."
+
+msgid "The virus installed on the victim doesnt count, and so you dont have 3 viruses running."
+msgstr "O vírus instalado na vítima não conta, e portanto você não tem 3 vírus rodando."
+
+msgid "You must have at least 3 DDoS running virus."
+msgstr "Você precisa ter pelo menos 3 vírus DDoS rodando."
+
+msgid "This user doesnt exists."
+msgstr "Esse usuário não existe."
+
+msgid "This user does not exists."
+msgstr "Esse usuário não existe."
+
+msgid "Yeah, you cant ddos yourself."
+msgstr "É, você não pode ddosar você mesmo."
+
+msgid "Invalid round."
+msgstr "Round inválido."
+
+msgid "Process to reset password started."
+msgstr "Tarefa para alterar a senha começou."
+
+msgid "There already is a password reset process."
+msgstr "Já tem uma tarefa para alterar a senha."
+
+msgid "Congratulations, the order was submit. We are now processing it and you should soon receive an confirmation email."
+msgstr "Parabéns, o pedido foi enviado. Ele está agora sendo processado e você deve receber um email de confirmação em breve."
+
+msgid "You need the certification %s to enable this page."
+msgstr "Você precisa da certificação %s para liberar essa página."
+
+msgid "There already is a log edit in progress. Delete or complete it before."
+msgstr "Já tem uma edição de log em progresso. Delete ou complete ela antes."
+
+msgid "Identical logs."
+msgstr "Logs idênticos."
+
+msgid "Process deleted."
+msgstr "Tarefa deletada."
+
+msgid "Yey! You two are now friends :)"
+msgstr "Yey! Vocês dois são amigos agora :)"
+
+msgid "You are already friends with this guy."
+msgstr "Você já é amigo desse cara."
+
+msgid "You already are friends with this guy."
+msgstr "Você já é amigo desse cara."
+
+msgid "Invalid friend request."
+msgstr "Pedido de amizade inválido."
+
+msgid "Friend request sent. Wait until he/she answers your request."
+msgstr "Pedido de amizade enviado. Espere até que ele(a) responda seu pedido."
+
+msgid "There already is a pending request of friendship."
+msgstr "Já existe um pedido de amizade pendente."
+
+msgid "Sorry, but you can not add yourself! Thats way too forever alone."
+msgstr "Desculpa, mas você não pode adicionar você mesmo! Isso é muito forever alone."
+
+msgid "Developer"
+msgstr "Desenvolvedor"
+
+msgid "Game Designer"
+msgstr ""
+
+msgid "System Administrator"
+msgstr ""
+
+msgid "Design"
+msgstr ""
+
+msgid "Javascript Libraries"
+msgstr "Bibliotecas Javascript"
+
+msgid "Special thanks"
+msgstr "Agradecimentos especiais"
+
+msgid "You should be here?"
+msgstr "Você devia estar aqui?"
+
+msgid "contact@hackerexperience.com"
+msgstr "contato@hackerexperience.com"
+
+msgid "Contact us"
+msgstr "Entre em contato"
+
+msgid "Sorry, change password is not available for now."
+msgstr "Desculpa, a função de mudar senha não está disponível no momento."
+
+msgid "Please choose a language."
+msgstr "Por favor escolha uma linguagem."
+
+msgid "Please choose a valid language."
+msgstr "Por favor escolha uma linguagem válida."
+
+msgid "This already is your language."
+msgstr "Essa já é sua linguagem."
+
+msgid "Language changed to portuguese."
+msgstr "Linguagem alterada para português."
+
+msgid "Language changed to english."
+msgstr "Linguagem alterada para inglês."
+
+msgid "My settings"
+msgstr "Minhas configurações"
+
+msgid "Change language"
+msgstr "Alterar linguagem"
+
+msgid "Current password"
+msgstr "Senha atual"
+
+msgid "New password"
+msgstr "Nova senha"
+
+msgid "Confirm new password"
+msgstr "Confirme a nova senha"
+
+msgid "We are sad to hear you want to leave. You can delete your account at anytime, however there is no automatic way to do this for now."
+msgstr "É uma pena saber que você quer sair. Você pode deletar sua conta a qualquer momento, porém não há uma forma automática de fazer isso por enquanto."
+
+msgid "Please drop us an email at "
+msgstr "Por favor nos envie um e-mail para "
+
+msgid " asking us to remove your account. If possible, let us know why you are leaving."
+msgstr " nos pedindo para remover sua conta. Se possível, comente por que você está saindo."
+
+msgid "A verification e-mail will be sent to you."
+msgstr "Um email de verificação será enviado para você."
+
+msgid "Choose new language"
+msgstr "Escolha nova linguagem"
+
+msgid "Delete account"
+msgstr "Deletar conta"
+
+msgid "Buy premium account"
+msgstr "Comprar conta premium"
+
+msgid "Hey oh! Let's make this real fun. Refeer to the %spremium page%s in order to get detailed information about premium accounts."
+msgstr "Hey oh! Agora é pra valer! Vá para a %spágina premium%s para receber informações mais detalhadas sobre contas premium."
+
+msgid "*Licks from Phoebe*"
+msgstr "*Lambidas da Phoebe*"
+
+msgid "%sAttention:%s You already are a premium member. Buying again will extend your premium membership duration."
+msgstr "%sAtenção:%s Você já é um membro premium. Comprando de novo irá estender a duração da sua conta premium."
+
+msgid "Buy premium"
+msgstr "Comprar premium"
+
+msgid "My premium"
+msgstr "Meu premium"
+
+msgid "Choose the duration of your premium membership"
+msgstr "Escolha a duração da sua conta premium"
+
+msgid "month"
+msgstr "mês"
+
+msgid "months"
+msgstr "meses"
+
+msgid "year"
+msgstr "ano"
+
+msgid "Lifetime"
+msgstr "Para sempre"
+
+msgid "$"
+msgstr "R$"
+
+msgid "Save"
+msgstr "Economize"
+
+msgid "in"
+msgstr "em"
+
+msgid "years"
+msgstr "anos"
+
+msgid "7-day bonus"
+msgstr "Bônus de 7 dias"
+
+msgid "14-day bonus"
+msgstr "Bônus de 14 dias"
+
+msgid "1-month bonus"
+msgstr "Bônus de 1 mês"
+
+msgid "3-month bonus"
+msgstr "Bônus de 3 meses"
+
+msgid "No need for bonus"
+msgstr "Não precisa de bônus"
+
+msgid "premium days"
+msgstr "dias de premium"
+
+msgid "Infinite"
+msgstr "Infinitos"
+
+msgid "No ads"
+msgstr "Sem propagandas"
+
+msgid "No Ads"
+msgstr "Sem Propagandas"
+
+msgid "Feed Phoebe"
+msgstr "Alimente a Phoebe"
+
+msgid "Phoebe special photo"
+msgstr "Foto especial da Phoebe"
+
+msgid "All premium features"
+msgstr "Todas as vantagens premium"
+
+msgid "Features"
+msgstr "Vantagens"
+
+msgid "Web Server"
+msgstr "Servidor Web"
+
+msgid "Custom Signature"
+msgstr "Assinatura Própria"
+
+msgid "Starred name"
+msgstr "Nome estrelado"
+
+msgid "Premium Badge"
+msgstr "Emblema Premium"
+
+msgid "Notifications (soon)"
+msgstr "Notificações (breve)"
+
+msgid "Support the game"
+msgstr "Apoie o jogo"
+
+msgid "By having a premium account you help Hacker Experience grow."
+msgstr "Ao ter uma conta premium você colabora com o crescimento de Hacker Experience."
+
+msgid "From every donation, $1 goes to Phoebe. The rest, <strong>100% is invested back in the game</strong>, either by advertisement, feature development or to cover server expenses."
+msgstr "De cada doação, R$1 vai pra Phoebe. Do resto, <strong>100% é investido de volta no jogo</strong>, seja para propagandas, desenvolvimento de novos recursos ou para cobrir os custos dos servidores."
+
+msgid "Hacker Experience is <strong>NOT</strong> \"pay to win\". This means premium users does not have tactical advantages over basic accounts. Consider supporting this game style."
+msgstr "Hacker Experience <strong>NÃO</strong> é \"pague pra vencer\". Isso significa que contas premium não têm vantagens táticas sobre contas básicas. Considere dar apoio a esse estilo de jogo."
+
+msgid "Hacker Experience is a <strong>free</strong> game powered by ads and premium accounts. We encourage AdBlock users to support the game by making a donation."
+msgstr "Hacker Experience é um jogo <strong>gratuito</strong> financiado por propagandas e contas premium. Nós incentivamos os usuários de AdBlock a apoiar o jogo fazendo uma doação."
+
+msgid "We accept bitcoin"
+msgstr "Nós aceitamos bitcoin"
+
+msgid "That's right, we accept Bitcoin! The price is the same (converted from USD to BTC)."
+msgstr "É isso mesmo, nós aceitamos Bitcoin! O preço é o mesmo (convertido de reais para BTC)."
+
+msgid "The bitcoin payment gateway is not ready yet. Please send an email to "
+msgstr "O sistema de pagamento por bitcoin não está pronto ainda. Por favor envie um email para "
+
+msgid " so we can send the instructions on how to perform the payment."
+msgstr " para que nós possamos enviar instruções de como realizar o pagamento."
+
+msgid "When purchasing a premium plan, you will not only help the game but also help Phoebe! From every donation, $1 goes directly to her. =3"
+msgstr "Quando você compra uma conta premium, você não só ajuda o jogo mas também ajuda Phoebe! De cada doação, R$1 vai diretamente para ela. =3"
+
+msgid "Card Holder's Name"
+msgstr "Nome no cartão"
+
+msgid "Credit Card Information"
+msgstr "Informação de Cartão de Crédito"
+
+msgid "Card Number"
+msgstr "Número do Cartão"
+
+msgid "Expiry"
+msgstr "Validade"
+
+msgid "CVV"
+msgstr "CVV"
+
+msgid "Order details"
+msgstr "Detalhes da compra"
+
+msgid "Plan"
+msgstr "Plano"
+
+msgid "Total price"
+msgstr "Preço total"
+
+msgid "USD"
+msgstr "Real"
+
+msgid "Duration"
+msgstr "Duração"
+
+msgid "days"
+msgstr "dias"
+
+msgid "Attention"
+msgstr "Atenção"
+
+msgid "All information is sent securely via SSL."
+msgstr "Toda informação é enviada de forma segura por SSL."
+
+msgid "If the game stays offline for more than 10 minutes, you are rewarded a free day."
+msgstr "Se o jogo ficar offline por mais de 10 minutos, você ganha um dia grátis."
+
+msgid "You agree with our %sTerms of Service%s and %sPrivacy Policy%s."
+msgstr "Você concorda com nosso %sTermos de Serviço%s e %sPolítica de Privacidade%s."
+
+msgid "Questions? Drop us an email at "
+msgstr "<br/>Perguntas? Envie um email para "
+
+msgid "1 month premium plan"
+msgstr "Conta premium de 1 mês"
+
+msgid "3 months premium plan"
+msgstr "Conta premium de 3 meses"
+
+msgid "6 months premium plan"
+msgstr "Conta premium de 6 meses"
+
+msgid "1 year premium plan"
+msgstr "Conta premium de 1 ano"
+
+msgid "Infinite premium plan"
+msgstr "Conta premium infinita"
+
+msgid "I've read the boxes on the right."
+msgstr "Eu li as informações ao lado."
+
+msgid "Back to plans page"
+msgstr "Voltar para a página de planos"
+
+msgid " remaining"
+msgstr " restantes"
+
+msgid "Valid premium membership from %s to %s"
+msgstr "Afiliação premium válida de %s até %s"
+
+msgid "forever"
+msgstr "daqui a muito tempo (para sempre)"
+
+msgid "Enjoy"
+msgstr "Aproveite"
+
+msgid "The Internet under attack"
+msgstr "A Internet sob ataque"
+
+msgid "Welcome back!"
+msgstr "Bem-vindo de volta!"
+
+msgid "Facebook login"
+msgstr ""
+
+msgid "Twitter login"
+msgstr ""
+
+msgid "I forgot my password."
+msgstr "Esqueci minha senha."
+
+msgid "I don't have an account."
+msgstr "Eu não tenho uma conta."
+
+msgid "Login"
+msgstr "Entrar"
+
+msgid "Register"
+msgstr "Registrar"
+
+msgid "About"
+msgstr "Sobre"
+
+msgid "Keep me logged in"
+msgstr "Mantenha-me logado"
+
+msgid "About Hacker Experience"
+msgstr "Sobre Hacker Experience"
+
+msgid "Hacker Experience is a browser-based hacking simulation game, where you play the role of a hacker seeking for money and power."
+msgstr "Hacker Experience é um browser-game de simulação de hacking, onde você assume o papel de um hacker buscando dinheiro e poder."
+
+msgid "Play online against other users from all the globe on an exciting battle to see who can conquer the Internet."
+msgstr "Jogue online contra vários outros usuários do mundo todo numa emocionante batalha para ver quem consegue conquistar a Internet."
+
+msgid "Hack, install viruses, research better software, complete missions, steal money from bank accounts and much more."
+msgstr "Invada, instale vírus, desenvolva softwares melhores, complete missões, roube dinheiro de bancos e muito mais."
+
+msgid "%sSign up now%s for free and join thousands of other players trying to be the most powerful hacker of the game."
+msgstr "%sCadastre-se agora%s de graça e junte-se a milhares de outros jogadores tentando se tornar o hacker mais poderoso do jogo."
+
+msgid "Hack players, companies, banks and even the NSA! Use the best exploits, port scanners and brute-force crackers you find!"
+msgstr "Invada jogadores, empresas, bancos e até a NSA! Use os melhores exploits, port scanners e crackers que você encontrar! "
+
+msgid "Spam bots, warez, bitcoin miners or DDoS slaves. Create your own virus army."
+msgstr "Bots de spam, warez, bitcoin miners ou escravos DDoS. Crie seu próprio exército de vírus."
+
+msgid "Collect money from your virus, or complete missions for it! Hacking bank accounts is also an option."
+msgstr "Receba dinheiro dos seus vírus, ou complete missões para ficar rico! Invadir contas de banco também é uma opção."
+
+msgid "Hack the system! Your bitcoin miners will do the hard hashing work for you. Buy or sell bitcoins at real price market. If you manage to get someone's key, you can trasfer all his BTC to you :)"
+msgstr "Hackeie o sistema! Seus mineradores de bitcoin farão o trabalho sujo pra você. Compre ou venda bitcoins pelo preço verdadeiro de mercado. Se você conseguir pegar a chave de alguém, você pode transferir todos os BTC dele pra você :)"
+
+msgid "Get yourself a better processor, memory, HD or increase your internet connection speed. Buy a shiny external HD to safely backup your files."
+msgstr "Melhore seu processador, memória e HD, ou aumente a velocidade da sua conexão de internet. Compre um HD externo novinho para fazer backup dos seus arquivos com segurança."
+
+msgid "You don't want to rely on a basic 1.0 firewall, right? Research better software. Awesome hackers have awesome tools!"
+msgstr "Você não quer confiar num firewall 1.0 básico, certo? Desenvolva melhores softwares. Excelentes hackers têm excelentes ferramentas!"
+
+msgid "Create or join a clan and develop your own team strategies. Engage in exciting clans wars and head to the bounty."
+msgstr "Crie ou entre num clan e desenvolva suas próprias estratégias em equipe. Participe de emocionantes guerras entre clans e busque a recompensa."
+
+msgid "Show your power and DDoS your enemies! Severely damage their hardware and overload their network. But be careful, you don't want to get into the FBI Most Wanted list."
+msgstr "Mostre sua força para o mundo e lance ataque DDoS contra seus inimigos! Danifique severamente o hardware e sobrecarregue a internet deles. Mas tome cuidado, você não quer entrar na Lista de Mais Procurados do FBI"
+
+msgid "Really, much more. There is no space here, why don't you join to find out? ;)"
+msgstr "Sério, muito mais. Não tem espaço aqui, por que você não entra pra descobrir? ;)"
+
+msgid "Hack players"
+msgstr "Invada jogadores"
+
+msgid "Install viruses"
+msgstr "Instale vírus"
+
+msgid "Earn money"
+msgstr "Ganhe dinheiro"
+
+msgid "Mine bitcoins"
+msgstr "Minere bitcoins"
+
+msgid "Upgrade hardware"
+msgstr "Melhore seu hardware"
+
+msgid "Research software"
+msgstr "Desenvolva softwares"
+
+msgid "Join a clan"
+msgstr "Participe de um clan"
+
+msgid "DDoS the world!"
+msgstr "Ataque o mundo!"
+
+msgid "... and <strong>much</strong> more!"
+msgstr "... e <strong>muito</strong> mais!"
+
+msgid "Sign up now. It's %sfree%s!"
+msgstr "Cadastre-se agora. É %sgrátis%s!"
+
+msgid "I am scared."
+msgstr "Estou com medo."
+
+msgid "Login with facebook or twitter."
+msgstr "Entrar com facebook ou twitter."
+
+msgid "Play anywhere!"
+msgstr "Jogue em qualquer lugar!"
+
+msgid "We don't spam."
+msgstr "Não enviaremos spam."
+
+msgid "I accept the %sterms of service%s"
+msgstr "Eu aceito os %stermos de serviço%s"
+
+msgid "Your in-game name."
+msgstr "Seu nome no jogo"
+
+msgid "Sign up"
+msgstr "Cadastrar"
+
+msgid "Frequent questions"
+msgstr "Perguntas frequentes"
+
+msgid "Will anything happen to my computer?"
+msgstr "Vai acontecer alguma coisa com meu computador?"
+
+msgid "Where do I download the game?"
+msgstr "Onde eu faço download do jogo?"
+
+msgid "Is this real-life hacking?"
+msgstr "Isso é invasão de verdade?"
+
+msgid "Is it really free?"
+msgstr "É de graça mesmo?"
+
+msgid "Shouldn't it be \"cracker\"?"
+msgstr "Não deveria ser \"cracker\"?"
+
+msgid "Here comes a <a href=\"http://www.paulgraham.com/gba.html\">looong discussion</a>. Many believe the word <em>hacker</em> should designate the so-called white hat (talented programmer, or an ethical hacker). Others, assume it to mean criminals behind the screen."
+msgstr "Aqui vem uma <a href=\"http://www.paulgraham.com/gba.html\">looonga discussão</a>. Muitos acreditam que a palavra <em>hacker</em> deveria designar os tais \"white hat\" (programador talentoso, ou um hacker ético). Outros assumem que a palavra significa criminosos atrás da tela."
+
+msgid "<a href=\"http://duartes.org/gustavo/blog/post/first-recorded-usage-of-hacker/\">History has shown us</a> that maybe it really was meant to define the bad guys, however we do believe that hacker means <a href=\"https://stallman.org/articles/on-hacking.html\">way more</a> than that."
+msgstr "<a href=\"http://duartes.org/gustavo/blog/post/first-recorded-usage-of-hacker/\">A história nos mostrou</a> que talvez a palavra realmente foi feita para definir os criminosos, entretanto nós acreditamos que hacker significa <a href=\"https://stallman.org/articles/on-hacking.html\">muito mais</a> que isso."
+
+msgid "Regardless of definition, we want our users to enjoy the game, whether they call it Hacker or Cracker Experience. That's it, name whatever you want."
+msgstr "Independente de definição, nós queremos que nossos usuários curtam o jogo, prefiram eles Hacker ou Cracker Experience. É isso, chame do que você quiser."
+
+msgid "Meanwhile, we have a special <a href=\"https://forum.hackerexperience.com/\">board designated to teach computer science and programming</a> for people. Instead of engaging into useless flame wars, feel free to join and share your knowledge to others. I'd call <em>that</em> hacker :)"
+msgstr "Enquanto isso, nós temos um <a href=\"https://forum.hackerexperience.com/\">fórum especial com o objetivo de ensinar ciência da computação e programação</a> para usuários. Em vez de participar de flame wars inúteis, sinta-se à vontade para entrar e compartilhar seu conhecimento com outros. Eu chamaria <em>isso</em> de hacker :)"
+
+msgid "So, what are you waiting?"
+msgstr "Então, o que você está esperando?"
+
+msgid "LEGAL DISCLAIMER"
+msgstr "AVISO LEGAL"
+
+msgid "Hacker Experience is <strong>NOT</strong> related to any real hacking activity."
+msgstr "Hacker Experience <strong>NÃO</strong> está relacionado com nenhuma atividade real de hacking."
+
+msgid "All in-game content is purely fictional and do not represent real user identification. IP addresses are randomly generated."
+msgstr "Todo o conteúdo do jogo é puramente fictício e não representa identificação de usuário real. Endereços IP são gerados aleatoriamente."
+
+msgid "NAVIGATE"
+msgstr "NAVEGUE"
+
+msgid "PRIVACY"
+msgstr "PRIVACIDADE"
+
+msgid "FORUM"
+msgstr "FÓRUM"
+
+msgid "CONTACT US"
+msgstr "ENTRE EM CONTATO"
+
+msgid "Handcrafted in Brazil"
+msgstr "Feito no Brasil"
+
+msgid "Terms of Service"
+msgstr "Termos de Serviço"
+
+msgid "By using Hacker Experience, a service provided by NeoArt Labs, you are agreeing to be bound by the following terms and conditions.  Violation of any of the terms of service which are stated below will result in temporary or permanent termination of your account. If you do not agree with any of these terms, you must not use Hacker Experience or any subdomain within www.hackerexperience.com."
+msgstr "Ao usar Hacker Experience, um serviço fornecido por NeoArt Labs, você concorda em seguir os seguintes termos e condições. Violações de qualquer um dos termos de serviço listados abaixo irá resultar em terminação temporária ou permanente da sua conta. Se você não concorda com algum desses termos, você não deve usar Hacker Experience ou qualquer subdomínio dentro de www.hackerexperience.com."
+
+msgid "You agree"
+msgstr "Você concorda"
+
+msgid "to respect every member of the game, regardless of gender, sexual orientation, sexual identity, religion, age, civil status, race, ethnicity or any other trait."
+msgstr "em respeitar todo membro do jogo, independente de gênero, orientação sexual, identidade sexual, religião, idade, estado civil, raça, etnia ou qualquer outro traço."
+
+msgid "to have only one account. Multiple accounts per IP are not allowed and will result on the termination of all of them. If you use a shared environment, contact us."
+msgstr "em ter apenas uma conta. Múltiplas contas por IP não são permitidas e resultarão na remoção de todas elas. Se você usa um ambiente compartilhardo, entre em contato."
+
+msgid "to not post or publish offensive content on the forum, the in-game mail system, the logs or any other user-generated content system."
+msgstr "em não postar ou publicar conteúdo ofensivo no fórum, no sistema interno de email, nos logs ou qualquer outro sistema de conteúdo gerado pelo usuário."
+
+msgid "to not exploit any vulnerability or system flaw you might encounter."
+msgstr "em não explorar qualquer vulnerabilidade ou falha do sistema que você pode vir a encontrar."
+
+msgid "that the use of tools to try to hack or (D)DoS the game is forbidden and legal measures might be taken."
+msgstr "que o uso de ferramentas para tentar invadir ou \"(D)DoSar\" o jogo é proibido e medidas legais podem ser tomadas."
+
+msgid "that you must not violate any law or make any unauthorized or illegal use while, and by, playing the game."
+msgstr "que você não pode violar nenhuma lei ou fazer nenhum uso ilegal ou não-autorizado enquanto jogando, ou usando, o jogo."
+
+msgid "that your use of Hacker Experience is at your sole risk. The service is provided on an “as is” basis."
+msgstr "que o uso de Hacker Experience está sob sua própria conta e risco. O serviço é fornecido na condição em que se encontra (\"as is\")."
+
+msgid "that NeoArt Labs does not warrant that the service will answer your needs, will be free of errors, will be secure or will be available at all times."
+msgstr "que NeoArt Labs não garante que o serviço irá responder suas necessidades, será livre de erros, será seguro ou estará disponível o tempo todo."
+
+msgid "and expressly understand that NeoArt Labs shall not be liable for any direct or indirect damages, including but not limited to damages for loss of data, profits, or other intangible losses resulting from the direct or indirect use of the service."
+msgstr "e expressamente compreende que NeoArt Labs não deve ser responsável por qualquer dano direto ou indireto, incluindo mas não limitado a danos de perda de dados, lucros ou outras perdas intangíveis resultantes do uso direto ou indireto do serviço."
+
+msgid "that NeoArt Labs holds its rights to remove, or not to remove, any content which us unlawful or offensive."
+msgstr "que NeoArt Labs reserva seu direito de remover, ou não remover, qualquer conteúdo que seja considerado ofensivo ou ilegal."
+
+msgid "that Hacker Experience is a free service and it can be shutdown at any moment without prior notice."
+msgstr "que Hacker Experience é um serviço gratuito e pode ser desligado a qualquer momento sem notícia prévia."
+
+msgid "that you will be held responsible for every content and activity held under your account."
+msgstr "que você será tido como responsável por qualquer conteúdo e atividade feito pela sua conta."
+
+msgid "with our <a target=\"__blank\" href=\"privacy\">Privacy Policy</a>."
+msgstr "com nossa <a target=\"__blank\" href=\"privacy\">Política de Privacidade</a>."
+
+msgid "that any written abuse or threat made in an account will result in the immediate termination of that account."
+msgstr "que qualquer abuso ou ameaça escrita feita numa conta resultará em imediata terminação dessa conta."
+
+msgid "that objects in mirror are closer than they appear."
+msgstr "que objetos no espelho estão mais próximos do que aparentam."
+
+msgid "You acknowledge that"
+msgstr "Você reconhece que"
+
+msgid "this is a work of fiction. Names, characters, businesses, places, events and incidents are either the products of the author's imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental."
+msgstr "esse é um trabalho de ficção. Nomes, personagens, comércios, lugares, eventos e incidentes são produtos ou da imaginação do autor ou usados de maneira fictícia. Qualquer semelhança com pessoas verdadeiras, vivas ou mortas, ou eventos verdadeiros é pura coincidência."
+
+msgid "the game does not use any real hacking technique. It's entirely fictional."
+msgstr "o jogo não usa nenhuma técnica real de hacking. É completamente fictício."
+
+msgid "no potential real hacking knowledge can be learned from the game mechanics."
+msgstr "nenhum potencial conhecimento real de hacking pode ser aprendido ou incorporado da mecânica do jogo."
+
+msgid "We guarantee that"
+msgstr "Nós garantimos que"
+
+msgid "every in-game IP is randomly generated and do not represent real user information."
+msgstr "todo IP do jogo é aleatoriamente gerado e não representa identificação de usuários verdadeiros."
+
+msgid "we do not spam."
+msgstr "nós não enviamos spam."
+
+msgid "we do not sell or rent your data to anyone. (See <a target=\"__blank\" href=\"privacy\">Privacy Policy</a>)"
+msgstr "nós não vendemos ou alugamos seus dados para ninguém. (Ver <a target=\"__blank\" href=\"privacy\">Política de Privacidade<a>)"
+
+msgid "When purchasing premium membership, you agree that"
+msgstr "Quando estiver comprando uma conta premium, você concorda que"
+
+msgid "a valid credit card, which you have the right to use, is required for any paying account."
+msgstr "um cartão de crédito válido, o qual você tem o direito de usar, é exigido para a realização do pagamento."
+
+msgid "the payments you make are non-refundable and are billed in advance. There will be no refunds of any sort or future credits for partial months usage of the service."
+msgstr "os pagamentos que você faz não têm direito a reembolso e são cobrados em avanço. Não haverá reembolso ou nenhum tipo de crédito futuro por uso parcial dos meses de serviço adquirido."
+
+msgid "all fees are exclusive of any kind of taxes, levies or duties imposed by taxing authorities."
+msgstr "os valores não incluem nenhum tipo de taxas, imposições ou deveres impostos pelas autoridades fiscais."
+
+msgid "you will not be billed again if you wish to downgrade to the Basic account."
+msgstr "você não será cobrado novamente se desejar voltar para a conta Básica."
+
+msgid "price changes to the Premium Membership will affect only new upgrades from Basic to Premium plan. Current paying customers will keep the old price."
+msgstr "mudanças nos preços das Contas Premium afetará somente novas compras do plano Básico para Premium. Clientes que já são Premium vão manter o preço antigo."
+
+msgid "Account termination"
+msgstr "Terminação da conta"
+
+msgid "Currently, the only way to cancel your account is by requesting it manually to contact@hackerexperience.com."
+msgstr "Atualmente, a única forma de cancelar sua conta é fazendo uma requisiçao para contato@hackerexperience.com."
+
+msgid "If you are a recurring-paying premium member, you will not be billed after your account is terminated."
+msgstr "Se você é um membro Premium pagando em mensalidades, você não será cobrado após sua conta ser terminada."
+
+msgid "NeoArt Labs has the right to terminate your account. This will result in the deactivation or deletion of your account and you will be prevented from any access to the game."
+msgstr "NeoArt Labs tem o direito de terminar sua conta. Isso irá resultar na desativação e remoção da sua conta e você será proibido de qualquer tipo de acesso ao jogo."
+
+msgid "Unenforceable provisions"
+msgstr "Provisão inexequível"
+
+msgid "If any provision of this website disclaimer is, or is found to be, unenforceable under applicable law, that will not affect the enforceability of the other provisions of this website disclaimer."
+msgstr "Se alguma provisão desse termo for, ou se encontrar, inexequível sob legislação aplicável, isso não irá afetar a exeqüibilidade das outras provisões aqui contidas."
+
+msgid "Applicable law and competent court"
+msgstr "Legislação aplicável e tribunal competente"
+
+msgid "Hacker Experience and NeoArt Labs are governed by Brazilian law. In case of disputes or arguments only the courts of Ribeirão Preto will be competent."
+msgstr "Hacker Experience e NeoArt Labs são governados pela legislação brasileira. No caso de disputas ou argumentos somente o tribunal de Ribeirão Preto será considerado competente."
+
+msgid "In case of disputes a printed version of these terms and conditions of use will be accepted in legal or administrative procedures."
+msgstr "No caso de disputas, a versão impressa desses termos e condições de uso será aceita em procedimentos legais ou administrativos."
+
+msgid "Changes to the TOS"
+msgstr "Mudanças nos Termos de Serviço"
+
+msgid "NeoArt Labs reserves the right to update and change the Terms of Service from time to time without notice."
+msgstr "NeoArt Labs reserva o direito de atualizar e alterar os Termos de Serviço de tempos em tempos sem aviso."
+
+msgid "Any changes or updates made to the application are subject to these Terms of Service."
+msgstr "Qualquer mudança ou atualizações feitas estão sujeitas a esses Termos de Serviço."
+
+msgid "Continuing to use the service after such changes or updates are made will constitute your consent to those changes."
+msgstr "A continuação do uso do serviço após tais alterações ou atualizações irá constituir seu consentimento a essas alterações."
+
+msgid "Efforts will be made to publish major TOS changes on the Forum Announcements Board, but this does not invalidates item 8.1."
+msgstr "Esforços serão feitos para publicar grandes alterações dos Termos de Serviço no Quadro de Anúncios do fórum, mas isso não invalida o item 8.1."
+
+msgid "Please do not sue me"
+msgstr "Por favor não me processe"
+
+msgid "kthxbye"
+msgstr "vlw,flw"
+
+msgid "We use, follow and recommend the ACM code of ethics"
+msgstr "Nós usamos, seguimos e recomendamos o código de ética da ACM"
+
+msgid "This Term of Service was first published on %s and last revised on %s."
+msgstr "Esse Termo de Serviço foi publicado em %s e revisado pela última vez em %s."
+
+msgid "Privacy Matters"
+msgstr "Política de Privacidade"
+
+msgid "Privacy is top priority at Hacker Experience, and we like to explain our Privacy Policy in clear and simple words:"
+msgstr "Privacidade é assunto de alta prioridade em Hacker Experience, e nós preferimos explicar nossa Política de Privacidade em palavras claras e simples:"
+
+msgid "Personal information you provide us"
+msgstr "Informações pessoais que você nos provê"
+
+msgid "Your email. We keep them for verification purposes."
+msgstr "Seu email. Nós o armazenamos para propósitos de verificação."
+
+msgid "If you login using Facebook or Twitter social plugin, we have access to your social ID, username and email. We keep your social ID and email for verification purposes."
+msgstr "Se você entrar usando o plugin social do Facebook ou Twitter, nós temos acesso a sua social ID, usuário e email. Nós armazenamos sua social ID e email para propósitos de verificação."
+
+msgid "We collect"
+msgstr "Nós coletamos"
+
+msgid "Referrer website"
+msgstr "Site de origem"
+
+msgid "Browser family"
+msgstr "Família de navegador"
+
+msgid "Operating system"
+msgstr "Sistema operacional"
+
+msgid "All these information provides us better information as to where our users are having trouble accessing, in which parts of the world the page is taking too long to load, or how their gaming experience is."
+msgstr "Todas essas informações nos provê melhores dados como onde nossos usuários estão tendo problemas para acessar, em que partes do mundo a página demora muito pra carregar, ou como é a experiência de jogo deles."
+
+msgid "We use"
+msgstr "Nós usamos"
+
+msgid "Piwik - <a href=\"http://piwik.org\">Piwik</a> is an <i>open source</i> web analytics platform that respects it's users privacy."
+msgstr "Piwik - <a href=\"http://piwik.org\">Piwik</a> é uma plataforma analítica <i>open source</i> que respeita a privacidade de seus usuários."
+
+msgid "New Relic - New Relic provides better statistics regarding page load and application aspects. No personal-identifying information is collected."
+msgstr "New Relic - New Relic provê melhores estatísticas no que tange a carregamento de páginas e aspectos de aplicação. Nenhuma informação pessoal é coletada."
+
+msgid "Cookies - We use cookies to enable a more personal experience on the game. We do not track other sites than hackerexperience.com. Hacker Experience might not work without cookies."
+msgstr "Cookies - Nós usamos cookies para permitir uma experiência mais pessoal do jogo. Nós não rastreamos outros sites além de hackerexperience.com. Hacker Experience pode não funcionar corretamente sem cookies."
+
+msgid "Google Adsense - Google Ads help keep Hacker Experience free."
+msgstr "Google Adsense - Google Ads ajuda a manter Hacker Experience gratuito."
+
+msgid "We protect"
+msgstr "Nós protegemos"
+
+msgid "Your data - We do not rent or sell your personal/identifying data, nor make it public. It is safely stored on a private, access-limited server."
+msgstr "Seus dados - Nós não alugamos ou vendemos sua informação pessoal/identificação, nem a tornamos pública. São armazenados com segurança num servidor privado e de acesso limitado."
+
+msgid "Your password - Your password is uniquely salted using a slow hashing function."
+msgstr "Sua senha - Sua senha é unicamente \"salted\" usando uma função de hashing demorado."
+
+msgid "Your email - We do not spam."
+msgstr "Seu email - Nós não enviamos spam."
+
+msgid "When purchasing premium membership"
+msgstr "Quando comprando conta premium"
+
+msgid "We do not store your credit card information."
+msgstr "Nós não armazenamos as informações do seu cartão de crédito."
+
+msgid "We use SSL and encrypt your data from our site to the payment gateway."
+msgstr "Nós usamos SSL e criptograframos seus dados do nosso site até o sistema terceirizado de pagamento."
+
+msgid "We use Google AdSense, that"
+msgstr "Nós usamos Google Adsense, que"
+
+msgid "Uses cookies to serve ads based on a user's prior visits to Hacker Experience."
+msgstr "Usa cookies para servir propagandas baseadas em visitas anteriores de um usuário ao jogo."
+
+msgid "Uses DoubleClick*, a cookie that enables it and its partners to serve ads to you based on your previous accesses to other sites on the Internet."
+msgstr "Usa DoubleClick*, um cookie que permite ele e seus parceiros a servir propagandas baseadas em acessos anteriores a outros sites na Internet."
+
+msgid "Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting <a href=\"http://www.google.com/ads/preferences/\">Ads Settings</a>."
+msgstr "Usuários podem optar por sair do programa do DoubleClick de propaganda baseada em interesses visitando <a href=\"http://www.google.com/ads/preferences/\">Configurações de Propagandas</a>."
+
+msgid "Please note"
+msgstr "Por favor note"
+
+msgid "The use of the site constites your full acceptance of our Privacy Policy. If you do not agree with it, please refrain from using www.hackerexperience.com and all related domains."
+msgstr "O uso do site constitui sua completa aceitação da nossa Política de Privacidade. Se você não concorda com ela, por favor abstenha-se de usar www.hackerexperience.com e todos os domínios relacionados."
+
+msgid "We may change our privacy policy from time to time. Although efforts will be made to announce any changes on the Forum Announcements Board, we may do so in our sole discretion. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. Therefore, we encourage you to visit this page regularly."
+msgstr "Nós podemos alterar nossa política de privacidade de tempos em tempos. Embora esforços serão feitos para publicar qualquer alteração no Quadro de Anúncios do Fórum, nós podemos realizar a alteração sem prévio aviso. A continuação do uso do site após qualquer alteração nessa Política de Privacidade constitui sua aceitação de tais mudanças. Portanto, nós recomendamos que você visite essa página regularmente."
+
+msgid "You can opt out of our tracking analytics at any time using the checkbox below"
+msgstr "Você pode optar por sair das nossas análises a qualquer momento usando o campo abaixo"
+
+msgid "Privacy Policy"
+msgstr "Política de Privacidade"
+
+msgid "The name %s contains invalid characters. Allowed are %s."
+msgstr "O nome %s contém caracteres inválidos. Permitidos são %s."
+
+msgid "The name %s is too small.<br/>Please insert 3 characters at least."
+msgstr "O nome %s é muito pequeno.<br/>Por favor coloque 3 caracteres pelo menos."
+
+msgid "The name %s is too big.<br/>Please insert 15 characters at most."
+msgstr "O nome %s é muito grande.<br/>Por favor use 15 caracteres no máximo."
+
+msgid "<strong>Oh no!</strong> The user %s is already in use."
+msgstr "<strong>Ops!</strong> O usuário %s já está sendo usado."
+
+msgid "Couldnt find your social login! Please, go to index page and try again."
+msgstr "Não pudemos encontrar seu social login! Por favor, vá pra página inicial e tente novamente."
+
+msgid "How would you like to be called in-game?"
+msgstr "Como você gostaria de ser chamado no jogo?"
+
+msgid "Back to Index"
+msgstr "Voltar para a home"
+
+msgid "or"
+msgstr "ou"
+
+msgid "Enter your username"
+msgstr "Digite seu usuário"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Start tutorial"
+msgstr " tutorial"
+
+msgid "Verify email"
+msgstr "Verificar email"
+
+msgid "Verification Code"
+msgstr "Código de Verificação"
+
+msgid "Verification code does not match"
+msgstr "Código de verificação não bate"
+
+msgid "Invalid verification code"
+msgstr "Código de verificação inválido"
+
+msgid "Welcome to Hacker Experience!"
+msgstr "Bem-vindo a Hacker Experience"
+
+msgid "Hello there, it's nice to have you around. This is a quick guide to explain how the game works."
+msgstr "Olá, é bom ter você por aqui. Esse é um rápido guia para explicar como o jogo funciona."
+
+msgid "You are a freelancer hacker trainned and hired by Numataka Corp. Their exact intention is unknown to the public, but they might be interested in the recent leak by Snowden."
+msgstr "Você é um hacker freelancer treinado e contratado pela Numataka Corp. A exata intenção deles é desconhecida para o público, mas eles podem estar interessados na recente informação vazada pelo Snowden."
+
+msgid "I can't speak for them, though. I believe they will soon contact you with their instructions."
+msgstr "Mas eu não posso falar por eles. Acredito que eles entrarão em contato com você, em breve, com mais detalhes."
+
+msgid "The game itself is pretty easy, and you don't need to know any technical detail in order to play it. The gray menu on the left is your main navigation tool. First, let me explain what some pages do:"
+msgstr "O jogo em si é bem fácil, e você não precisa de nenhum conhecimento técnico para conseguir jogar. O menu cinza à esquerda é sua principal ferramenta de navegação. Primeiro, deixe-me explicar o que algumas páginas fazem:"
+
+msgid "Here you can manage your softwares. Install, delete, hide, create folders, etc."
+msgstr "Aqui você pode gerenciar seus softwares. Instalar, deletar, esconder, criar pastas, etc."
+
+msgid "Every software has a purpose. I'll show you some softwares later."
+msgstr "Todo software tem um propósito. Eu vou mostrar alguns pra você mais tarde."
+
+msgid "This one is easy. The hardware page is where you manage your hardware<span class=\"small nomargin\"> (duh)</span>."
+msgstr "Essa é fácil. A página de hardware é onde você gerencia seu hardware<span class=\"small nomargin\"> (der)</span>."
+
+msgid "Buy new servers or upgrade your existing ones. Purchase an external disk and safely backup your data."
+msgstr "Compre novos servidores ou melhore os seus já existentes. Compre um disco externo para guardar seus arquivos com segurança."
+
+msgid "Tasks, or processes, are actions that require some amount of time to complete. For example, installing or deleting a software might take a few seconds."
+msgstr "Tarefas, ou processos, são ações que precisam de uma quantidade de tempo para completar. Por exemplo, instalar ou deletar um software pode levar alguns segundos."
+
+msgid "The time taken to complete a task will depend of several factors, like hardware and software size."
+msgstr "O tempo necessário para completar uma tarefa vai depender de vários fatores, como hardware e tamanho do software."
+
+msgid "So far so good, right? These pages are essential, you will use them a lot during the game."
+msgstr "Até agora tudo bem, né? Essas páginas são essenciais, você vai usá-las muito durante o jogo."
+
+msgid "Now let's take a look on some other pages:"
+msgstr "Vamos dar uma olhada em outras páginas:"
+
+msgid "You can see the Internet page as a browser. Use it to navigate through every IP address. It's here where you will hack and remotly connect to others servers."
+msgstr "Você pode considerar a página Internet como sendo um navegador. Use-a para navegar em um endereço IP. É aqui que você vai conectar-se remotamente e invadir outros servidores."
+
+msgid "There are some useful pages on the Internet, like banks or riddles. You will find them on the First Whois located at"
+msgstr "Existem algumas páginas úteis na Internet, como bancos ou riddles. Você vai encontrá-las no Primeiro Whois localizado em"
+
+msgid "Don't worry, this is your home IP address"
+msgstr "Não se preocupe, essa é sua página inicial"
+
+msgid "The Log File is probably the most important page of the game. <em>Every</em> action you do will be logged here. See the following example:"
+msgstr "Log de Dados é provavelmente a página mais importante do jogo. <em>Toda</em> ação que você fizer será \"logada\" aqui. É como um registro. Veja o seguinte exemplo:"
+
+msgid "You see, after the date, that the localhost (owner of the log) logged to IP <code>252.168.144.12</code> as root."
+msgstr "Você vê, após a data, que o localhost (dono do log) logou-se no IP <code>252.168.144.12</code> como usuário root."
+
+msgid "Here is where you will find other's IP address, and where they will find you. So always delete the logs after you complete an action."
+msgstr "É aqui que você vai encontrar o IP de outros jogadores, e é aqui que eles vão te encontrar. Então sempre delete seus logs depois de completar uma ação."
+
+msgid "Looking good! Let me show you some softwares."
+msgstr "Até agora tudo bem! Deixe-me lhe mostrar alguns softwares."
+
+msgid "Show me the softwares"
+msgstr "Me mostre os softwares"
+
+msgid "Basic Introduction"
+msgstr "Introdução Básica"
+
+msgid "Let's talk software!"
+msgstr "Vamos falar de software!"
+
+msgid "First of all, softwares have <strong>versions</strong>. A version is identified by a number like <em>1.0</em>, <em>2.5</em>, <em> 14.3</em> and so on."
+msgstr "Primeiro de tudo, softwares têm <strong>versões</strong>. A versão é identificada por um número como <em>1.0</em>, <em>2.5</em>, <em> 14.3</em> e assim por diante."
+
+msgid "Higher the version, stronger the software is. Remember this."
+msgstr "Quanto mais alta for a versão, mais forte é o software. Lembre-se disso."
+
+msgid "Softwares are essentially applications with a purpose. Every type of software will have a purpose."
+msgstr "Softwares são essencialmente aplicações com um propósito. Todo tipo de software tem um propósito."
+
+msgid "Some of the different types of software we have are:"
+msgstr "Algum dos diferentes tipos de software que existem são:"
+
+msgid "Hacking softwares"
+msgstr "Softwares de invasão"
+
+msgid "A hacking, or offensive, software is the application you will use to hack an IP.<br/> <em>Roughly</em>, if the victim's defensive software is weak enough, i.e., have a smaller or equal version than your offensive software, you are in."
+msgstr "Um software de ataque, ou de invasão, é a aplicação que você vai usar para invadir um IP.<br/> <em>Basicamente</em>, se o software de defesa da vítima for mais fraco que o seu, isto é, se tem uma versão menor que ou igual ao seu software de ataque, você está dentro."
+
+msgid "Hacking softwares are <em>cracker</em>, <em>port scanner</em> and <em>exploits</em>."
+msgstr "Softwares de invasão são <em>cracker</em>, <em>port scanner</em> e <em>exploits</em>."
+
+msgid "Defense softwares"
+msgstr "Softwares de defesa"
+
+msgid "Defense softwares, as the name say, will keep you safe. Have a good defense and no one will touch your server."
+msgstr "Softwares de defesa, como o nome diz, irão manter você seguro. Tenha uma boa defesa e ninguém irá tocar no seu servidor."
+
+msgid "Defensive softwares are <em>password hash</em> and <em>firewall</em>."
+msgstr "Softwares de defesa são <em>password hash</em> e <em>firewall</em>."
+
+msgid "<strong>Don't worry!</strong> The next certification will explain in details how attack/defense softwares work."
+msgstr "<strong>Não se preocupe!</strong> A próxima certificação irá explicar em detalhes como softwares de ataque/defesa funcionam."
+
+msgid "Ok. These softwares are certainly the most important. Now a quick word about <em>viruses</em>."
+msgstr "Ok. Esses softwares são certamente os mais importantes. Agora uma rápida palavra sobre <em>vírus</em>."
+
+msgid "Spam / Miner / Warez virus"
+msgstr "Vírus Spam / Warez / Miner"
+
+msgid "These three viruses, <em>spam</em>, <em>miner</em> and <em>warez</em> virus have something in common: they generate money."
+msgstr "Esses três vírus, <em>vírus spam</em>, <em>vírus miner</em> e <em>vírus warez</em> têm algo em comum: eles geram dinheiro."
+
+msgid "Spam will generate money by sending spam, warez will sell torrents, and the miner will mine bitcoins that you can later trade."
+msgstr "Spam irá gerar dinheiro enviando spam, warez irá vender torrents e o miner irá minerar bitcoins que você pode mais tarde trocar ou vender."
+
+msgid "In order to collect money from these viruses, you need a <em>virus collector</em>. The warez virus requires an additional software, the <em>torrent</em>."
+msgstr "Para poder receber dinheiro desses vírus, você precisa de um <em>coletor de vírus</em>. O vírus warez requer um software adicional, o <em>torrent</em>."
+
+msgid "The <em>DDoS virus</em> won't generate you money, but you can heavily disable someone's server by launching a DDoS attack."
+msgstr "O <em>vírus DDoS</em> não irá gerar dinheiro, mas você pode desabilitar o servidor de alguém ao lançar um ataque DDoS."
+
+msgid "A DDoS attack uses DDoS virus installed on different machines that will, together, flood the target IP, thus severily damaging it's hardware."
+msgstr "Um ataque DDoS usa vírus DDoS instalados em diferentes máquinas que irão, juntos, sobrecarregar o IP do alvo, danificando o hardware dele."
+
+msgid "In order to launch a DDoS attack, you need a <em>DDoS Breaker</em> and at least three installed viruses."
+msgstr "Para poder lançar um ataque DDoS,você precisa de um <em>DDoS Breaker</em> e pelo menos três vírus instalados."
+
+msgid "Again, don't worry. The next certifications will gradually teach you how to use these. It's a no-brainer, though."
+msgstr "De novo, não se preocupe. As próximas certificações irão te ensinar gradualmente a usar esses vírus. É super tranquilo."
+
+msgid "There are some others softwares, but you will have no trouble using them."
+msgstr "Existem outros softwares, mas você não terá problemas em usá-los."
+
+msgid "As mentioned before, good softwares have high versions. There are two simple ways of gradually increasing your software versions:"
+msgstr "Como eu disse antes, bons softwares têm altas versões. Existem dois formas simples de gradualmente aumentar a versão do seu software:"
+
+msgid "At the <em>University page</em> you can research new softwares, i.e., upgrade a software you own to a higher version, by paying a small fee."
+msgstr "Na <em>Universidade</em> você pode desenvolver novos softwares, isto é, melhorar a versão de um software que você é o dono, pagando uma pequena taxa."
+
+msgid "In order to <em>own</em> a software, you must first buy it's license."
+msgstr "Para poder ser o <em>dono</em> de um software, você deve primeiro comprar a licença dele."
+
+msgid "You can also take certifications at the university page. You are reading this guide here, actually. :)"
+msgstr "Você pode também tirar certificações na universidade. Você está lendo esse guia na universidade :)"
+
+msgid "A cheaper way to get better software is by following the puzzle trail. The first one is located at the First Whois, your home IP."
+msgstr "Uma forma mais barata de conseguir melhores softwares é seguindo a Trilha de Enigmas. O primeiro enigma está localizado no Primeiro Whois, sua página inicial."
+
+msgid "By solving each puzzle, you will be led to another one, with gradually better softwares and harder puzzle."
+msgstr "Ao resolver cada enigma, você será levado para um próximo servidor, com softwares um pouco melhores e um enigma um pouco mais difícil."
+
+msgid "If you get stuck, you can opt to research the next software instead of downloading it :)"
+msgstr "Se você ficar preso, pode optar por desenvolver o próximo software ao invés de resolver o enigma :)"
+
+msgid "That's it. It wasn't <em>that</em> hard, right?"
+msgstr "É isso. Não foi <em>tão</em> difícil, certo?"
+
+msgid "Previous page"
+msgstr "Página anterior"
+
+msgid "What if I need help?"
+msgstr "E se eu precisar de ajuda?"
+
+msgid "Getting Help"
+msgstr "Arrumando Ajuda"
+
+msgid "If you find any trouble during your game play, there are several ways to look for help."
+msgstr "Se você encontrar qualquer dificuldade durante o jogo, existem várias formas de procurar por ajuda."
+
+msgid "We have a wiki page with detailed information about important game aspects. Take a look there later."
+msgstr "Nós temos uma wiki com informações detalhadas sobre importantes aspectos do jogo. Dê uma olhada lá mais tarde."
+
+msgid "Also, every game page will have, on the upper-right corner, a link to the corresponding wiki page."
+msgstr "Além disso, toda página do jogo terá, no canto superior direito, um link levando à página correspondente da wiki."
+
+msgid "We also have an active community at our forum (or Bulletin Board System, if you are old school)."
+msgstr "Também temos uma ativa comunidade em nosso fórum (ou Bulletin Board System, se você é antigo)."
+
+msgid "Introduce yourself there. It's always great to make internet friends :)"
+msgstr "Apresente-se por lá. É sempre bom fazer amigos na internet :)"
+
+msgid "If you prefer, you can mail us at"
+msgstr "Se você preferir, pode enviar um email pra nós em"
+
+msgid "We will be thrilled to reply you as soon as possible."
+msgstr "Nós iremos alegremente responder você assim que possível."
+
+msgid "Complete this certification"
+msgstr "Completar essa certificação"
+
+msgid "Basics of Hacking"
+msgstr "Introdução ao Hacking"
+
+msgid "<em>Hacking</em> is the act of successfully connecting to another server (computer) with special permissions."
+msgstr "<em>Invadir</em>, ou hackear, é o ato de conectar-se com sucesso a outro servidor (computador) com permissões especiais."
+
+msgid "The first thing to do is browse to the IP address you want to hack."
+msgstr "A primeira coisa a fazer é navegar até o endereço IP que você quer invadir."
+
+msgid "There are two methods of hacking: <em>brute-force attack</em> and <em>exploit attack</em>. We will learn the first one now."
+msgstr "Existem dois métodos de invasão: <em>ataque força-bruta</em> e <em>ataque exploit</em>. Nós aprenderemos o primeiro agora."
+
+msgid "Every server is protected with a password. The brute-force method uses the Cracker software to systematically check all possible passwords until the correct one is found."
+msgstr "Todo servidor é protegido com uma senha. O método força-bruta usa o software Cracker para sistematicamente checar todas as senhas possíveis até que a correta seja encontrada."
+
+msgid "Attack"
+msgstr "Ataque"
+
+msgid "Your objective is to discover the root (special user) password. In order to do that, you will use a software called <em>cracker</em>."
+msgstr "Seu objetivo é descobrir a senha do usuário root (usuário especial). Para conseguir fazer isso, você usará um software chamado <em>cracker</em>."
+
+msgid "Greater versions means better chance to successfully hack the target IP."
+msgstr "Melhores versões têm maior chance de conseguir invadir o IP alvo."
+
+msgid "Defense"
+msgstr "Defesa"
+
+msgid "Having complex passwords is a must if you want to be protected. The software <em>password hasher</em> will do this for you."
+msgstr "Ter senhas complexas é uma obrigação se você quiser estar protegido. O software <em>password hasher</em> faz exatamente isso pra você."
+
+msgid "Greater versions means better chance to defend yourself from brute-force attempts."
+msgstr "Melhores versões têm maior chance de defender seu servidor contra tentativas de ataque força-bruta."
+
+msgid "<strong>Hacking math!</strong> The math is simple: if your <em>cracker</em> version is better than or equal to the victim's <em>hasher</em> version, you are in."
+msgstr "<strong>Matemática da invasão!</strong> A matemática é simples: se a versão do seu <em>cracker</em> for maior que, ou igual, à versão do <em>hasher</em> da vítima, você está dentro."
+
+msgid "Hacked IPs go to the <em>Hacked Database</em>."
+msgstr "IPs invadidos são salvos no seu <em>Banco de Dados</em>."
+
+msgid "There, you are able to manage every server you've hacked. You can also manage your installed viruses, and even collect their money."
+msgstr "Lá você pode gerenciar todo servidor que foi invadido. Você também pode gerenciar os seus vírus instalados, e até coletar o dinheiro deles."
+
+msgid "Don't forget the logs"
+msgstr "Não esqueça dos logs"
+
+msgid "You might be wondering: <em>\"How the hell do I know whom to hack?\"</em>."
+msgstr "Você deve estar se perguntanto: <em>\"Como diabos eu sei quem invadir?\"</em>."
+
+msgid "The answer is: the same way people will know how to hack you - through the logs."
+msgstr "A resposta é: da mesma forma que pessoas vão saber como invadir você - pelos logs."
+
+msgid "As you know, everything you do on a server will be logged."
+msgstr "Como você já sabe, tudo que você faz num servidor será logado."
+
+msgid "Therefore, whenever you connect to a remote IP, remember to quickly delete your data from the logs."
+msgstr "Portanto, sempre que se conectar a um IP remoto, lembre-se de rapidamente deletar sua informação dos logs."
+
+msgid "Use it to your benefit too: search the logs for unknown IPs. Hack the ones you find. Profit from them."
+msgstr "Use o log para seu benefício também: procure por IPs desconhecidos. Invada-os. Lucre em cima deles."
+
+msgid "A quick word on profit"
+msgstr "Uma palavra rápida sobre lucro"
+
+msgid "On profit"
+msgstr "Sobre lucro"
+
+msgid "Money is essential. You need it to buy better hardware and research stronger softwares. So, how to get it?"
+msgstr "Dinheiro é essencial. Você precisa dele pra comprar hardware melhor, our desenvolver softwares mais fortes. Então, como conseguir?"
+
+msgid "Installing viruses is the easier way of getting money."
+msgstr "Instalar vírus é a forma mais fácil de ganhar dinheiro."
+
+msgid "As said before, you have three viruses that generate money: <em>Spam</em>, <em>Miner</em> and <em>Warez</em>. Install one of them and use the <em>Virus Collector</em> software to profit."
+msgstr "Como eu disse antes, você tem três vírus que geram dinheiro: <em>Spam</em>, <em>Miner</em> e <em>Warez</em>. Instale um deles e use o software <em>Coletor de Vírus</em> para lucrar."
+
+msgid "You can opt to work on <em>missions</em>. You can see the current offers at the Missions link, on the left sidebar."
+msgstr "Você pode optar por trabalhar em <em>missões</em>. Você pode ver as atuais ofertas no link Missões, no menu à esquerda."
+
+msgid "In order to see the data of the mission, you need to \"know\" who is offering it, i.e., have them listed on your Hacked Database."
+msgstr "Para poder ver os dados da missão, você deve \"conhecer\" quem está ofertando, isto é, tê-los no seu Banco de Dados."
+
+msgid "Missions are offered by companies. You can find some on the First Whois."
+msgstr "Missões são ofertadas por empresas. Você pode encontrar algumas no Primeiro Whois."
+
+msgid "Another way is hacking bank accounts and transfering the funds to you."
+msgstr "Outra forma é invadir contas bancárias e transferir os fundos pra você."
+
+msgid "<em>Exploit attack</em> and bank account cracking will be seen later."
+msgstr "<em>Ataque exploit</em> e invasão de contas bancárias serão vistos mais tarde."
+
+msgid "You have some work to do now. I'm done helping you. Bye."
+msgstr "Você tem trabalho a fazer agora. Boa sorte."
+
+msgid "Prepare your tools."
+msgstr "Prepare suas ferramentas."
+
+msgid "Before hacking the victim, you need to run your cracker. Go to the %ssoftware page%s."
+msgstr "Antes de invadir a vítima, você precisa instalar seu cracker. Vá para a %spágina de software%s."
+
+msgid "Install your cracker"
+msgstr "Instale seu cracker"
+
+msgid "%sInstall%s the highlighted software, so you can hack the victim."
+msgstr "%sInstale%s o software destacado para que você possa invadir a vítima."
+
+msgid "Navigate to the victim"
+msgstr "Navegue até a vítima"
+
+msgid "Good job on installing your cracker. Now, go to the %sinternet page%s and navigate to the victim IP."
+msgstr "Bom trabalho em instalar seu cracker. Agora vá para a %sinternet%s e navegue até o IP da vítima."
+
+msgid "Now that you are here, enter the victim IP address: %s%s%s"
+msgstr "Agora que você está aqui, insira o endereço IP da vítima: %s%s%s"
+
+msgid "Good!"
+msgstr "Boa!"
+
+msgid "Now click on the %shack tab%s to display the hacking options."
+msgstr "Agora clique na %saba invadir%s para mostrar as opções de invasão."
+
+msgid "Hack him!"
+msgstr "Invada ele!"
+
+msgid "Click on %sBruteforce Attack%s to use your cracker."
+msgstr "Clique em %sAtaque Força-Bruta%s para usar seu cracker."
+
+msgid "Congratulations, you just hacked your first IP. Now do the login, don't forget to quickly delete your logs."
+msgstr "Parabéns, você acabou de invadir seu primeiro IP. Agora faça o login, não se esqueça de rapidamente apagar seus logs."
+
+msgid "Delete your logs!"
+msgstr "Delete seus logs!"
+
+msgid "Hide your IP. Quick!"
+msgstr "Esconda seu IP. Rápido!"
+
+msgid "Someone must have deleted the file Users.dat. Check the %slog page%s!"
+msgstr "Alguém deve ter deletado o arquivo Users.dat. Verifique o %slog%s!"
+
+msgid "What?"
+msgstr "Como?"
+
+msgid "Someone deleted it!"
+msgstr "Alguém deletou o arquivo!"
+
+msgid "Look! That guy deleted our file. Fine, I have an idea. Check your %smission page%s again, I've updated it."
+msgstr "Olha! Aquele cara deletou nosso arquivo. Tudo bem, eu tenho uma ideia. Olhe sua %spágina de missão%s de novo, eu a atualizei."
+
+msgid "Go to the %sinternet page%s and navigate to the victim IP address."
+msgstr "Vá para a %sinternet%s e navegue até o endereço IP da vítima."
+
+msgid "Logout from this one."
+msgstr "Desconecte-se desse IP."
+
+msgid "We are done here. Click on Logout."
+msgstr "Já acabamos aqui. Clique em Sair."
+
+msgid "Nice!"
+msgstr "Isso aí!"
+
+msgid "You have his password. Again, don't forget to quickly hide your logs."
+msgstr "Você tem a senha dele. De novo, não se esqueça de rapidamente apagar seus logs."
+
+msgid "Upload him a gift."
+msgstr "Envie um presente pra ele."
+
+msgid "Give that man a gift. Upload the virus using the menu on the right."
+msgstr "Dê um presente pra esse cara. Envie um vírus usando o menu à direita."
+
+msgid "Almost there."
+msgstr "Quase lá."
+
+msgid "Now %sinstall%s the virus."
+msgstr "Agora %sinstale%s o vírus."
+
+msgid "Nice job, son. I am proud of you. I hope this SOB learned his lesson. Go to the %smission page%s to retrieve your reward."
+msgstr "Bom trabalho, filho! Estou orgulhoso de você. Espero que esse FDP tenha aprendido a lição. Vá para a %spágina de missões%s para receber sua recompensa."
+
+msgid "Congratulations on completing the mission. Now, collect your hard-earned money clicking on 'Complete mission'."
+msgstr "Parabéns em completar a missão. Agora, receba seu dinheiro suado clicando em 'Completar missão'."
+
+msgid "Collect your money."
+msgstr "Receba seu dinheiro"
+
+msgid "You have %d unread message."
+msgid_plural "You have %d unread messages."
+msgstr[0] "Você tem %s mensagem não lida."
+msgstr[1] "Você tem %s mensagens não lidas."
+
+msgid "Unread message."
+msgid_plural "Unread messages."
+msgstr[0] "Mensagem nova."
+msgstr[1] "Mensagens novas."
+
+msgid "%d online players"
+msgstr "%d jogadores online"
+
+msgid "Invalid page."
+msgstr "Página inválida."
+
+msgid "This clan does not exists."
+msgstr "Esse clan não existe."
+
+msgid "The user you are trying to add is already part of a clan."
+msgstr "O usuário que você está tentando adicionar já faz parte de um clan."
+
+msgid "Invalid password."
+msgstr "Invalid password."
+
+msgid "You already have a pending request. Delete that one before."
+msgstr "Você já tem um pedido pendente. Delete esse antes."
+
+msgid "Your clan name contain invalid characters. Allowed are <strong>azAZ09_ .!-</strong> starting with <strong>azAZ09</strong>."
+msgstr "O nome do seu clan contém caracteres inválidos. Permitidos são <strong>azAZ09_ .!-</strong> começando com <strong>azAZ09</strong>."
+
+msgid "Your clan tag contain invalid characters. Allowed are <strong>azAZ09_.-</strong>"
+msgstr "A tag do seu clan contém caracteres inválidos. Permitidos são <strong>azAZ09_.-</strong>"
+
+msgid "You must delete your pending requests before creating a clan."
+msgstr "Você deve deletar seus pedidos pendentes antes de criar um clan."
+
+msgid "This clan name or tag is already in use. Please choose another."
+msgstr "Esse nome ou tag já está em uso. Por favor, escolha outro."
+
+msgid "Hall of Fame is just available after the second round =)"
+msgstr "O Hall da Fama só estará disponível após o segundo round =)"
+
+msgid "This user does not have a wallet."
+msgstr "Esse usuário não tem uma carteira."
+
+msgid "Dude! You cant login/hack yourself..."
+msgstr "Cara! Você não pode logar/invadir você mesmo..."
+
+msgid "This player is under newbie protection."
+msgstr "Esse jogador está sob proteção por ser iniciante."
+
+msgid "It's impossible to exploit the NSA. You should try to perform a bruteforce attack instead."
+msgstr "É impossível exploitar a NSA. Você deve tentar realizar um ataque força-bruta em vez disso."
+
+msgid "You already are root user. Use the cracker to discover the password."
+msgstr "Você já é usuário root. Use o cracker para descobrir a senha."
+
+msgid "Wrong scanned IP. Please, try again."
+msgstr "O IP escaneado é diferente. Por favor, tente de novo."
+
+msgid "Oh, you can not hack your own accout. Its password is "
+msgstr "Ah, você não pode invadir sua própria conta. A senha dele é "
+
+msgid "You already hacked the bank account %s! Its password is %s."
+msgstr "Você já invadiu a conta %s! A senha dele é %s."
+
+msgid "You need to hack or exploit before."
+msgstr "Você precisa invadir ou exploitar antes."
+
+msgid "Password is unknown. You have to hack again."
+msgstr "A senha é desconhecida. Vocẽ tem que invadir de novo."
+
+msgid "Trying to login using a different user from your hacked database."
+msgstr "Tentanto entrar usando um usuário diferente do seu Banco de Dados."
+
+msgid "Access denied: your exploits are not good enough."
+msgstr "Acesso negado: seus exploits não são bons o suficiente."
+
+msgid "Wrong exploited user."
+msgstr "Usuário exploitado errado."
+
+msgid "Logout before cracking a bank account."
+msgstr "Desconecte-se antes de invadir uma conta bancária."
+
+msgid "You already have an account on this bank."
+msgstr "Você já tem uma conta nesse banco."
+
+msgid "You can not download this software."
+msgstr "Você não pode fazer download desse software."
+
+msgid "You can not upload this software."
+msgstr "Você não pode fazer upload desse software."
+
+msgid "You can not hide this software."
+msgstr "Você não pode esconder esse software."
+
+msgid "You can not delete this software."
+msgstr "Você não pode deletar esse software."
+
+msgid "You can not use webserver on NPCs."
+msgstr "Você não pode usar webserver em NPCs."
+
+msgid "Invalid user."
+msgstr "Usuário inválido."
+
+msgid "Only <a href=\"premium\">premium</a> users can have active webservers"
+msgstr "Somente usuários <a href=\"premium\">premium</a> premium podem ter webservers ativos"
+
+msgid ", and the user you are logged at is not premium."
+msgstr ", e o usuário que você está logado não é premium."
+
+msgid "Invalid requistion."
+msgstr "Requisição inválida."
+
+msgid "Missing transfer amount."
+msgstr "Faltando a quantidade para transferir."
+
+msgid "Missing bank IP."
+msgstr "Faltando IP do banco."
+
+msgid "You are not logged in to a bank account, therefore you can not transfer."
+msgstr "Você não está logado numa conta bancária, portanto você não pode fazer transferências."
+
+msgid "You can not transfer money to the same bank account. Duh."
+msgstr "Você não pode transferir dinheiro pra mesma conta. Der."
+
+msgid "This account does not exists."
+msgstr "Essa conta não existe."
+
+msgid "Ops! The Bank IP you entered is not valid."
+msgstr "Ops! O IP do banco que você entrou não é válido."
+
+msgid "Calm down, boy. Invalid transfer amount."
+msgstr "Calma lá, garoto. Quantidade de transferência inválida."
+
+msgid "Oh well, this is not a bank."
+msgstr "Oh bem, isso não é um banco."
+
+msgid "You already have an account on this bank o.O."
+msgstr "Você já tem uma conta nesse banco o.O."
+
+msgid "You are not connected to a bank account."
+msgstr "Você não está conectado a uma conta bancária."
+
+msgid "You can't close an account with money."
+msgstr "Você não pode fechar uma conta com dinheiro."
+
+msgid "Invalid ID."
+msgstr "ID inválida."
+
+msgid "This virus is already assigned to this IP."
+msgstr "Esse vírus já está designado para esse IP."
+
+msgid "This virus does not exists."
+msgstr "Esse vírus não existe."
+
+msgid "Disconnect from %s before."
+msgstr "Desconecte-se de %s antes."
+
+msgid "All servers were ignored because did not match minimum collect time."
+msgstr "Todos os servidores foram ignorados porque não tinham o tempo mínimo para coleta."
+
+msgid "All servers were ignored because you do not have a .torrent."
+msgstr "Todos os servidores foram ignorados porque você não tem um .torrent."
+
+msgid "All servers were ignored because you do not have a bitcoin wallet."
+msgstr "Todos os servidores foram ignorados porque você não tem uma carteira bitcoin."
+
+msgid "You do not have any running virus."
+msgstr "Você não tem nenhum vírus rodando."
+
+msgid "You need to create a bank account before collecting."
+msgstr "Você precisa criar uma conta bancária antes de coletar."
+
+msgid "The username %s is invalid."
+msgstr "O usuário %s é inválido."
+
+msgid "The username %s does not exists."
+msgstr "O usuário %s não existe."
+
+msgid "The ID %s is invalid."
+msgstr "A ID %s é inválida."
+
+msgid "Meh. You can not send email to yourself."
+msgstr "Meh. Você não pode mandar email pra você mesmo."
+
+msgid "The e-mail you are replying to does not exists."
+msgstr "O e-mail que você está respondendo não existe."
+
+msgid "You can not reply to this e-mail."
+msgstr "Você não pode responder pra esse e-mail."
+
+msgid "The user you are replying to does not exists."
+msgstr "O usuário que você está respondendo não existe."
+
+msgid "Subject can not be empty."
+msgstr "O campo assunto não pode ficar em branco."
+
+msgid "Subject contain invalid digits. Allowed are azAZ09.,!? _-$()\"'"
+msgstr "Assunto contém dígitos inválidos. Permitidos são azAZ09.,!? _-$()\"'"
+
+msgid "Message can not be empty."
+msgstr "A mensagem não pode ser vazia."
+
+msgid "This email does not exists."
+msgstr "Esse email não existe."
+
+msgid "Invalid POST."
+msgstr "POST inválido."
+
+msgid "You are not in a mission."
+msgstr "Você não está numa missão."
+
+msgid "This mission does not exists."
+msgstr "Essa missão não existe."
+
+msgid "You are not allowed to abort this kind of mission."
+msgstr "Você não pode abortar esse tipo de missão."
+
+msgid "You must first complete the tutorial from Certification 2."
+msgstr "Você deve primeiro completar o tutorial da certificação 2."
+
+msgid "You already are in a mission."
+msgstr "Você já está numa missão."
+
+msgid "This mission has already been taken."
+msgstr "Essa missão já foi aceita por outra pessoa."
+
+msgid "Missing bank account information."
+msgstr "Faltando informação da conta bancária."
+
+msgid "This mission is not yet completed."
+msgstr "Essa missão ainda não está completada."
+
+msgid "Missing bank account balance."
+msgstr "Faltando o balanço da conta bancária."
+
+msgid "Invalid balance amount."
+msgstr "Quantia inválida."
+
+msgid "We have reasons to believe that the amount %s is invalid."
+msgstr "Nós temos motivos para acreditar que a quantia %s é incorreta."
+
+msgid "You can not accept this mission because you are in a different level."
+msgstr "Você não pode aceitar essa missão porque você está num nível diferente."
+
+msgid "You can not accept this mission because you already are in one."
+msgstr "Você não pode aceitar essa missão porque já está em uma."
+
+msgid "You can not abort this type of mission."
+msgstr "Você não pode abortar esse tipo de missão."
+
+msgid "This name is too damn big."
+msgstr "Esse nome é muito grande."
+
+msgid "Oh ho! Invalid "
+msgstr "Ah não! Inválido "
+
+msgid "This %s already got this name."
+msgstr "Esse %s já tem esse nome."
+
+msgid "server's"
+msgstr "servidor"
+
+msgid "external disk's"
+msgstr "disco externo"
+
+msgid "Current price does not match buy price. Please, try again."
+msgstr "Preço atual não bate com preço de compra. Por favor, tente de novo."
+
+msgid "This external disk does not exists."
+msgstr "Esse disco externo não existe."
+
+msgid "Invalid software ID."
+msgstr "ID de software inválida."
+
+msgid "You are not allowed to buy a license of this software."
+msgstr "Você não pode comprar uma licença desse software."
+
+msgid "You dont have enough money."
+msgstr "Você não tem dinheiro suficiente."
+
+msgid "Please insert a name for your software."
+msgstr "Por favor insira um nome pro seu software."
+
+msgid "Missing software name."
+msgstr "Faltando nome do software."
+
+msgid "Invalid software name. Allowed characters are <strong>azAZ09 _-</strong> startin with <strong>azAZ09</strong>."
+msgstr "Nome de software inválido. Caracteres permitidos são <strong>azAZ09 _-</strong> começando com <strong>azAZ09</strong>."
+
+msgid "You can not research this type of software."
+msgstr "Você não pode desenvolver esse tipo de software."
+
+msgid "Do not insert the extension on the software name."
+msgstr "Não insira a extensão do software no nome."
+
+msgid "Please insert a name for your text file."
+msgstr "Por favor insira um nome pro seu arquivo de texto."
+
+msgid "Invalid text-file name. Allowed are <strong>azAZ09- _</strong>, starting with <strong>azAZ09</strong>."
+msgstr "Nome de arquivo texto inválido. Caracteres permitidos são <strong>azAZ09 _-</strong> começando com <strong>azAZ09</strong>."
+
+msgid "Please insert a text for your text file."
+msgstr "Por favor insira um texto no seu arquivo de texto."
+
+msgid "Invalid file ID."
+msgstr "ID de arquivo inválida."
+
+msgid "There were no changes to the edited file."
+msgstr "Não houve alterações no arquivo editado."
+
+msgid "This text file does not exists."
+msgstr "Esse arquivo texto não existe."
+
+msgid "The folder name can't be empty."
+msgstr "O nome da pasta não pode estar vazio."
+
+msgid "Invalid folder name. Allowed characters are <strong>azAZ09- _</strong>, starting with <strong>azAZ09</strong>."
+msgstr "Nome da pasta inválido. Caracteres permitidos são <strong>azAZ09 _-</strong> começando com <strong>azAZ09</strong>."
+
+msgid "The folder already have this name."
+msgstr "Essa pasta já tem esse nome."
+
+msgid "This folder does not exists."
+msgstr "Essa pasta não existe."
+
+msgid "You are not connected to anyone."
+msgstr "Você não está conectado a ninguém."
+
+msgid "You do not have permission to delete this folder."
+msgstr "Você não tem permissões para deletar essa pasta."
+
+msgid "This folder have softwares that need to be deleted before."
+msgstr "Essa pasta tem softwares que precisam ser deletados antes."
+
+msgid "Missing fields."
+msgstr "Faltando campos."
+
+msgid "You are not logged in."
+msgstr "Você não está conectado."
+
+msgid "Invalid IP location."
+msgstr "Localização de IP inválida."
+
+msgid "Please select a software."
+msgstr "Por favor selecione um software."
+
+msgid "The software you are trying to move does not exists."
+msgstr "O software que você está tentando mover não existe."
+
+msgid "You cant move this kind of software."
+msgstr "Você não pode mover esse tipo de software."
+
+msgid "You cant move hidden software."
+msgstr "Você não pode mover softwares escondidos."
+
+msgid "You are not allowed to research this type of software."
+msgstr "Você não pode desenvolver esse tipo de software."
+
+msgid "Installed doom requires 500 MB of disk space."
+msgstr "O vírus doom, quando instalado, requer 500 MB de espaço em disco."
+
+msgid "You already have a Doom service running."
+msgstr "Você já tem um serviço Doom rodando."
+
+msgid "There already is a Doom running on your clan. Install it on your VPC or wait for its ending."
+msgstr "Já tem um Doom rodando no seu clan. Instale o vírus no seu computador ou espere o do seu clan acabar."
+
+msgid "Ops! We could not find this file :/ Please, try again in a few minutes."
+msgstr "Ops! Não conseguimos encontrar esse arquivo :/ Por favor, tente novamente em alguns minutos."
+
+msgid "Invalid POST data."
+msgstr "Dados de POST inválidos."
+
+msgid "You can not reset your password now."
+msgstr "Vocẽ não pode resetar sua senha agora."
+
+msgid "Not enough money."
+msgstr "Sem dinheiro suficiente."
+
+msgid "There already is a payment of yours being processed. For safety reasons we won't accept this new one. If you think this is an error, mail us at contact@hackerexperience.com"
+msgstr "Já existe um pagamento seu sendo processado. Por motivos de segurança não aceitaremos esse novo. Se você acha que é um erro, envie um email para contato@hackerexperience.com"
+
+msgid "Invalid request, please try again. (Your payment was not processed)"
+msgstr "Requisição inválida, por favor tente novamente. (Seu pagamento não foi processado)"
+
+msgid "Invalid plan, please try again. (Your payment was not processed)"
+msgstr "Plano inválido, por favor tente novamente. (Seu pagamento não foi processado)"
+
+msgid "One or more invalid data. Please, try again. (Your payment was not processed)"
+msgstr "Um ou mais dados inválidos. Por favor tente novamente. (Seu pagamento não foi processado)"
+
+msgid "The duration of your plan does not match the payment form. Please refresh the page and try again. (Your payment was not processed)"
+msgstr "A duração do seu plano não bate com o formulário de pagamento. Por favor, atualize a página e tente de novo. (Seu pagamento não foi processado)"
+
+msgid "Invalid price, please try again. (Your payment was not processed)"
+msgstr "Preço inválido, por favor tente novamente. (Seu pagamento não foi processado)"
+
+msgid "The price on your form is different from your plan price. Please, try again. (Your payment was not processed)"
+msgstr "O preço no formulário é diferente do preço do seu plano. Por favor, tente novamente. (Seu pagamento não foi processado)"
+
+msgid "Payment failed. Reason: %s. Please, try again."
+msgstr "Pagamento falhou. Motivo: %s. Por favor, tente novamente."
+
+msgid "Become a premium user to have access to this page."
+msgstr "Torne-se um usuário premium para ter acesso a essa página."
+
+msgid "Your premium payment is being processed. Check your email. Feel free to contact us if something is wrong."
+msgstr "Seu pagamento premium está sendo processado. Verifique seu email. Sinta-se livre pra entrar em contato conosco se algo estiver errado."
+
+msgid "This software does not exists anymore. The task was deleted."
+msgstr "Esse software não existe mais. A tarefa foi deletada."
+
+msgid "This software can not be uploaded."
+msgstr "Você não pode fazer upload desse software."
+
+msgid "You can not delete this software during the tutorial mission."
+msgstr "Você não pode deletar esse software durante a missão de tutorial."
+
+msgid "You cant hide a folder."
+msgstr "Você não pode esconder uma pasta."
+
+msgid "You already have this certification."
+msgstr "Você já tem essa certificação."
+
+msgid "You do not have the needed certifications to take this one."
+msgstr "Você não tem as certificações necessárias para tirar essa."
+
+msgid "You already bought this certification."
+msgstr "Você já comprou essa certificação."
+
+msgid "You are learning a different certification."
+msgstr "Você está aprendendo uma certificação diferente."
+
+msgid "You do not have enough money to buy this certification."
+msgstr "Você não tem dinheiro suficiente para comprar essa certificação."
+
+msgid "This server does not exists."
+msgstr "Esse servidor não existe."
+
+msgid "Invalid server ID."
+msgstr "ID do servidor inválida."
+
+msgid "Invalid plan."
+msgstr "Plano inválido."
+
+msgid "Insufficient disk space."
+msgstr "Espaço em disco insuficiente."
+
+msgid "You do not have an external hard drive. Buy one at the <a href=\"hardware?opt=xhd\">hardware store</a>."
+msgstr "Você não tem um disco rígido externo. Compre um na <a href=\"hardware?opt=xhd\">loja de hardware</a>."
+
+msgid "Sorry, this page isn't implemented yet."
+msgstr "Desculpa, essa página ainda não está implementada."
+
+msgid "Invalid get"
+msgstr "GET inválido."
+
+msgid "Invalid certification."
+msgstr "Certificação inválida."
+
+msgid "You are not learning any certification. Did you bought it?"
+msgstr "Você não está aprendendo nenhuma certificação. Você comprou?"
+
+msgid "You are busy learning this certification."
+msgstr "Você está ocupado aprendendo esta certificação."
+
+msgid "Some error happened."
+msgstr "Algum erro aconteceu."
+
+msgid "Invalid page number."
+msgstr "Número de página inválido."
+
+msgid "Ops! Wrong password."
+msgstr "Ops! Senha errada."
+
+msgid "You do not have permission to perform this."
+msgstr "Você não tem permissões para realizar essa ação."
+
+msgid "Cant find doom installer."
+msgstr "Não consigo encontrar o instalador do doom."
+
+msgid "You do not have a virus collector."
+msgstr "Você não tem um coletor de vírus."
+
+msgid "Downgrade hardware is not possible."
+msgstr "Não é possível fazer downgrade do seu hardware."
+
+msgid "This IP is not listed on your hacked database."
+msgstr "Esse IP não está listado no seu Banco de Dados."
+
+msgid "This IP is invalid."
+msgstr "Esse IP é inválido."
+
+msgid "Your external hd does not support this software."
+msgstr "Seu HD externo não suporta esse software."
+
+msgid "You do not have enough money to complete this action."
+msgstr "Você não tem dinheiro suficiente para completar essa ação."
+
+msgid "You do not have the license to research this software."
+msgstr "Você não tem a licença para desenvolver esse software."
+
+msgid "You do not have the needed certification in order to perform this action."
+msgstr "Você não tem a certificação necessária para realizar essa ação."
+
+msgid "This software is not installed."
+msgstr "Esse software não está instalado."
+
+msgid "You can not uninstall this software."
+msgstr "Você não pode desinstalar esse software."
+
+msgid "There isnt enough RAM to complete this action."
+msgstr "Não há RAM suficiente para completar essa ação."
+
+msgid "This software is already installed."
+msgstr "Esse software já está instalado."
+
+msgid "You already have installed a virus of this type on this computer."
+msgstr "Você já tem um vírus desse tipo instalado nesse computador."
+
+msgid "You have no seeker."
+msgstr "Você não tem nenhum seeker."
+
+msgid "You do not have this software."
+msgstr "Você não tem esse software."
+
+msgid "This software is hidden."
+msgstr "Esse software está escondido."
+
+msgid "You do not have the needed software to perform this action."
+msgstr "Vocẽ não tem o software necessário para realizar essa ação."
+
+msgid "Remote client does not have Nmap software."
+msgstr "Cliente remoto não tem um software Nmap."
+
+msgid "This IP is not a bank."
+msgstr "Esse IP não é de um banco."
+
+msgid "Well, you can not transfer money to yourself."
+msgstr "Bem, você não pode transferir dinheiro pra você mesmo."
+
+msgid "You are not logged into a bank account."
+msgstr "Você não está logado em uma conta bancária."
+
+msgid "Amount of money is zero."
+msgstr "Quantia de dinheiro é zero."
+
+msgid "Access denied: your cracker is not good enough."
+msgstr "Acesso negado: seu cracker não é bom o suficiente."
+
+msgid "You need more disk space in order to download this software."
+msgstr "Você precisa de mais espaço em disco para poder fazer download desse software."
+
+msgid "There is not enough disk space to upload this software."
+msgstr "Não há espaço em disco suficiente para você fazer upload desse software."
+
+msgid "The remote client already have this software."
+msgstr "O cliente remoto já tem esse software."
+
+msgid "Cant hide an installed software."
+msgstr "Não pode esconder um software que está instalado."
+
+msgid "Access denied: your software can not crack this account."
+msgstr "Acesso negado: seu software não pode invadir essa conta."
+
+msgid "You already have this account listed."
+msgstr "Você já tem essa conta listada."
+
+msgid "Access denied: your exploit is not good enough."
+msgstr "Acesso negado: seu exploit não é bom o suficiente."
+
+msgid "You do not have any running exploits."
+msgstr "Você não tem nenhum exploit rodando."
+
+msgid "You do not have a running FTP exploit."
+msgstr "Você não tem um exploit FTP rodando."
+
+msgid "You do not have a running SSH exploit."
+msgstr "Você não tem um exploit SSH rodando."
+
+msgid "You do not have any running scanner."
+msgstr "Você não tem nenhum scanner rodando."
+
+msgid "You can not reset your IP now."
+msgstr "Você não pode resetar seu IP agora."
+
+msgid "You can not change your password now."
+msgstr "Você não pode mudar sua senha agora."
+
+msgid "Can only install doom on your clan server."
+msgstr "Só pode instalar doom no seu clan server."
+
+msgid "This software is not on this folder."
+msgstr "Esse software não está nessa pasta."
+
+msgid "This software is already in a folder."
+msgstr "Esse software já está nessa pasta."
+
+msgid "Process not found."
+msgstr "Processo não encontrado."
+
+msgid "This process is already paused."
+msgstr "Esse processo já está pausado."
+
+msgid "This process is not paused."
+msgstr "Esse processo não está pausado."
+
+msgid "This process is already completed."
+msgstr "Esse processo já está completo."
+
+msgid "Oh no! This user has no friends :("
+msgstr "Ah não! Esse usuário não tem amigos :("
+
+msgid "This player have no badges."
+msgstr "Esse jogador não tem emblemas."
+
+msgid "Awarded %d time"
+msgid_plural "Awarded %d times"
+msgstr[0] "Recebeu %d vez"
+msgstr[1] "Recebeu %d vezes"
+
+msgid "Time playing"
+msgstr "Tempo jogado"
+
+msgid "Hack count"
+msgstr "Contagem de invasões"
+
+msgid "IP Resets"
+msgstr "Alterações de IP"
+
+msgid "Servers used to DDoS"
+msgstr "Servidores usados para DDoS"
+
+msgid "Spam sent"
+msgstr "Spam enviado"
+
+msgid "mails"
+msgstr "mensagens"
+
+msgid "Warez uploaded"
+msgstr "Warez enviado"
+
+msgid "Missions completed"
+msgstr "Missões completadas"
+
+msgid "Profile clicks"
+msgstr "Cliques no perfil"
+
+msgid "Money earned"
+msgstr "Dinheiro recebido"
+
+msgid "Money transfered"
+msgstr "Dinheiro transferido"
+
+msgid "Money spent on hardware"
+msgstr "Dinheiro gasto em hardware"
+
+msgid "Money spent on research"
+msgstr "Dinheiro gasto em desenvolvimento"
+
+msgid "Switch to All-Time stats"
+msgstr "Mostrar estátisticas de todos os rounds"
+
+msgid "Friends"
+msgstr "Amigos"
+
+msgid "Photo & Badges"
+msgstr "Foto e Emblemas"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+msgid "Moderator"
+msgstr "Moderador"
+
+msgid "Translator"
+msgstr "Tradutor"
+
+msgid "Beta Tester"
+msgstr ""
+
+msgid "Best Player"
+msgstr "Melhor jogador"
+
+msgid "Best player of the round."
+msgstr "Melhor jogador do round."
+
+msgid "Runner Up"
+msgstr "Vice campeão"
+
+msgid "Ranked #2 among all the players."
+msgstr "Rankeado #2 entre todos os jogadores."
+
+msgid "3rd placed"
+msgstr "Terceiro colocado"
+
+msgid "Ranked #3 among all the players."
+msgstr "Rankeado #3 entre todos os jogadores."
+
+msgid "Almost there"
+msgstr "Quase lá"
+
+msgid "Placed between the best 10 players of the round."
+msgstr "Posicionado entre os 10 melhores jogadores do round."
+
+msgid "Doom the World"
+msgstr "Doom neles"
+
+msgid "Doom the Internet"
+msgstr "Atacar a Internet"
+
+msgid "Player launched a doom attack."
+msgstr "Jogador lançou um ataque doom."
+
+msgid "Anti-Doom"
+msgstr "Anti-Doom"
+
+msgid "Player stopped a doom attack."
+msgstr "Jogador parou um ataque doom."
+
+msgid "DDoS"
+msgstr ""
+
+msgid "Player launched a DDoS attack."
+msgstr "Jogador lançou um ataque DDoS."
+
+msgid "Doom Master"
+msgstr "Mestre de Doom"
+
+msgid "Player's doom worked and nuked the Internet."
+msgstr "O doom lançado pelo jogador funcionou e acabou com a Internet."
+
+msgid "Go Multi"
+msgstr "Distribua-se"
+
+msgid "Player bought his second server."
+msgstr "Jogador comprou seu segundo servidor."
+
+msgid "Clock Maniac"
+msgstr "Maníaco por Clock"
+
+msgid "Player maxed server upgrades (of 1 or more servers)."
+msgstr "Jogador melhorou o servidor ao máximo (de 1 ou mais servidor)."
+
+msgid "Overclocker"
+msgstr ""
+
+msgid "Player maxed server upgrades (of all possible servers)."
+msgstr "Jogador melhorou os servidores ao máximo (de todos os servidores possíveis)."
+
+msgid "Storage Maniac"
+msgstr "Maníaco por Armazenamento"
+
+msgid "Player maxed out HDD upgrades (of all servers)."
+msgstr "Jogador melhorou seu HD ao máximo (de todos os servidores)."
+
+msgid "Processor maniac"
+msgstr "Maníaco por processador"
+
+msgid "Player maxed out CPU upgrades (of all servers)."
+msgstr "Jogador melhorou sua CPU ao máximo (de todos os servidores)."
+
+msgid "Memory Maniac"
+msgstr "Maníaco por Memória"
+
+msgid "Player maxed out RAM upgrades (of all servers)."
+msgstr "Jogador melhorou sua RAM ao máximo (de todos os servidores)."
+
+msgid "Internet Maniac"
+msgstr "Maníaco por Internet"
+
+msgid "Player maxed out internet upgrades."
+msgstr "Jogador melhorou sua internet ao máximo."
+
+msgid "Player have 100 or more IPs on Hacked Database."
+msgstr "Jogador tem 100 ou mais IPs no Banco de Dados."
+
+msgid "Player have 50 or more bank accounts on Hacked Database."
+msgstr "Jogador tem 50 ou mais contas bancárias no Banco de Dados."
+
+msgid "Worker"
+msgstr "Trabalhador"
+
+msgid "Player earned a total of $x on the round."
+msgstr "Jogador ganhou um total de $x no round."
+
+msgid "Workaholic"
+msgstr ""
+
+msgid "Player earned a total of $xx during the game history."
+msgstr "Jogador ganhou um total de $xx durante a história do jogo."
+
+msgid "Web Celeb"
+msgstr "Celebridade da Web"
+
+msgid "Player reached 1,000 profile clicks."
+msgstr "Jogador alcançou 1,000 cliques de perfil."
+
+msgid "Employee"
+msgstr "Empregado"
+
+msgid "Player completed a total of 50 missions on the round."
+msgstr "Jogador completou um total de 50 missões no round."
+
+msgid "I Can't Handle"
+msgstr "Não consegue né"
+
+msgid "Player reseted his IP over 20 times on the round."
+msgstr "Jogador alterou seu IP mais de 20 vezes no round."
+
+msgid "Addicted Player"
+msgstr "Jogador viciado"
+
+msgid "Player have a gameplay higher than 24 hours (on the round)."
+msgstr "Jogador tem um gameplay maior que 24 horas (no round)."
+
+msgid "Player have 10 friends."
+msgstr "Jogador tem 10 amigos."
+
+msgid "Go To Facebook"
+msgstr "Vá para o Facebook"
+
+msgid "Player have 30 friends."
+msgstr "Jogador tem 30 amigos."
+
+msgid "Badge Hunter"
+msgstr "Caçador de Emblemas"
+
+msgid "Player earned 30 badges."
+msgstr "Jogador ganhou 30 emblemas"
+
+msgid "Who Ate My RAM?"
+msgstr "Quem comeu minha RAM?"
+
+msgid "Player have 20 or more running softwares at the same time."
+msgstr "Jogador tem 20 ou mais softwares rodando ao mesmo tempo."
+
+msgid "Student"
+msgstr "Estudante"
+
+msgid "Player completed all certifications."
+msgstr "Jogador completou todas as certificações."
+
+msgid "DDoSer"
+msgstr "DDoSador"
+
+msgid "Player DDoSed a total of 100 times during the round."
+msgstr "Jogador DDoSou um total de 100 vezes durante o round."
+
+msgid "Player aborted 5 missions."
+msgstr "Jogador abortou 5 missões."
+
+msgid "Efficient"
+msgstr "Eficiente"
+
+msgid "After 10 missions, player have a completion rate higher than 95%."
+msgstr "Após 10 missões, jogador tem uma taxa de aproveitamento maior que 95%."
+
+msgid "Player was part of a Clan War."
+msgstr "Jogador fez parte de uma Guerra de Clans."
+
+msgid "War Lord"
+msgstr "Mestre da Guerra"
+
+msgid "Most influent player of a Clan War."
+msgstr "Jogador mais influente de uma Guerra de Clans."
+
+msgid "Dat Guy"
+msgstr "Aquele cara"
+
+msgid "Player started a Clan War."
+msgstr "Jogador começou uma Guerra de Clans."
+
+msgid "Talker"
+msgstr "Falador"
+
+msgid "Player sent over 100 mails duing the game history."
+msgstr "Jogador enviou mais de 100 emails durante a história do jogo."
+
+msgid "Famous"
+msgstr "Famoso"
+
+msgid "Player received over 100 mails during the game history."
+msgstr "Jogador recebeu mais de 100 emails durante a história do jogo."
+
+msgid "Researcher"
+msgstr "Pesquisador"
+
+msgid "Player researched over 50 times during the round."
+msgstr "Jogador desenvolveu mais de 50 vezes durante o round."
+
+msgid "Player have hacked 100 IPs on the round."
+msgstr "Jogador invadiu 100 IPs no round."
+
+msgid "What'ya doin'??"
+msgstr "Que cê tá fazendo?"
+
+msgid "Player have over 50 running tasks"
+msgstr "Jogador tem mais de 50 tarefas rodando"
+
+msgid "Player bought an External Hard Drive."
+msgstr "Jogador comprou um Disco Rígido Externo."
+
+msgid "Player had his name quoted on the news."
+msgstr "Jogador teve seu nome mencionado nas notícias."
+
+msgid "Best Software"
+msgstr "Melhor Software"
+
+msgid "Player had the best software of the round."
+msgstr "Jogador teve o melhor software do round."
+
+msgid "Runner up (software)"
+msgstr "Vice Campeão (software)"
+
+msgid "Ranked #2 among the best softwares of the round."
+msgstr "Rankeado #2 entre os melhores softwares do round."
+
+msgid "3rd placed (software)"
+msgstr "Terceiro colocado (software)"
+
+msgid "Ranked #3 among the best softwares of the round."
+msgstr "Rankeado #3 entre os melhores softwares do round."
+
+msgid "Almost There (software)"
+msgstr "Quase lá (software)"
+
+msgid "Player's software was among the top 10 softwares of the round."
+msgstr "Software do jogador esteve entre os 10 melhores softwares do round."
+
+msgid "Best DDoS"
+msgstr "Melhor DDoS"
+
+msgid "First placed on the DDoS ranking."
+msgstr "Jogador teve o melhor ataque DDoS do round."
+
+msgid "Runner up (DDoS)"
+msgstr "Vice Campeão (DDoS)"
+
+msgid "Ranked #2 among the best DDoS attacks of the round."
+msgstr "Rankeado #2 entre os melhores ataques DDoS do round."
+
+msgid "3rd placed (DDoS)"
+msgstr "Terceiro colocado (DDoS)"
+
+msgid "Ranked #3 among the best DDoS attacks of the round."
+msgstr "Rankeado #3 entre os melhores ataques DDoS do round."
+
+msgid "Almost There (DDoS)"
+msgstr "Quase lá (DDoS)"
+
+msgid "Player's DDoS attack was among the top 10 attacks of the round."
+msgstr "Ataque DDoS do jogador esteve entre os 10 melhores ataques do round."
+
+msgid "Donator"
+msgstr "Doador"
+
+msgid "Player donated to the game at least once, with his premium membership being expired."
+msgstr "Jogador doou pro jogo pelo menos uma vez, com sua conta premium tendo expirado."
+
+msgid "Best Clan"
+msgstr "Melhor Clan"
+
+msgid "Best clan of the round."
+msgstr "Melhor clan do round."
+
+msgid "Runner up"
+msgstr "Vice Campeão"
+
+msgid "Ranked #2 among the best clans of the round."
+msgstr "Rankeado #2 entre os melhores clans do round."
+
+msgid "Ranked #3 among the best clans of the round."
+msgstr "Rankeado #3 entre os melhores clans do round."
+
+msgid "Almost There"
+msgstr "Quase lá"
+
+msgid "Clan was among the top 10 of the round."
+msgstr "Clan esteve entre os 10 melhores do round."
+
+msgid "Bad Ass"
+msgstr "Fodão"
+
+msgid "Clan won a clan war"
+msgstr "Clan venceu uma Guerra de Clans"
+
+msgid "Buy Clan"
+msgstr "Comprar Clan"
+
+msgid "Tag"
+msgstr "Abreviação"
+
+msgid "Account"
+msgstr "Conta"
+
+msgid "My clan"
+msgstr "Meu clan"
+
+msgid "Create clan"
+msgstr "Criar clan"
+
+msgid "Admin"
+msgstr "Administração"
+
+msgid "Clan settings"
+msgstr "Configurações do clan"
+
+msgid "Clan war"
+msgstr "Guerra de Clans"
+
+msgid "Clan ranking"
+msgstr "Ranking de clans"
+
+msgid "Search clan"
+msgstr "Procurar clan"
+
+msgid "War points"
+msgstr "Pontos de guerra"
+
+msgid "Member since"
+msgstr "Membro desde"
+
+msgid "Coming soon"
+msgstr "Em breve"
+
+msgid " days ago"
+msgstr " dias atrás"
+
+msgid "Today"
+msgstr "Hoje"
+
+msgid "Yesterday"
+msgstr "Ontem"
+
+msgid "You can not delete your clan while there are other members than you"
+msgstr "Você não pode deletar seu clan enquanto existir outros membros além de você"
+
+msgid "I am sorry but this feature is not yet implemented. Please contact us if you wish to delete (or leave) your clan. Send an in-game mail to renato or post on the forums"
+msgstr "Lamento, mas essa opção ainda não está implementada. Por favor entre em contato conosco se você deseja deletar (ou sair do) seu clan. Envie um email no jogo para renato ou poste nos fóruns."
+
+msgid "Back"
+msgstr "Voltar"
+
+msgid "Back to administration panel"
+msgstr "Voltar para o painel de administração"
+
+msgid "Member management list"
+msgstr "Lista de gerenciamento de membros"
+
+msgid "Please specify the reason to kick"
+msgstr "Por favor especifique o motivo para kickar"
+
+msgid "Join request"
+msgstr "Pedido para participar do clan"
+
+msgid "I'll decide later"
+msgstr "Decidir mais tarde"
+
+msgid "Approve"
+msgstr "Aprovar"
+
+msgid "Reject"
+msgstr "Rejeitar"
+
+msgid "Are you sure you want to <strong>reject</strong> this request?"
+msgstr "Você tem certeza que quer <strong>rejeitar</strong> esse pedido?"
+
+msgid "Yes, reject"
+msgstr "Sim porra"
+
+msgid "No, go back."
+msgstr "Não, voltar."
+
+msgid "Kick player"
+msgstr "Kickar jogador"
+
+msgid "Are you sure you want to <strong>kick</strong> user %s from clan?"
+msgstr "Você tem certeza que <strong>kickar</strong> o usuário %s do clan?"
+
+msgid "Yes, kick"
+msgstr "Sim, kick"
+
+msgid "Asked by"
+msgstr "Pedido por"
+
+msgid "on "
+msgstr "em "
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "Clan description"
+msgstr "Descrição do clan"
+
+msgid "Edit clan description"
+msgstr "Editar descrição do clan"
+	
+msgid "Save "
+msgstr "Salvar"
+
+msgid "Manage members"
+msgstr "Gerenciar membros"
+
+msgid "Member list of "
+msgstr "Lista de membros de "
+
+msgid "Member"
+msgstr "Membro"
+
+msgid "Date joined"
+msgstr "Data de entrada"
+
+msgid "Manage"
+msgstr "Gerenciar"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "Join Clan"
+msgstr "Participar do Clan"
+
+msgid "You cant join because you have pending requests"
+msgstr "Você não pode entrar porque tem pedidos de participação pendentes."
+
+msgid "Go to server"
+msgstr "Ir para servidor"
+
+msgid "Go to forum"
+msgstr "Ir para fórum"
+
+msgid "View members"
+msgstr "Ver membros"
+
+msgid "Pending request"
+msgstr "Pedido pendente"
+
+msgid "Join "
+msgstr "Participar de "
+
+msgid "delete"
+msgstr "deletar"
+
+msgid "Join requests"
+msgstr "Pedidos de participação"
+
+msgid "No requests ATM."
+msgstr "Sem pedidos no momento."
+
+msgid " ago"
+msgstr " atrás"
+
+msgid "Change clan image"
+msgstr "Alterar imagem do clan"
+
+msgid "Will replace current one"
+msgstr "Vai substituir a imagem atual"
+
+msgid "Upload"
+msgstr "Enviar"
+
+msgid "You dont have money to buy a clan server. You need $"
+msgstr "Você não tem dinheiro pra comprar um servidor de clan. Você precisa de $"
+
+msgid "Confirm buy clan"
+msgstr "Confirme a compra do clan"
+
+msgid "Yes, I want to create it."
+msgstr "Sim, eu quero comprar."
+
+msgid "Are you sure you want to create the clan %s for %s?"
+msgstr "Você tem certeza que quer comprar o clan %s por %s?"
+
+msgid "This action can not be undone."
+msgstr "Essa ação não pode ser desfeita."
+
+msgid "Leave clan"
+msgstr "Sair do clan"
+
+msgid "Reason (optional)"
+msgstr "Motivo (opcional)"
+
+msgid "Edit privileges"
+msgstr "Editar privilégios"
+
+msgid "Kick from clan"
+msgstr "Kickar do clan"
+
+msgid "Send message"
+msgstr "Enviar mensagem"
+
+msgid "View user profile"
+msgstr "Ver perfil do usuário"
+
+msgid "Search for a clan"
+msgstr "Procurar por um clan"
+
+msgid "Search"
+msgstr "Pesquisar"
+
+msgid "Enter clan name"
+msgstr "Insira nome do clan"
+
+msgid "Most viewed clans"
+msgstr "Clans mais visualizados"
+
+msgid "Showing results for"
+msgstr "Mostrando resultados para"
+
+msgid "Type at least two caracteres"
+msgstr "Insira pelo menos dois caracteres"
+
+msgid "members"
+msgstr "membros"
+
+msgid "No results found"
+msgstr "Nenhum resultado encontrado"
+
+msgid "War info"
+msgstr "Informações de guerra"
+
+msgid "We are in peace. For now."
+msgstr "Estamos em paz. Por enquanto."
+
+msgid "View history"
+msgstr "Ver histórico"
+
+msgid "War History"
+msgstr "Histórico de Guerras"
+
+msgid "Current round"
+msgstr "Round atual"
+
+msgid "Previous rounds"
+msgstr "Rounds anteriores"
+
+msgid " victory!"
+msgstr " vitória!"
+
+msgid " defeat!"
+msgstr " derrota!"
+
+msgid "Major "
+msgstr "Humilhante "
+
+msgid "<span class=\"green\">Major victory!</span>"
+msgstr "<span class=\"green\">Vitória humilhante!</span>"
+
+msgid "<span class=\"green\">Regular victory!</span>"
+msgstr "<span class=\"green\">Vitória normal!</span>"
+
+msgid "<span class=\"green\">Minor victory!</span>"
+msgstr "<span class=\"green\">Vitória apertada!</span>"
+
+msgid "<span class=\"red\">Major defeat!</span>"
+msgstr "<span class=\"red\">Derrota humilhante!</span>"
+
+msgid "<span class=\"red\">Regular defeat!</span>"
+msgstr "<span class=\"red\">Derrota normal!</span>"
+
+msgid "<span class=\"red\">Minor defeat!</span>"
+msgstr "<span class=\"red\">Derrota apertada!</span>"
+
+msgid "View wars from:"
+msgstr "Ver guerras de:"
+
+msgid "War log"
+msgstr "Log de guerra"
+
+msgid "This war log was not found. Please report to the administrator."
+msgstr "O log dessa guerra não foi encontrado. Por favor relate ao administrador."
+
+msgid "There are no wars logged in the last 30 days."
+msgstr "Não há guerras registradas nos últimos 30 dias."
+
+msgid "Recent wars"
+msgstr "Guerras recentes"
+
+msgid "No wars happening at the moment."
+msgstr "Nenhuma guerra acontecendo no momento."
+
+msgid "Wars happening now"
+msgstr "Guerras acontecendo agora"
+
+msgid "Select a round"
+msgstr "Selecione um round"
+
+msgid "Wars from previous rounds"
+msgstr "Guerras de rounds anteriores"
+
+msgid "Wars from round "
+msgstr "Guerras do round "
+
+msgid "No war recorded"
+msgstr "Nenhuma guerra registrada"
+
+msgid "Back to war panel"
+msgstr "Voltar para o painél das guerras"
+
+msgid "Back to history"
+msgstr "Voltar para histórico de guerras"
+
+msgid "1 day ago"
+msgstr "1 dia atrás"
+
+msgid "Now"
+msgstr "Agora"
+
+msgid "score"
+msgstr "pontuação"
+
+msgid "Current bounty"
+msgstr "Recompensa atual"
+
+msgid "Start date"
+msgstr "Data de início"
+
+msgid "End date"
+msgstr "Data de término"
+
+msgid "Members involved"
+msgstr "Membros envolvidos"
+
+msgid "Player"
+msgstr "Jogador"
+
+msgid "Ops! There are no war attacks yet."
+msgstr "Ops! Não há ataques ainda."
+
+msgid "Details"
+msgstr "Detalhes"
+
+msgid "Win / Loses"
+msgstr "Vitórias / Derrotas"
+
+msgid "Members"
+msgstr "Membros"
+
+msgid "Options"
+msgstr "Opções"
+
+msgid "Talk to Master"
+msgstr "Falar com Mestre"
+
+msgid "en:clans"
+msgstr "pt-br:clans"
+
+msgid "en"
+msgstr "pt-br"
+
+msgid "#external_hard_drive"
+msgstr "#disco_rigido_externo"
+
+msgid "#collecting_money"
+msgstr "#coletando_dinheiro"
+
+msgid "Wallet Information"
+msgstr "Informações da Carteira"
+
+msgid "Public address"
+msgstr "Endereço Público"
+
+msgid "Public Address"
+msgstr "Endereço Público"
+
+msgid "Total bitcoins"
+msgstr "Total de bitcoins"
+
+msgid "Access bank"
+msgstr "Acessar banco"
+
+msgid "Account Balance"
+msgstr "Balanço da Conta"
+
+msgid "BTC Wallet"
+msgstr "Carteira Bitcoin"
+
+msgid "Access Market"
+msgstr "Acessar Mercado"
+
+msgid "Bank Accounts"
+msgstr "Contas Bancárias"
+
+msgid "IP List"
+msgstr "Lista de IPs"
+
+msgid "Collect money"
+msgstr "Coletar dinheiro"
+
+msgid "IP %s isn't responding anymore."
+msgstr "O IP %s não está mais respondendo"
+
+msgid "IP %s changed password."
+msgstr "O IP %s mudou de senha."
+
+msgid "Virus %s isn't responding anymore from IP %s."
+msgstr "Vírus %s não está mais respondendo do IP %s."
+
+msgid "Notification"
+msgstr "Notificação"
+
+msgid "Launch DDoS attack"
+msgstr "Lançar ataque DDoS"
+
+msgid "<b>Atention:</b> Your IP will be logged on <b>all</b> servers used to DDoS."
+msgstr "<b>Atenção:</b> Seu IP será logado em <b>todos</b> os servidores usados no DDoS."
+
+msgid "You must have at least 3 DDoS virus running to perform an attack."
+msgstr "Você precisa ter pelo menos 3 vírus DDoS rodando para realizar um ataque."
+
+msgid "IP Address to DDoS"
+msgstr "Endereço IP para DDoSar"
+
+msgid "Launch DDoS!"
+msgstr "Lançar DDoS!"
+
+msgid "You need a DDoS Breaker in order to launch attacks."
+msgstr "Você precisa de um DDoS Breaker para poder lançar ataques."
+
+msgid "Running DDoS viruses"
+msgstr "Vírus DDoS rodando"
+
+msgid "You havent installed any DDoS Virus yet."
+msgstr "Você ainda não instalou nenhum vírus DDoS."
+
+msgid "on"
+msgstr "em"
+
+msgid " mailed "
+msgstr " enviou "
+
+msgid "</span> emails, generating "
+msgstr "</span> emails, gerando "
+
+msgid " sold "
+msgstr " vendeu "
+
+msgid " GB</span> of warez, generating "
+msgstr " GB</span> de warez, gerando "
+
+msgid " mined at a rate of "
+msgstr " minerou numa taxa de "
+
+msgid "</span> GH/s, generating "
+msgstr "</span> GH/s, gerando "
+
+msgid " and "
+msgstr " e "
+
+msgid " worked for <b>"
+msgstr " trabalhou por <b>"
+
+msgid "servers"
+msgstr "servidores"
+
+msgid " were ignored because didnt match minimum collect time."
+msgstr " foram ignorados porque não alcançaram o tempo mínimo exigido para coleta."
+
+msgid " were ignored because you do not have a .torrent."
+msgstr " foram ignorados porque você não tem um .torrent."
+
+msgid " were ignored because you do not have a bitcoin wallet."
+msgstr " foram ignorados porque você não tem uma carteira bitcoin."
+
+msgid "Collector bonus"
+msgstr "Bônus do Coletor"
+
+msgid "were transfered to"
+msgstr "foram transferidos para"
+
+msgid "Collect Information"
+msgstr "Informação de Coleta"
+
+msgid "Go back"
+msgstr "Voltar"
+
+msgid "Clear your logs"
+msgstr "Limpe seus logs"
+
+msgid "Last Collect Information"
+msgstr "Informação da Última Coleta"
+
+msgid "Collect my money"
+msgstr "Coletar meu dinheiro"
+
+msgid "Loading..."
+msgstr "Carregando..."
+
+msgid "Collect virus money"
+msgstr "Coletar dinheiro dos vírus"
+
+msgid "No running virus"
+msgstr "Nenhum vírus instalado"
+
+msgid "unknown"
+msgstr "desconhecido"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Change Virus"
+msgstr "Alterar Vírus"
+
+msgid "You do not have any IPs on your Hacked Database."
+msgstr "Você não tem nenhum IP no seu Banco de Dados."
+
+msgid "Inbox"
+msgstr "Caixa de Entrada"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "From"
+msgstr "De"
+
+msgid "Subject"
+msgstr "Assunto"
+
+msgid "Evil corp"
+msgstr "ec"
+
+msgid "Social Clan"
+msgstr "Clan Social"
+
+msgid "Clan news"
+msgstr "Notícias do Clan"
+
+msgid "Badge Advisor"
+msgstr "Assessor de Emblemas"
+
+msgid "You earned a new badge!"
+msgstr "Você ganhou um novo emblema!"
+
+msgid "Delete e-mail"
+msgstr "Remover e-mail"
+
+msgid "Ops! You have not received any email yet. :("
+msgstr "Ops! Você não recebeu nenhum email ainda. :("
+
+msgid "Outbox"
+msgstr "Caixa de Saída"
+
+msgid "To"
+msgstr "Para"
+
+msgid "You have not sent any emails yet."
+msgstr "Você ainda não enviou nenhum email."
+
+msgid "Completed missions"
+msgstr "Missões completas"
+
+msgid "Hirer"
+msgstr "Contratante"
+
+msgid "Reward"
+msgstr "Recompensa"
+
+msgid "Game news"
+msgstr "Notícias do jogo"
+
+msgid "Posted Date"
+msgstr "Data da Postagem"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "You havent hacked any bank account so far."
+msgstr "Você não invadiu nenhuma conta de banco até agora."
+
+msgid "Hacked Database IPs"
+msgstr "IPs no Banco de Dados"
+
+msgid "Clan Name"
+msgstr "Nome do Clan"
+
+msgid "Software Name"
+msgstr "Nome do Software"
+
+msgid "Servers used"
+msgstr "Servidores usados"
+
+msgid "Attacker"
+msgstr "Hacker"
+
+msgid "Victim"
+msgstr "Vítima"
+
+msgid "Next"
+msgstr "Próximo"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Software ranking"
+msgstr "Ranking de Software"
+
+msgid "DDoS Ranking"
+msgstr "Ranking de DDoS"
+
+msgid "User ranking"
+msgstr "Ranking de Usuários"
+
+msgid "View detailed Rank"
+msgstr "Ver ranking detalhado"
+
+msgid "New message"
+msgstr "Nova mensagem"
+
+msgid "Current Message"
+msgstr "Mensagem Atual"
+
+msgid "Compose new message"
+msgstr "Compor nova mensagem"
+
+msgid "Username or ID"
+msgstr "Usuário ou ID"
+
+msgid "Message"
+msgstr "Mensagem"
+
+msgid "Hide editor"
+msgstr "Esconder editor"
+
+msgid "Do not offend other players"
+msgstr "Não ofenda outros jogadores"
+
+msgid "Do not share IPs"
+msgstr "Não compartilhe IPs"
+
+msgid "Be nice"
+msgstr "Seja gentil"
+
+msgid "Rules"
+msgstr "Regras"
+
+msgid "Greetings, %s!<br/><br/>Thanks for trying out Hacker Experience, we are very excited to have you on board. Congratulations on completing the tutorial. It wasn't that hard, right? <br/><br/>There are <strong>a lot</strong> more things to do in the game, if you get stuck don't hesitate in talking to us.<br/><br/>The fastest way of getting help is posting at our <a href=\"http://forum.hackerexperience.com/\">community board</a>. We will happly guide you through the game. You can also find a great resource information on our <a href=\"http://wiki.hackerexperience.com/\">Wiki page</a>.<br/>Replying to this mail is another option. I'd be thrilled to talk to you :)<br/><br/>(By the way, I just sent you 1.337 BTC. You can see it on the Finances page. Enjoy!)<br/><br/>Pardon the pun, but we hope you have a great <i>experience</i> here!!<br/><br/>Happy hacking!<br/>Renato."
+msgstr "Saudações, %s!<br/><br/>Obrigado por testar Hacker Experience, estamos muito animados em ter você a bordo. Parabéns em completar o tutorial. Não foi tão difícil, certo? <br/><br/>Existem <strong>muitas</strong> outras coisas pra serem feitas no jogo, se você tiver alguma dificuldade não hesite em conversar conosco.<br/><br/>A forma mais rápida de arrumar ajuda é postando no nosso <a href=\"http://forum.hackerexperience.com/\">fórum</a>. Nós iremos alegremente guiá-lo pelo jogo. Você também pode encontrar uma ótima fonte de informações na nossa <a href=\"http://wiki.hackerexperience.com/\">Wiki</a>.<br/>Responder esse email é outra opção. Eu ficaria honrado em conversar com você :)<br/><br/>(Aliás, acabei de lhe enviar 1.337 BTC. Você pode ver mais detalhes na página de Finanças. Aproveite!)<br/><br/>Perdão pelo trocadilho, mas esperamos que você tenha uma ótima <i>experiência</i> por aqui!!<br/><br/>Boas invasões!<br/>Renato."
+
+msgid "Reply message to "
+msgstr "Responder mensagem para "
+
+msgid "Reply"
+msgstr "Responder"
+
+msgid "By"
+msgstr "Por"
+
+msgid "Nick"
+msgstr "Apelido"
+
+msgid "User information"
+msgstr "Informação de usuário"
+
+msgid "Address"
+msgstr "Endereço"
+
+msgid "Suspect until"
+msgstr "Suspeito até"
+
+msgid "Bounty"
+msgstr "Recompensa"
+
+msgid "Motivation"
+msgstr "Motivação"
+
+msgid "Global Domination"
+msgstr "Dominação Global"
+
+msgid "Global domination"
+msgstr "Dominação global"
+
+msgid "Available missions"
+msgstr "Missões disponíveis"
+
+msgid "Current mission"
+msgstr "Missão atual"
+
+msgid "No missions available at the moment."
+msgstr "Sem missões disponíveis no momento."
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "This mission is hidden."
+msgstr "Essa missão está oculta."
+
+msgid "Delete software"
+msgstr "Deletar software"
+
+msgid "Steal software"
+msgstr "Roubar software"
+
+msgid "Check bank status"
+msgstr "Verificar balanço bancário"
+
+msgid "Transfer money"
+msgstr "Transferir dinheiro"
+
+msgid "Destroy server"
+msgstr "Destruir servidor"
+
+msgid "Tutorial Mission"
+msgstr "Missão Tutorial"
+
+msgid "New missions"
+msgstr "Novas missões"
+
+msgid "New missions will be generated in %s minutes."
+msgstr "Novas missões serão geradas em %s minutos."
+
+msgid "Missions hidden"
+msgstr "Missões ocultas"
+
+msgid "missions were hidden because you do not have access to their hirers."
+msgstr "missões foram ocultas porque você não tem acesso aos seus contratantes."
+
+msgid "Mission Level"
+msgstr "Nível de Missão"
+
+msgid "Your current mission level is"
+msgstr "Seu nível atual de missão é"
+
+msgid "total"
+msgstr "total"
+
+msgid "Completed"
+msgstr "Completadas"
+
+msgid "Aborted"
+msgstr "Abortadas"
+
+msgid "Very Easy"
+msgstr "Muito Fácil"
+
+msgid "Easy"
+msgstr "Fácil"
+
+msgid "Medium"
+msgstr "Médio"
+
+msgid "Hard"
+msgstr "Difícil"
+
+msgid "Very hard"
+msgstr "Muito Difícil"
+
+msgid "Mission information"
+msgstr "Informações da missão"
+
+msgid "Unknown, f"
+msgstr "Desconhecida"
+
+msgid "Difficulty"
+msgstr "Dificuldade"
+
+msgid "Dear"
+msgstr "Caro"
+
+msgid " I have a job offer for you. I will hand you the details when you accept it. "
+msgstr " eu tenho uma oferta de trabalho pra você. Entregarei os detalhes da missão quando você aceitá-la. "
+
+msgid "You'll have %s when the job is done."
+msgstr "Você terá %s quando a missão for concluída."
+
+msgid "Accept mission"
+msgstr "Aceitar missão"
+
+msgid "You can not take this mission because you already are in one"
+msgstr "Vocẽ não pode pegar essa missão porque já está em uma."
+
+msgid "Hello there"
+msgstr "Olá"
+
+msgid "I am here representing"
+msgstr "Estou aqui representando"
+
+msgid "as a representative spokesperson of"
+msgstr "Como um porta-voz da "
+
+msgid "we from %s have a proposal for you."
+msgstr "nós da %s temos uma proposta pra você."
+
+msgid "I want you to access %s's%s servers and"
+msgstr "Eu quero que você acesse os servidores de %s%s e"
+
+msgid "I need you to hack into %s%s and"
+msgstr "Eu preciso que você invada a %s%s e"
+
+msgid "Your mission, choose you to accept it, is to access %s's%s servers and"
+msgstr "Sua missão, caso você decida aceitá-la, é acessar os servidores da %s%s e"
+
+msgid "You have to discover for us what %s%s is up to. Hack them and"
+msgstr "Você precisa descobrir o que a %s%s está tramando. Invada eles e"
+
+msgid "Complete the job and you will receive %s from us as a 'thank you'."
+msgstr "Complete o trabalho e você receberá %s de nós como 'agradecimento'."
+
+msgid "I am willing to offer you %s for this service."
+msgstr "Estou disposto a lhe oferecer %s por esse serviço."
+
+msgid "Their mainframe is located at"
+msgstr "O servidor principal deles está localizado em"
+
+msgid "You can find them on"
+msgstr "Você pode encontrá-los em"
+
+msgid "Ping them at"
+msgstr "Encontre eles em"
+
+msgid "Do it quietly, and remember: if you get caught, I dont know who you are."
+msgstr "Faça isso em silêncio, e lembre-se: se você for pego, eu não te conheço."
+
+msgid "We dont want hear our company name on the news, so do a good job."
+msgstr "Não queremos ouvir o nome da nossa empresa no noticiário, então faça um bom trabalho."
+
+msgid "We are watching your steps, dont try to screw on us."
+msgstr "Estamos vigiando seus passos, não tente nos enganar."
+
+msgid "delete the file"
+msgstr "delete o arquivo"
+
+msgid "remove the file"
+msgstr "remova o arquivo"
+
+msgid "wipe out the file"
+msgstr "suma com o arquivo"
+
+msgid "copy the file"
+msgstr "copie o arquivo"
+
+msgid "transfer the file"
+msgstr "transfira o arquivo"
+
+msgid "upload the file"
+msgstr "envie o arquivo"
+
+msgid "to our servers."
+msgstr "para nossos servidores."
+
+msgid "I need you to hack into bank account"
+msgstr "Preciso que você invada a conta "
+
+msgid "from"
+msgstr "de"
+
+msgid " and check it's total balance. This guy say they have no money, but I want to know for sure."
+msgstr " e verifique o balanço total da conta. Eles dizem que não têm dinheiro, mas eu quero ter certeza."
+
+msgid "Your mission, choose you to accept it, is to check the balance of account"
+msgstr "Sua missão, caso você decida aceitá-la, é verificar o balanço da conta"
+
+msgid " and report back to us. They claim they have no money, but we want to know for sure."
+msgstr " e informar a gente. Eles dizem que estão sem grana, mas queremos ter certeza disso."
+
+msgid " The account is located at bank"
+msgstr " A conta está localizada no bancos"
+
+msgid " and transfer the money to our account"
+msgstr " e transferir o dinheiro para nossa conta"
+
+msgid "Your mission, choose you to accept it, is to transfer all the money from bank account"
+msgstr "Sua missão, caso você decida aceitá-la, é transferir todo o dinheiro da conta"
+
+msgid " to"
+msgstr " para"
+
+msgid " And you got lucky: both accounts are at the same IP"
+msgstr " E você deu sorte: ambas as contas estão no mesmo IP"
+
+msgid " You can find the bank for both accounts here:"
+msgstr " Você pode encontrar o banco para as duas contas aqui:"
+
+msgid " The first account is located at bank"
+msgstr " A primeira conta está localizada no banco"
+
+msgid " and the second at"
+msgstr " e a segunda está em"
+
+msgid " We are worried with the quick growing of %s. We believe a little down time on their servers will be enough to slow them down."
+msgstr " Estamos preocupados com o rápido crescimento da %s. Nós acreditamos que um pouco de tempo offline nos servidores deles será suficiente para gerar prejuízos."
+
+msgid " Your mission is to DDoS'em and seize their hardware big time."
+msgstr " Sua missão é DDoSá-los e danificar o hardware deles ao máximo."
+
+msgid " The guys at %s are annoying us, so we need you to throw several DDoS attacks against them."
+msgstr " O pessoal da %s está nos importunando, então precisamos que você lance vários ataques DDoS contra eles."
+
+msgid " We are paying you big money, so your mission is to seize their hardware."
+msgstr " Estamos te pagando muito dinheiro, então sua missão é danificar o hardware deles ao máximo."
+
+msgid " retrieve the file <span class=\"red\">Users.dat</span> for us."
+msgstr " recupere o arquivo <span class=\"red\">Users.dat</span> para nós."
+
+msgid "Thats weird! Why is the file Users.dat not there? Please, check the log page."
+msgstr "Que estranho! Por que o arquivo Users.dat não está lá? Por favor, verifique os logs."
+
+msgid "Looks like someone knew we were going there and deleted the file before we could take a look at it. Too bad for him that you caught his IP address."
+msgstr "Parece que alguém sabia que íamos lá e deletou o arquivo antes que a gente pudesse acessá-lo. Uma pena que você pegou o IP dele."
+
+msgid " I sent you a virus. Go to %s and install <font color=\"red\">heartbleed.vspam</font> on his computer."
+msgstr " Eu lhe enviei um vírus. Vá para %s e instale o <span class\"red\">heartbleed.vspam</span> no computer dele."
+
+msgid "Balance of account"
+msgstr "Balanço da conta"
+
+msgid "Complete Mission"
+msgstr "Completar Missão"
+
+msgid "Abort"
+msgstr "Abortar"
+
+msgid "<b>Mission already taken</b>"
+msgstr "<b>Missão já foi pega</b>"
+
+msgid "This mission is already taken"
+msgstr "Essa missão já foi pega"
+
+msgid "Balance"
+msgstr "Balanço"
+
+msgid "File"
+msgstr "Arquivo"
+
+msgid "Bank Account"
+msgstr "Conta de Banco"
+
+msgid "Account From"
+msgstr "Conta de Origem"
+
+msgid "Account To"
+msgstr "Conta de Destino"
+
+msgid "NSA Defense"
+msgstr "Defesa da NSA"
+
+msgid "You havent completed any missions yet"
+msgstr "Você não completou nenhuma missão ainda"
+
+msgid "Abort Mission"
+msgstr "Abortar Missão"
+
+msgid "Are you sure you want to abort this misson?<br/><br/>You will lose %s of your reputation and pay a penalty of %s."
+msgstr "Tem certeza que quer abortar essa missão?<br/><br/>Você vai perder %s da sua reputação e pagar uma penalidade de %s."
+
+msgid "reward"
+msgstr "recompensa"
+
+msgid "Accept Mission"
+msgstr "Aceitar Missão"
+
+msgid "Are you sure you want to accept this mission?"
+msgstr "Você tem certeza de que quer aceitar essa missão?"
+
+msgid "Accept"
+msgstr "Aceitar"
+
+msgid "Congratulations, you completed the mission. Go to the %smission page%s to retrieve your reward."
+msgstr "Parabéns, você completou a missão. Vá para a %spágina de missões%s para receber sua recompensa."
+
+msgid "Mission completed"
+msgstr "Missão completa"
+
+msgid "Complete mission"
+msgstr "Completar missão"
+
+msgid "You completed the mission. Inform the account you want to add your %s. %s"
+msgstr "Você completou a missão. Informe a conta que gostaria de adicionar seus %s. %s"
+
+msgid "Account: "
+msgstr "Conta: "
+
+msgid "Transfer Money"
+msgstr "Transferir Dinheiro"
+
+msgid "Amount"
+msgstr "Quantia"
+
+msgid "IP of the receiver account"
+msgstr "IP da conta de destino"
+
+msgid "Bank IP"
+msgstr "IP do Banco"
+
+msgid "Transfer to..."
+msgstr "Transferir para..."
+
+msgid "Amount of money"
+msgstr "Quantidade de dinheiro"
+
+msgid "Close account"
+msgstr "Fechar conta"
+
+msgid "Other actions"
+msgstr "Outras ações"
+
+msgid "You are currently in a mission."
+msgstr "Você está atualmente em uma missão."
+
+msgid "Order refused"
+msgstr "Compra negada"
+
+msgid "Order confirmation"
+msgstr "Confirmação de compra"
+
+msgid "The credit card gateway did not inform a reason for the refusal."
+msgstr "A operadora de cartão de crédito não informou um motivo."
+
+msgid "Reason given by the credit card gateway"
+msgstr "Motivo dado pela operadora de cartão de crédito"
+
+msgid "Order in progress"
+msgstr "Compra em andamento"
+
+msgid "Hacker Experience email confirmation"
+msgstr "Email de confirmação"
+
+msgid "Proceed to "
+msgstr "Vá para "
+
+msgid "/var/www/ses/tpl/premium_refused.html"
+msgstr "/var/www/ses/tpl/premium_refused_br.html"
+
+msgid "/var/www/ses/tpl/premium_success.html"
+msgstr "/var/www/ses/tpl/premium_success_br.html"
+
+msgid "/var/www/ses/tpl/premium_waiting.html"
+msgstr "/var/www/ses/tpl/premium_waiting_br.html"
+
+msgid "/var/www/ses/tpl/verify.html"
+msgstr "/var/www/ses/tpl/verify_br.html"
+
+msgid "/var/www/ses/tpl/welcome.html"
+msgstr "/var/www/ses/tpl/welcome_br.html"
+
+msgid "We won the clan battle against "
+msgstr "Nós vencemos a guerra contra "
+
+msgid "We won the battle against "
+msgstr "Nós vencemos a guerra contra "
+
+msgid "You earned "
+msgstr "Você ganhou "
+
+msgid "Check our name at "
+msgstr "Olha o nosso nome "
+
+msgid "the news"
+msgstr "nas notícias"
+
+msgid "Congratulations."
+msgstr "Parabéns."
+
+msgid "Hello, "
+msgstr "Olá, "
+
+msgid "We from FBI appreciate you taking down hacker "
+msgstr "Nós do FBI apreciamos o fato de você ter derrubado o hacker "
+
+msgid "As a thank you, please receive this bounty of"
+msgstr "Como agradecimento, por favor receba essa recompensa no valor de"
+
+msgid "Doom the world"
+msgstr "É hora de doom"
+
+msgid "Hello "
+msgstr "Olá "
+
+msgid "Remember me?"
+msgstr "Lembra-se de mim?"
+
+msgid "Safenet is tracking you."
+msgstr "Safenet está atrás de você."
+
+msgid "We are tracking you for this recent transfer of $"
+msgstr "Estamos te rastreando devido a essa recente transferência de $"
+
+msgid "We are tracking you for your recent doom activity"
+msgstr "Estamos te rastreando devido à sua recente atividade de doom"
+
+msgid "We are tracking you for your recent "
+msgstr "Estamos te rastreando devido a esse recente ataque DDoS de "
+
+msgid " Gbps DDoS attack."
+msgstr " Gbps."
+
+msgid "Bounty increased."
+msgstr "Sua recompensa aumentou."
+
+msgid "Your bounty has increased. We want you so bad."
+msgstr "Sua recompensa aumentou. Estamos na sua cola."
+
+msgid "FBI suspect"
+msgstr "Suspeito do FBI"
+
+msgid "Hey bitch, FBI is now looking for you. Take care and expect attacks."
+msgstr "Hey vadia, o FBI está à sua procura. Tome cuidado e espere por ataques."
+
+msgid "Doom the world!"
+msgstr "A caminho do doom!"
+
+msgid "</strong>,<br/><br/>I'm Ensei Tankado, CEO of Numataka Corporation, and I'm the guy who sponsored your equipment.<br/><br/>You might have heard of the recent leak of former NSA employee Edward Snowden, right? Well, the guy said the agency holds an extremely powerful virus that easily spreads through the network.<br/>The Doom Virus, as it was named, was the result of a banned experiment from Geek Pride Labs.<br/>This virus, if correctly setup, can hold the entire Internet as hostage of one single server.<br/><br/>He also said that they use a fork of this virus to spy on every user of the world.<br/><br/>Funny story, everyone is blaming the NSA for spying, but no one sees the potential of the original Doom Virus.<br/><br/>Well, I think you know why we hired you now. No one was able to hack the NSA - <em>until now</em>.<br/><br/>Keep researching your softwares, and good luck on your duty. You are not the only one after the virus.<br/><br/>By the way, I have an unattended job here, hope you don't mind but I assigned it to you.<br/><br/><br/>Sincerely,<br/>Ensei Tankado."
+msgstr "</strong>,<br/><br/>Eu sou Ensei Tankado, CEO da Numataka Corporation, e sou o cara que patrocinou seu equipamento.<br/><br/>Você deve ter ouvido falar do recente vazamento de informações do ex-funcionário da NSA Edward Snowden, certo? Bem, ele comentou que a agência tem controle de um vírus extremamente poderoso que facilmente se prolifera pela rede.<br/>O Vírus Doom, como foi chamado, foi o resultado de um experimento proibido e secreto da Geek Pride Labs.<br/>Esse vírus, se corretamente instalado, pode manter a Internet inteira como refém de um único servidor.<br/><br/>Ele também disse que a NSA usa uma versão modificada desse vírus para espionar em todos os computadores do mundo.<br/><br/>Engraçado, todo mundo está culpando a NSA pela espionagem, mas ninguém percebe o potencial do vírus doom original.<br/><br/>Bem, acho que você sabe agora por que nós o contratamos. Ninguém conseguiu invadir a NSA - <em>até agora</em>.<br/><br/>Continue desenvolvendo seus softwares, e boa sorte lá fora. Você não é o único atrás desse vírus.<br/><br/>Aliás, eu tenho um trabalho sobrando por aqui, espero que não se importe mas enviei pra você.<br/><br/><br/>Atenciosamente,<br/>Ensei Tankado."
+
+msgid "Hack the NSA"
+msgstr "Invadir a NSA"
+
+msgid "Hello there, %s. You earned a new badge named <strong>%s</strong>, go check it in <a href=\"profile\">your profile</a>.<br/>"
+msgstr "Olá, %s. Você ganhou um novo emblema chamado <strong>%s</strong>, você pode vê-lo no <a href=\"profile\">seu perfil</a>.<br/>"
+
+msgid "Feel special: you are the first player to receive this badge! "
+msgstr "Sinta-se especial: você é o primeiro jogador a receber esse emblema! "
+
+msgid "Only one other player received this badge. "
+msgstr "Somente um outro jogador recebeu esse emblema. "
+
+msgid "Other %i players received this badge. "
+msgstr "Outros %i jogadores já receberam esse emblema. "
+
+msgid "Enjoy your first badge :)"
+msgstr "Curta seu primeiro emblema :)"
+
+msgid "You now have a total of <strong>%s</strong> badges."
+msgstr "Você agora tem um total de <strong>%s</strong> emblemas."
+
+msgid " of "
+msgstr " de "
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "XHD usage"
+msgstr "Uso do HD Externo"
+
+msgid "You do not have any software on your external HD. Use the sidebar to upload."
+msgstr "Você não tem nenhum software no seu HD externo. Use a barra lateral para fazer upload."
+
+msgid "You have already completed this certification."
+msgstr "Você já completou essa certificação."
+
+msgid "%sCongratulations!%s You have completed all certifications.%s"
+msgstr "%sParabéns!%s Você completou todas as certificações.%s"
+
+msgid "Completed "
+msgstr "Completada"
+
+msgid "This means you need to take another certification before doing this one."
+msgstr "Isso significa que você precisa completar outra certificação antes de fazer essa."
+
+msgid "Get certified (free)"
+msgstr "Certifique-se (grátis)"
+
+msgid "Get certified for $"
+msgstr "Certifique-se por $"
+
+msgid "%sThis certification is locked."
+msgstr "%sEssa certificação está bloqueada."
+
+msgid "Basic Tutorial"
+msgstr "Tutorial Básico"
+
+msgid "Hacking 101"
+msgstr "Princípios de Hacking"
+
+msgid "Learn the basics of hacking."
+msgstr "Aprenda os fundamentos de hacking."
+
+msgid "Intermediate Hacking"
+msgstr "Invasões - Nível médio"
+
+msgid "Improve your hacking techniques."
+msgstr "Melhore suas técnicas de invasões."
+
+msgid "Game basics."
+msgstr "Elementos básicos do jogo."
+
+msgid "Advanced Hacking"
+msgstr "Hacking avançado"
+
+msgid "Meet the wonders of DDoS world."
+msgstr "Conheça as maravilhas do mundo DDoS."
+
+msgid "DDoS Security"
+msgstr "Segurança DDoS"
+
+msgid "Learn to protect yourself from DDoS."
+msgstr "Aprenda a se proteger de ataques DDoS."
+
+msgid "Are you sure you want to buy the certification %s for %s?"
+msgstr "Tem certeza que quer comprar a certificação %s por %s?"
+
+msgid "Buy certification"
+msgstr "Comprar certificação"
+
+msgid "Learning"
+msgstr "Aprendendo"
+
+msgid "Take certification"
+msgstr "Iniciar certificação"
+
+msgid "Hey there. Now that you know your way around brute-forcing servers, why not learn a new attacking method, huh?"
+msgstr "Olá. Agora que você já está dominando como invadir servidores pelo método força-bruta, vamos aprender um novo método de ataque."
+
+msgid "On this certification you will also learn how to hack a bank account. It's quite easy."
+msgstr "Nessa certificação você também irá aprender a invadir contas de banco. É bastante fácil."
+
+msgid "Let's start with the new method first. It is called <em>exploit attack</em>."
+msgstr "Vamos começar com o novo método primeiro. Ele se chama <em>ataque exploit</em>."
+
+msgid "Every online server have a few essential services running. Two of them are <em>SSH</em> and <em>FTP</em> services. Each one has it's own function, as described below."
+msgstr "Todo servidor online tem alguns serviços essenciais rodando. Os principais serviços são <em>SSH</em> e <em>FTP</em>. Cada um tem sua própria função, conforme descrito abaixo."
+
+msgid "As the attack name says, you will exploit possible vulnerabilities of these services."
+msgstr "Como o nome do ataque diz, você irá explorar (exploit) vulnerabilidades desses serviços."
+
+msgid "FTP Service"
+msgstr "Serviço FTP"
+
+msgid "The FTP (File Transfer Protocol) is responsible for transferring files. In other words, you are using FTP when downloading or uploading files."
+msgstr "O FTP (File Transfer Protocol) é responsável por transferir arquivos. Em outras palavras, você está usando FTP quando faz download ou upload de arquivos."
+
+msgid "Exploit this service and you will be able to download and upload files to the victim."
+msgstr "Explore esse serviço e você irá conseguir fazer download e upload de arquivos na vítima."
+
+msgid "SSH Service"
+msgstr "Serviço SSH"
+
+msgid "The SSH service, as known as Secure Shell, is a remote command-line and command execution service. It allows you to perform CPU-related actions."
+msgstr "O serviço SSH, também conhecido como Secure Shell, é um serviço de execução remota de comandos. Ele permite que você realize ações relacionadas à CPU."
+
+msgid "Exploit this service and you will be able to (un)install, (un)hide and delete files."
+msgstr "Explore esse serviço e você estará apto a (des)instalar, (des)esconder e deletar arquivos."
+
+msgid "The hacking math is simple here too. You will attack the victim using <em>exploit</em> softwares (one for each service), and the victim will defend using a <em>firewall</em>. If the exploit  version is greater than or equal to the firewall's version, you are in."
+msgstr "A matemática de invasão é simples aqui também. Você vai atacar a vítima usando softwares <em>exploit</em> (um para cada serviço), e a vítima irá se defender usando um <em>firewall</em>. Se a versão do seu exploit for maior que, ou igual, à versão do firewall da vítima, você está dentro."
+
+msgid "There is a third software, though: the <em>port scanner</em>. It will tell you if the victim is vulnerable to your exploits."
+msgstr "Há um terceiro software, entretanto: o <em>port scanner</em>. Ele irá informar se a vítima está vulnerável a seus exploits."
+
+msgid "Just a few more notes:"
+msgstr "Apenas mais alguns detalhes:"
+
+msgid "You can exploit more than one service at the same time, if the victim is vulnerable. In this case, you will login as root and have full permissions."
+msgstr "Você pode explorar mais de um serviço ao mesmo tempo, caso a vítima esteja vulnerável. Nesse caso, você irá entrar como usuário root e ter permissões totais."
+
+msgid "Regardless of your permissions, you will always be able to read and edit the log file."
+msgstr "Independente das suas permissões, você sempre poderá ler e editar o Log de Dados."
+
+msgid "If one of your exploits (or both) stop working, your permissions will be downgraded and/or you will be disconnected."
+msgstr "Se algum dos seus exploits (ou ambos) pararem de funcionar, suas permissões serão reduzidas e/ou você será desconectado."
+
+msgid "You can see your exploited servers on the Hacked Database."
+msgstr "Você pode ver os servidores que você explorou no Banco de Dados."
+
+msgid "Ok. What about the bank?"
+msgstr "Certo. E em relação ao banco?"
+
+msgid "Let's hack a bank! Now shit just got real. It's quite simple, tough."
+msgstr "Vamos invadir um banco! Agora a porra ficou séria. Mas é bastante simples."
+
+msgid "As you might have noted, you have a bank account. This account have a six-digit number and is related to a bank. It also have a password."
+msgstr "Como você já deve ter percebido, você tem uma conta bancária. Essa conta tem um número de seis dígitos que está ligado a um banco. Ela também tem uma senha."
+
+msgid "You can login to your account by going to your bank, inserting the number and password and pressing enter."
+msgstr "Você pode logar na sua conta acessando seu banco, inserindo o número e senha da sua conta e pressionando enter."
+
+msgid "Cracking a bank account is as simple as cracking a server password. You will only need the account number, which you will eventually get from someone's log."
+msgstr "Invadir uma conta de banco é tão simples quanto descobrir a senha de um servidor. Você somente irá precisar do número da conta, que você pode eventualmente achar no log de alguém."
+
+msgid "In order to find it's password, you will use the <em>cracker software</em>, the same you use to brute-force servers."
+msgstr "Para poder encontrar a senha da conta, você irá usar o <em>software cracker</em>, o mesmo que você usa para invadir servidores."
+
+msgid "If your cracker version is greater than or equal to the <em>bank's</em> password hash version, than you will be able to crack the account."
+msgstr "Se a versão do seu cracker for maior que, ou igual, à versão do password hash <em>do banco</em>, então você poderá crackear a conta."
+
+msgid "That's it. Simple, right? But this isn't the hard part."
+msgstr "Só isso. Simples, certo? Mas essa não é a parte difícil."
+
+msgid "Every time you login to an account, it's number will be stored on the bank's log file (and yours, of course)."
+msgstr "Toda vez que você entra numa conta, o número dela e seu IP serão salvos no Log de Dados do banco (e no seu, claro)."
+
+msgid "Money transfers are logged too. If you are transferring money from accounts located in different banks, the transaction details will be logged on <b>both</b> banks."
+msgstr "Transferências de dinheiro são logadas também. Se você transferir dinheiro de contas localizadas em bancos diferentes, os detalhes da transação serão salvos em <b>ambos</b> os bancos."
+
+msgid "Please note:"
+msgstr "Por favor note:"
+
+msgid "When hacking an account, you won't have access to the bank server. Hack the bank server if you want so."
+msgstr "Quando você invadir uma conta, você não ganhará acesso ao servidor do banco. Invada o servidor separadamente."
+
+msgid "You can login to a bank account and then login to the bank server. You can't login first on the bank and then on the account."
+msgstr "Você pode logar numa conta e então no servidor do banco. Você não pode entrar primeiro no servidor e depois na conta."
+
+msgid "First of all, congratulations, not everyone reaches this point (:"
+msgstr "Antes de tudo, parabéns, não é todo mundo que chega até aqui (:"
+
+msgid "Let me introduce you the <strong>DDoS</strong> (<em>Distributed Denial of Service</em>)."
+msgstr "Permita-me lhe apresentar o <strong>DDoS</strong> (<em>Negação Distribuída de Serviço</em>, ou <em>Distributed Denial of Service</em>)."
+
+msgid "A DDoS attack is an attempt to overload the victim's servers by exhausting it's resources."
+msgstr "Um ataque DDoS é uma tentativa de sobrecarregar o servidor da vítima através da exaustão de seus recursos."
+
+msgid "Imagine thousands of computers connecting at the same time on a single server. That's a DDoS attack."
+msgstr "Imagine milhares de computadores conectando-se ao mesmo tempo em um único servidor. Isso é um ataque DDoS."
+
+msgid "You can perform DDoS attacks on this game, with the intent of disabling the victim's service (i.e., the server gets offline)."
+msgstr "Você pode realizar ataques DDoS nesse jogo, com o intuito de desabilitar o serviço da vítima (isto é, o servidor fica indisponível)."
+
+msgid "A DDoS attack will also damage the victim's hardware. The damage inflict depends of the attack power."
+msgstr "Um ataque DDoS também irá danificar o hardware da vítima. O dano total depende da força do ataque."
+
+msgid "Got it. How do I perform an attack?"
+msgstr "Saquei. Como eu realizo um ataque?"
+
+msgid "Performing a DDoS Attack"
+msgstr "Realizando um ataque DDoS"
+
+msgid "Here is how you do it. You will install the <em>DDoS virus</em> on as many computers as you can."
+msgstr "Vamos lá. Para realizar um ataque, você vai instalar o <em>Vírus DDoS</em> no máximo de computadores que você puder."
+
+msgid "The more servers with the DDoS virus installed you have, more powerful your attack will be."
+msgstr "Quanto mais servidores você tiver o vírus DDoS instalado, mais poderoso será seu ataque."
+
+msgid "After having at least three running DDoS viruses, you must launch the DDoS attack against the victim."
+msgstr "Após ter pelo menos 3 vírus DDoS rodando, você deve lançar o ataque DDoS contra a vítima."
+
+msgid "In order to do that, you need a <em>DDoS Breaker</em> software."
+msgstr "Para poder fazer isso, você precisa de um <em>DDoS Breaker</em>."
+
+msgid "That's it. Insert the target IP on the DDoS breaker and wait until the attack is completed."
+msgstr "Só isso. Insira o IP do alvo no DDoS Breaker e espere até que o ataque seja realizado."
+
+msgid "A few considerations:"
+msgstr "Algumas considerações:"
+
+msgid "You need to have the target server on your Hacked Database."
+msgstr "Você precisa ter o servidor alvo no seu Banco de Dados."
+
+msgid "You need to have at least three running viruses."
+msgstr "Você precisa ter pelo menos três vírus DDoS rodando."
+
+msgid "The power of an attack depends, mainly, on the total CPU power of all servers running the viruses."
+msgstr "A força do ataque depende, principalmente, do total de CPU dos servidores rodando o vírus."
+
+msgid "When an attack is launched, the DDoS logs will be on the target computer and <em>every</em> server with a DDoS virus."
+msgstr "Quando um ataque é lançado, os logs do DDoS serão salvos no computador da vítima e em <em>todos</em> os servers com um Vírus DDoS."
+
+msgid "Your DDoS attack will only damage the target hardware if a minimum power is achieved."
+msgstr "Seu ataque DDoS somente irá danificar o hardware da vítima se uma força mínima for alcançada."
+
+msgid "It is recommended that you have at least 5 powerful servers."
+msgstr "Recomenda-se pelo menos 5 servidores potentes."
+
+msgid "The victim is said <em>seized</em> if you manage to reduce her hardware to the minimal configuration possible."
+msgstr "A vítima é dita <em>minimizada</em> (seized) se você conseguir reduzir o hardware dela à mínima configuração possível."
+
+msgid "Be careful when repeatedly attacking someone, though. The Safenet and the FBI tracks powerful attacks."
+msgstr "Tome cuidado ao atacar alguém repetidamente. A Safenet e o FBI rastream ataques potentes."
+
+msgid "You might have already noticed the FBI and the Safenet systems. Let me briefly explain them for you."
+msgstr "Você já deve ter percebido a existência do FBI e da Safenet. Deixe-me rapidamente explicá-los pra você."
+
+msgid "In face of the recent rise of cyber crimes, the FBI started tracking more and more hackers and also launched a new service, the Safenet."
+msgstr "Em razão do aumento de cyber crimes, o FBI começou a rastrear mais e mais hackers e também lançou um novo serviço, a Safenet."
+
+msgid "Both the FBI and the Safenet tracks the Internet looking for suspicious and illegal activities."
+msgstr "Ambos o FBI e a Safenet rastream a internet procurando por atividades suspeitas e ilegais."
+
+msgid "These include DDoS attacks, illegal money transfers, server hacking and the installation of viruses."
+msgstr "Essas atividades incluem ataques DDoS, transferências ilegais de dinheiro, invasão de servidores e a instalação de vírus."
+
+msgid "The Safenet, however, tracks first-time criminals and small offenses."
+msgstr "A Safenet, entretanto, rastrea hackers de primeira incidência e pequenos crimes."
+
+msgid "The criminal IP address is partially listed on their site, and if an attack happens again, he/she is \"promoted\" to the FBI system."
+msgstr "O IP do hacker é parciamente listado no site da Safenet, e se um ataque acontecer novamente, ele é \"promovido\" para o sistema do FBI."
+
+msgid "On the FBI system, the offender's IP address is publicly listed and a reward is offered."
+msgstr "No sistema do FBI, o endereço IP do delinquente é publicamente listado e uma recompensa é oferecida."
+
+msgid "It's not a good idea to be caught by the FBI because many people will try to attack you to get the reward."
+msgstr "Não é uma boa ideia ser pego pelo FBI porque muitas pessoas irão tentar atacá-lo para receber a recompensa."
+
+msgid "(In order to earn the reward, someone must DDoS and seize the criminal server)."
+msgstr "(Para poder receber a recompensa, alguém deve DDoSar e minimizar o servidor do hacker)."
+
+msgid "Ah, and look out! Very powerful attacks can get you straight to the FBI system."
+msgstr "Ah, mas cuidado! Ataques muito poderosos podem levá-lo diretamente ao sistema do FBI."
+
+msgid "Attacking wanted FBI criminals is a nice (but dangerous) way to earn some cash."
+msgstr "Atacar criminosos procurados pelo FBI é uma bela (mas perigosa) forma de ganhar dinheiro."
+
+msgid "Mitigating DDoS attacks"
+msgstr "Mitigando ataques DDoS"
+
+msgid "Well, you probably want a way to lower DDoS damages on your server, right?"
+msgstr "Bem, você provavelmente quer uma forma de minimizar os danos de ataques DDoS no seu servidor, certo?"
+
+msgid "Look no further. Here is how."
+msgstr "Você achou a solução! Faça o seguinte."
+
+msgid "You can use your firewall to mitigate a DDoS attack. Your firewall will, from now on, protect you from DDoS attacks."
+msgstr "Vocẽ pode usar seu firewall para mitigar ataques DDoS. Seu firewall vai, daqui pra frente, proteger você desses ataques."
+
+msgid "That's only it. There is nothing you need to do. Your firewall is now automatically protecting you."
+msgstr "É só isso. Você não precisa fazer nada. Seu firewall está protegendo você automaticamente agora."
+
+msgid "Hint: higher your firewall version, better the DDoS mitigation."
+msgstr "Dica: quanto maior a versão do seu firewall, melhor o nível de mitigação."
+
+msgid "That's all, folks"
+msgstr "Isso é tudo, pessoal"
+
+msgid "Research softwares"
+msgstr "Desenvolver softwares"
+
+msgid "Certifications"
+msgstr "Certificações"
+
+msgid "Ops! There are no software running in your system. <br/>Go to the <a href=\"software\">software</a> page to run them."
+msgstr "Ops! Não há softwares rodando no seu sistema. <br/>Vá para a <a href=\"software\">página de softwares</a> para rodá-los."
+
+msgid "Ops! You do not have any software licensed to you.<br/><br/>Access the software information and buy it's license."
+msgstr "Ops! Não há nenhum software licenciado para você.<br/><br/>Acesse a informação do software e compre uma licença."
+
+msgid "Research stats"
+msgstr "Estatísticas"
+
+msgid "Total money spent on research"
+msgstr "Total investido em desenvolvimento"
+
+msgid "Total softwares researched"
+msgstr "Total de softwares desenvolvidos"
+
+msgid "Your research rank"
+msgstr "Seu ranking de pesquisa"
+
+msgid "You do not have enough money to buy this license."
+msgstr "Você não tem dinheiro suficiente para comprar essa licença."
+
+msgid "Buy license of the software "
+msgstr "Comprar licença do software "
+
+msgid " for "
+msgstr " por "
+
+msgid "What software would you like to research?"
+msgstr "Qual software você gostaria de desenvolver?"
+
+msgid "Please select a software..."
+msgstr "Por favor selecione um software..."
+
+msgid "Insufficient money"
+msgstr "Dinheiro insuficiente"
+
+msgid "Research..."
+msgstr "Desenvolver..."
+
+msgid "Research "
+msgstr "Desenvolver "
+
+msgid " from version "
+msgstr " da versão "
+
+msgid " to "
+msgstr " para "
+
+msgid "Research software "
+msgstr "Desenvolver software "
+
+msgid "General"
+msgstr "Geral"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Money you spent on research"
+msgstr "Dinheiro que você gastou em desenvolvimento"
+
+msgid "Cost to upgrade to "
+msgstr "Custo para "
+
+msgid "Software Rank"
+msgstr "Rank de Software"
+
+msgid "Delete old version"
+msgstr "Deletar versão antiga"
+
+msgid "Research specs"
+msgstr "Especificações"
+
+msgid "Research for $"
+msgstr "Desenvolver por $"
+
+msgid " minutes"
+msgstr " minutos"
+
+msgid "Not ranked"
+msgstr "Sem ranking"
+
+msgid "Choose a software..."
+msgstr "Escolha um software..."
+
+msgid "Need more softwares? You might want to take a look at the "
+msgstr "Precisando de mais softwares? Você pode querer dar uma olhada no "
+
+msgid "Download Center"
+msgstr "Centro de Downloads"
+
+msgid "Download more softwares."
+msgstr "Faça download de mais softwares."
+
+msgid "Puzzle Campaign!"
+msgstr "Início dos enigmas!"
+
+msgid "So you are new here, uh? A good place to start is the First Puzzle located at "
+msgstr "Então você é novo por aqui? Um bom lugar pra começar é o Primeiro Enigma localizado em "
+
+msgid "Hey, looks like you are using AdBlock. <br/>We hate ads too, and we totally support your right to not be tracked! However, ads keep this game free.<br/> Please, consider disabling AdBlock for this site or purchasing a %spremium account</a> to get rid of them.<br/>"
+msgstr "Hey, parece que você está usando AdBlock. <br/>Nós odiamos propagandas também, e completamente apoiamos seu direito de não ser rastreado! Entretanto, propagandas mantêm esse jogo gratuito.<br/>Por favor, considere desativar o AdBlock para esse site ou comprar uma %sconta premium</a> para se livrar das propagandas."
+
+msgid "Edit web server"
+msgstr "Editar servidor web"
+
+msgid "Reset password"
+msgstr "Resetar senha"
+
+msgid "Reset IP"
+msgstr "Resetar IP"
+
+msgid "Analyze "
+msgstr "Analisar "
+
+msgid "Delete from external HD "
+msgstr "Deletar do HD externo "
+
+msgid "Download from external HD "
+msgstr "Baixar do HD externo "
+
+msgid "Upload to external HD "
+msgstr "Enviar para o HD externo "
+
+msgid "Exploit "
+msgstr "Exploitar "
+
+msgid "Uninstall "
+msgstr "Desinstalar "
+
+msgid "Install "
+msgstr "Instalar "
+
+msgid "Crack server"
+msgstr "Invadir servidor"
+
+msgid "Crack bank account"
+msgstr "Invadir conta bancária"
+
+msgid "Edit log"
+msgstr "Editar log"
+
+msgid "Run Antivirus"
+msgstr "Rodar Antivírus"
+
+msgid "Seek"
+msgstr "Encontrar"
+
+msgid " at "
+msgstr " em "
+
+msgid "at "
+msgstr "em "
+
+msgid " file "
+msgstr " arquivo "
+
+msgid "Doom the Internet using "
+msgstr "Atacar a Internet usando "
+
+msgid " using "
+msgstr " usando "
+
+msgid "Install unknown file at "
+msgstr "Instalar arquivo desconhecido em "
+
+msgid "DDoS attack against "
+msgstr "Ataque DDoS contra "
+
+msgid "Paused"
+msgstr "Pausado"
+
+msgid "Complete"
+msgstr "Completar"
+
+msgid "No process found"
+msgstr "Nenhum processo encontrado"
+
+msgid "%s's files"
+msgstr "Arquivos de %s"
+
+msgid "My files"
+msgstr "Meus arquivos"
+
+msgid "My tasks"
+msgstr "Minhas tarefas"
+
+msgid "The installed doom virus requires at least 500 MB of free disk space."
+msgstr "O vírus doom instalado requer pelo menos 500 MB de espaço em disco disponível."
+
+msgid "<strong>Attention!</strong> By playing Hacker Experience you consent with the following terms, so read them carefully!"
+msgstr "<strong>Atenção!</strong> Ao jogar Hacker Experience você consente com os seguintes termos, então leia-os com cuidado!"
+
+msgid "Terms of service"
+msgstr "Termos de serviço"
+
+msgid "Open in a new tab"
+msgstr "Abrir em nova aba"
+
+msgid "Report"
+msgstr "Relatar"
+
+msgid "Report a bug"
+msgstr "Relatar um bug"
+
+msgid "Please explain in details what happened. In which page were you? Which action were you doing? Is it possible to reproduce the bug? Thanks!"
+msgstr "Por favor explique em detalhes o que aconteceu. Em que página você estava? O que você estava fazendo? É possível reproduzir o bug? Obrigado!"
+
+msgid "Contact me with bug information"
+msgstr "Entre em contato comigo com informações sobre o bug"
+
+msgid "Not a member"
+msgstr "Não é um membro"
+
+msgid "Edit log file"
+msgstr "Editar Log de Dados"
+
+msgid "Log file"
+msgstr "Log de dados"
+
+msgid "You are not a member of any clan yet"
+msgstr "Você não é membro de nenhum clan ainda."
+
+msgid "<strong>Warning! </strong>You are currently logged to "
+msgstr "<strong>Aviso! </strong>Você está atualmente logado em "
+
+msgid "Would you like to %slog out%s?"
+msgstr "Deseja %sdesconectar-se%s?"
+
+msgid "Only public information is logged!"
+msgstr "Somente informação pública é logada!"
+
+msgid "Buy Bitcoins"
+msgstr "Comprar Bitcoins"
+
+msgid "Sell Bitcoins"
+msgstr "Vender Bitcoins"
+
+msgid "Transfer Bitcoins"
+msgstr "Transferir Bitcoins"
+
+msgid "No fees!"
+msgstr "Sem taxas!"
+
+msgid "Anonymous login"
+msgstr "Login anônimo"
+
+msgid "Private Key"
+msgstr "Chave Privada"
+
+msgid "Log out"
+msgstr "Sair"
+
+msgid "Wallet Overview"
+msgstr "Informações da Carteira"
+
+msgid "Wallet Login"
+msgstr "Acessar Carteira"
+
+msgid "You can reset your IP <b>for free</b>!"
+msgstr "Você pode resetar seu IP <b>de graça</b>!"
+
+msgid "You can wait %s for your next free reset or pay %s for our charged IP reset service.<br/>"
+msgstr "Você pode esperar %s para seu próximo alteração gratuita ou pagar %s para utilizar nosso serviço de reset instantâneo."
+
+msgid "Oops! You do not have enough money to buy an IP reset."
+msgstr "Oops! Você não tem dinheiro suficiente para comprar um reset instantâneo."
+
+msgid "Finished"
+msgstr "Finalizado"
+
+msgid "<strong>You already solved this riddle. The next IP is "
+msgstr "<strong>Você já resolveu esse enigma. O próximo IP é "
+
+msgid "You already solved more advanced puzzles. Your current puzzle is located at "
+msgstr "Você já resolveu enigmas mais avançados. Seu enigma atual está localizado em "
+
+msgid "Puzzle"
+msgstr "Enigma"
+
+msgid "The next puzzle is located at "
+msgstr "O próximo enigma está localizado em "
+
+msgid "Congratulations, you already solved this puzzle with the answer "
+msgstr "Parabéns, você já resolveu esse enigma com a resposta "
+
+msgid "Submit answer"
+msgstr "Enviar resposta"
+
+msgid "Note:"
+msgstr "Observação:"
+
+msgid "Question & Answer"
+msgstr "Pergunta & Resposta"
+
+msgid "Invalid characteres on your answer "
+msgstr "Caracteres inválidos na sua resposta "
+
+msgid "Please insert an answer."
+msgstr "Por favor insira uma resposta."
+
+msgid "is the correct answer!<br/><br/>The next puzzle is located at "
+msgstr "é a resposta correta!<br/><br/>O próximo enigma está em "
+
+msgid "Please use only azAZ09 ,."
+msgstr "Por favor use somente azAZ09 ,."
+
+msgid "But hey, your answer is *close* "
+msgstr "Mas olha, sua resposta está *perto* "
+
+msgid "to the actual answer =]"
+msgstr "para a resposta correta =]"
+
+msgid "is close enough to the correct answer!<br/><br/>The next puzzle is located at "
+msgstr "é perto o suficiente da resposta correta!<br/><br/>O próximo enigma está em "
+
+msgid "<br/>You only need to change (add or remove or edit) %s characters..."
+msgstr "<br/>Você só precisa alterar (adicionar ou remover ou edit) %s letras..."
+
+msgid " is wrong :("
+msgstr " está errado :("
+
+msgid "Damn!"
+msgstr "Droga!"
+
+msgid "Solve the puzzle"
+msgstr "Resolva o enigma"
+
+msgid "SOLVED!"
+msgstr "RESOLVIDO!"
+
+msgid "players solved this riddle"
+msgstr "jogadores resolveram esse enigma"
+
+msgid " players are stuck here"
+msgstr " jogadores estão presos aqui"
+
+msgid " players did not start the riddle yet"
+msgstr " jogadores não começaram os enigmas ainda"
+
+msgid " players are below this point"
+msgstr " jogadores estão abaixo desse ponto"
+
+msgid "Back to Software"
+msgstr "Voltar para Software"
+
+msgid "was developed by"
+msgstr "foi desenvolvido por"
+
+msgid "Congratulations, you solved the riddle. The next IP is "
+msgstr "Parabéns, você resolveu o enigma. O próximo IP é "
+
+msgid "WIN!"
+msgstr "VITÓRIA!"
+
+msgid "Hint!"
+msgstr "Dica!"
+
+msgid "You lose"
+msgstr "Você perdeu"
+
+msgid "Tie "
+msgstr "Velha"
+
+msgid "You do not have enough disk space to download this software."
+msgstr "Você não tem espaço em disco suficiente para baixar esse software."
+
+msgid "You do not have free RAM enough to run this software."
+msgstr "Você não tem memória disponível suficiente para rodar esse software."
+
+msgid "Reset "
+msgstr "Alterar "
+
+msgid "for $"
+msgstr "por $"
+
+msgid "free "
+msgstr "de graça"
+
+msgid "Ops. You still havent collected :("
+msgstr "Ops. Você não coletou nenhuma vez :("
+
+msgid "Bruteforce attack"
+msgstr "Ataque força-bruta"
+
+msgid "Exploit attack"
+msgstr "Ataque exploit"
+
+msgid "No exploits."
+msgstr "Sem exploits."
+
+msgid "No Port Scan."
+msgstr "Sem Port Scan."
+
+msgid "No certification."
+msgstr "Sem certificação."
+
+msgid "No Cracker."
+msgstr "Sem Cracker."
+
+msgid "Choose your attack method:"
+msgstr "Escolha seu método de ataque:"
+
+msgid "Statistics"
+msgstr "Estatísticas"
+
+msgid "Puzzle Status"
+msgstr "Status do Enigma"
+
+msgid "Answer"
+msgstr "Resposta"
+
+msgid "This folder is empty. Use the sidebar to move files."
+msgstr "Essa pasta está vazia. Use a barra lateral para mover arquivos."
+
+msgid "You do not have permission to move softwares to this folder."
+msgstr "Você não tem permissões para mover softwares para essa pasta."
+
+msgid "Move..."
+msgstr "Mover..."
+
+msgid "There is no need to worry! This is a simulation game that takes place at a virtual world."
+msgstr "Não há motivos para se preocupar! Esse é um jogo de simulação que acontece num mundo virtual."
+
+msgid "By the way, no download is needed. You will play the whole time using your browser."
+msgstr "Aliás, nenhum download é necessário. Você pode jogar o jogo usando apenas o seu navegador."
+
+msgid "No! The whole game is virtual, you will be hacking \"made up\" servers from others players. You also won't learn how to hack in real life. No technical knowledge is needed in order to play the game."
+msgstr "Não! O jogo inteiro é virtual, você estará invadindo servidores \"de mentira\" de outras pessoas. Você também não vai aprender como invadir na vida real. Nenhum conhecimento técnico é necessário para poder jogar Hacker Experience."
+
+msgid "You don't actually kill anyone when playing Grand Theft Auto, right?"
+msgstr "Você não mata ninguém de verdade quando joga GTA, certo?"
+
+msgid "You don't! The whole game can be played through your browser, whether you are using a PC with Linux, Windows, Mac, tablet or mobile phone."
+msgstr "Você não faz! O jogo todo pode ser jogado pelo seu navegador, independente se você está usando um computador com Linux, Windows, Mac, tablet ou celular."
+
+msgid "Oh yeah. You can play the whole game, <strong>with all features</strong>, for free."
+msgstr "Com certeza. Você tem acesso ao jogo inteiro, <strong>com todos os recursos</strong>, de graça."
+
+msgid "The only reason we can offer Hacker Experience for free is because of the non-intrusive ads we show in the game."
+msgstr "O único motivo pelo qual nós podemos oferecer Hacker Experience de graça para você é por causa das propagandas não-intrusivas que são exibidas no jogo."
+
+msgid "The user can opt for a premium account to get rid of the ads and help us directly. This is not a \"pay to win\" game, though. Premium users have no tactical advantages over basic accounts."
+msgstr "O usuário pode optar por uma conta premium para se livrar das propagandas e nos ajudar diretamente. Entretanto, esse não é um jogo \"pague pra vencer\". Usuários premium não têm nenhum tipo de vantagem tática sobre contas básicas."
+
+msgid "Process paused."
+msgstr "Processo pausado."
+
+msgid "Process resumed."
+msgstr "Processo resumido."
+
+msgid "404 - Page not found"
+msgstr "404 - Página não encontrada"
+
+msgid "This ip does not exists."
+msgstr "Esse IP não existe."
+
+msgid "Back to First Whois"
+msgstr "Voltar para o Primeiro Whois"
+
+msgid "FTP Exploit"
+msgstr "Exploit FTP"
+
+msgid "SSH Exploit"
+msgstr "Exploit SSH"
+
+msgid "Download Center doesnt record logs."
+msgstr "O Centro de Downloads não armazena logs."
+
+msgid "Cant delete softwares on victim because you are much stronger than her."
+msgstr "Não é possível deletar softwares na vítima porque você é muito mais forte que ela."
+
+msgid "Next software reset"
+msgstr "Reset de software"
+
+msgid "Next hardware reset"
+msgstr "Reset de hardware"

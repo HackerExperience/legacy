@@ -1,0 +1,40 @@
+# 2019: The log-analytics import are not necessary. Backup not necessary (but recommended)
+# 2019: The rest of the scripts are needed for smooth operations of the game
+
+00 * * * * /usr/bin/env python /var/www/cron2/updateCurStats.py >> /var/log/game/cron.log 2>&1
+00 * * * * /usr/bin/env python /var/www/cron2/updateRanking.py >> /var/log/game/cron.log 2>&1
+00 * * * * /usr/bin/env python /var/www/python/rank_generator.py >> /valog/game/cron.log 2>&1
+
+#00 * * * * 			/bin/sh		 	/var/www/cron2/updateStatsAndRanking.sh		>> /var/log/game/cron.log 2>&1
+05,20,35,50 * * * * 		/usr/bin/env python 	/var/www/cron2/removeExpiredLogins.py		>> /var/log/game/cron.log 2>&1
+05,15,25,35,45,55 * * * * 	/usr/local/bin/php	/var/www/cron/defcon2.php			>> /var/log/game/cron.log 2>&1
+05,15,25,35,45,55 * * * *	/usr/local/bin/php	/var/www/cron/endWar2.php			>> /var/log/game/cron.log 2>&1
+40 * * * * 			/usr/bin/env python 	/var/www/cron2/removeExpiredHTMLPages.py 	>> /var/log/game/cron.log 2>&1
+10 */3 * * *			/usr/bin/env python 	/var/www/cron2/antivirusNPC.py	 		>> /var/log/game/cron.log 2>&1
+*/15 * * * * 			/usr/bin/env python 	/var/www/cron2/restoreNPC.py			>> /var/log/game/cron.log 2>&1
+12 * * * * 			/usr/bin/env python 	/var/www/python/query_counter.py 500		>> /var/log/game/cron.log 2>&1
+*/15 * * * *			/usr/local/bin/php	/var/www/cron/generateMissions.php		>> /var/log/game/cron.log 2>&1
+*/30 * * * *			/usr/local/bin/php	/var/www/cron/safenetUpdate.php			>> /var/log/game/cron.log 2>&1
+* * * * *			/usr/local/bin/php	/var/www/cron/doomUpdater.php			>> /var/log/game/cron.log 2>&1
+* * * * *			/usr/bin/env python	/var/www/cron2/newRoundUpdater.py		>> /var/log/game/cron.log 2>&1
+09 * * * *			/usr/bin/env python	/var/www/cron2/removeExpiredAccs.py		>> /var/log/game/cron.log 2>&1
+19 * * * *			/usr/bin/env python	/var/www/cron2/removeExpiredNPC.py		>> /var/log/game/cron.log 2>&1
+09 * * * *			/usr/bin/env python	/var/www/cron2/removeExpiredPremium.py		>> /var/log/game/cron.log 2>&1
+10 * * * *			/usr/local/bin/php 	/var/www/cron/updateServerStats.php		>> /var/log/game/cron.log 2>&1
+19,49 * * * *			/usr/bin/env python	/var/www/python/badge_hunter.py			>> /var/log/game/cron.log 2>&1
+19 * * * *			/usr/bin/env python	/var/www/python/badge_hunter_all.py		>> /var/log/game/cron.log 2>&1
+02 * * * *			/usr/bin/env python	/var/www/cron2/removeDownNPC.py 		>> /var/log/game/cron.log 2>&1
+*/5 * * * *			/usr/bin/env python	/var/www/cron2/fbiUpdate.py      		>> /var/log/game/cron.log 2>&1
+29 * * * *			/usr/local/bin/php	/var/www/cron/backup_game.php			>> /var/log/game/cron.log 2>&1
+29 21,02,08,14 * * *            /usr/local/bin/php	/var/www/cron/backup_forum.php			>> /var/log/game/cron.log 2>&1
+
+
+
+#* * * * * /usr/bin/env python /opt/piwik/misc/log-analytics/import_logs.py --url=http://piwik.hackerexperience.com/ --idsite=1 --log-format-name=nginx_json --token-auth=REDACTED /var/log/nginx/access.log --enable-http-errors --enable-http-redirects --enable-static --recorders=8 >> /var/log/remote/main.log 2>&1; cat /dev/null > /var/log/nginx/access.log
+
+*/5 * * * * /usr/bin/env python /opt/piwik/misc/log-analytics/import_logs.py --url=http://piwik.hackerexperience.com/ --idsite=2 --log-format-name=nginx_json --token-auth=REDACTED /var/log/nginx/access_wiki.log --enable-http-errors --enable-http-redirects --enable-static --recorders=8 >> /var/log/remote/wiki.log 2>&1; cat /dev/null > /var/log/nginx/access_wiki.log
+
+*/5 * * * * /usr/bin/env python /opt/piwik/misc/log-analytics/import_logs.py --url=http://piwik.hackerexperience.com/ --idsite=3 --log-format-name=nginx_json --token-auth=REDACTED /var/log/nginx/access_forum.log --enable-http-errors --enable-http-redirects --enable-static --recorders=8 >> /var/log/remote/forum.log 2>&1; cat /dev/null > /var/log/nginx/access_forum.log
+
+#40 4 * * * cat /dev/null > /var/log/remote/main.log > /var/log/remote/forum.log > /var/log/remote/wiki.log
+

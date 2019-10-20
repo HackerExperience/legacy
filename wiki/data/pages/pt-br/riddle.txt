@@ -1,0 +1,15 @@
+**Enigma**, ou riddle, é um pequeno desafio ou mini-game. Exemplos de enigmas dentro do jogo são: Jogo da velha, 2048, Lights Out, questões de lógica, questões de matemática.
+
+====== Trilha de Enigmas ======
+Começando no Primeiro Enigma localizado no Primeiro Whois, todo servidor terá um enigma que pode ser encontrado no arquivo [[pt-br:softwares#enigmaexe|enigma.exe]], onde o jogador será desafiado.
+
+No momento que o usuário acertar a pergunta, ou completar o mini-enigma-jogo, um novo IP é descoberto. Essa é a localização do próximo enigma, gradualmente mais difícil que o anterior e com softwares gradualmente melhores.
+
+====== Convergência ======
+Engimas convergem para o próximo Whois em que eles estão localizados.
+
+Então, por exemplo, o Primeiro Enigma irá levar a outros enigmas que irão, gradualmente, levar ao Primeiro Whois.
+
+Cada Whois também tem um enigma apontando para o próximo Whois.
+
+Uma vez no próximo Whois, você deverá encontrar o primeiro puzzle dentro desse Whois. Ele estará listado lá (espero).

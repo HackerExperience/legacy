@@ -1,0 +1,40 @@
+**Clans** are groups of players organized into teams. Every clan have //one// server, refereed as //Clan Server//.
+
+====== Clan Power ======
+
+So far, the only way to increase clan power is by attacking (DDoS'ing) other servers.
+
+The amount of power earned by each attack depends of the DDoS power and who the victim is.
+
+Victim multiplier:
+
+    * Clan Server OR player with clan and on war against yours - x4
+    * Player with clan, but not at war with yours - x3
+    * Player without clan - x2
+    * NPCs - x1
+
+====== Clan Wars ======
+
+===== Starting a Clan War =====
+
+To start a clan war, one of the followings must happen:
+
+    * Two (or more) members of clan A attacked one (or more) member of clan B and at least one member of clan B retaliated the attack in any member of clan A.
+    * One member of clan A attacked two (or more) members of clan B and at least one member of clan B retaliated the attack in any member of clan A.
+
+**Notes**:
+
+    * Above mentions of clan member include the clan server.
+    * Attacks older than 3 days are deleted, so the above conditions must happen in a window of 72 hours.
+
+===== Finishing a Clan War ======
+
+There is no way to manually end a clan war. 
+
+Every clan war have an initial duration of 2 days (48 hours), and 1 hour is added to the duration after every following attacks.
+
+===== Bounty & Score =====
+
+Every clan war starts with empty score for both teams, //regardless of previous attack that started the war//. 
+
+After every attack, an amount of bounty and score will be summed to the current values. This amount depends of how powerful the DDoS attack was.

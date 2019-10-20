@@ -1,0 +1,55 @@
+2019: Not sure how accurate this file is.
+
+1 - bank
+2 - whois
+@@4 - hirer/company (deprecated -> redirect to 71/72/73)
+5 - ISP
+6 - ordinary
+7 - puzzle (acho que puzzle = ordinary, mas não custa nada separar)
+8 - download center
+10 - clan server
+
+20 - md
+30 - Evil Corp
+40 - bitcoin market
+45 - torrent market
+
+50 - safenet
+51 - FBI
+52 - NSA
+
+@@Deprecated
+@@61 - whois level 1
+@@62 - whois level 2
+@@63 - whois level 3
+
+71 - hirer level 1
+72 - hirer level 2
+73 - hirer level 3
+
+80 - tutorial
+
+99 - bot
+
+NPC ids on News / Email:
+
+0 = Unknown
+-1 = Doom hirer / bad company / evil corp
+-2 = FBI
+    type 1: added to fbi suspect list
+    type 2: bounty increased
+    type 3: received reward for seizeing fbi suspect (TODO)
+-3 = Safenet
+-4 = Social Clan (Clan member request / clan member accepted / clan member kicked)
+    type 1: clan request sent
+    type 2: clan request accepted
+    type 3: clan request denied
+    type 4: user kicked
+    type 5: player left clan
+-5 = Clan news (Clan war started / Clan war finished)
+    type 0: war started
+    type 1: war finished
+-6 = Social (Friend request received / Friend request accepted)
+    type 1: friend request sent
+-7 = Badge Advisor (badge earned)
+-8 = Game System

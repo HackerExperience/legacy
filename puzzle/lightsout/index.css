@@ -1,0 +1,50 @@
+#hidden-cheat {
+  text-decoration: none;
+  color: black;
+}
+
+.switch {
+  width: 36px;
+  height: 36px;
+  display: inline-block;
+  border-radius: 5px;
+  margin: 0 2px 0 2px;
+  -webkit-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  transition: all .1s ease-out;
+}
+
+.switch:hover {
+  opacity: 0.8;
+}
+
+.switch-on {
+  background-color: rgb(77, 172, 230);
+}
+
+.switch-off {
+  background-color: rgb(223, 223, 223);
+}
+
+.switch-done {
+  transition: all .3s ease-out;
+  background-color: lightgreen;
+}
+
+.switch-enter {
+  opacity: 0.01;
+  -webkit-transform: scale(.5);
+  -moz-transform: scale(.5);
+  -ms-transform: scale(.5);
+  transform: scale(.5);
+  transition: all .3s ease-out;
+}
+
+.switch-enter.switch-enter-active {
+  opacity: 1;
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
